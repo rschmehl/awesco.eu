@@ -5,15 +5,15 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Academic"
+title = "AWESCO - Airborne Wind Energy System Modelling, Control and Optimisation"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "http://awesco-new.tudelft.nl/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = ""
+copyright = "<img src='/img/EU_logo.svg' alt='EU logo' width='80' align='left'/><span style='margin-left:100px;display:table;text-align:left'>This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No <a href='https://cordis.europa.eu/project/rcn/193938/en' target='_blank'>642682</a>.</span><br><span style='margin-left:100px;display:table;text-align:left'>&copy; AWESCO {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
@@ -35,7 +35,6 @@ enableGitInfo = false
 defaultContentLanguage = "en"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
-removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
 
 paginate = 10  # Number of items per page in paginated lists.
 enableEmoji = true
@@ -52,6 +51,8 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   hrefTargetBlank = true  # `true` opens external links in a new tab. See https://github.com/gohugoio/hugo/issues/2424
 	angledQuotes = false
 	latexDashes = true
+  fractions = false # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
+  smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
   extensions = ["backslashLineBreak"]
 
 [imaging]

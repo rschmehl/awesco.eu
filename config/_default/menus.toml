@@ -5,12 +5,12 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = ""
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "News"
+  url = "#news"
   weight = 20
 
 [[main]]
@@ -19,14 +19,44 @@
   weight = 30
 
 [[main]]
+  name = "People"
+  url = "#people"
+  weight = 35
+
+[[main]]
   name = "Publications"
-  url = "#featured"
+  url = "#publications"
   weight = 40
+
+[[main]]
+  name = "Software"
+  url = "#software"
+  weight = 50
+
+[[main]]
+  name = "Data"
+  url = "#data"
+  weight = 55
 
 [[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
+
+[[main]]
+  name = "Wiki(Login)"
+  url = "http://www.awesco.eu/wiki"
+  weight = 70
+
+[[main]]
+  name = "<i class='ai ai-researchgate' style='font-size: 1.1rem'></i>"
+  url = "https://www.researchgate.net/project/AWESCO-Airborne-Wind-Energy-System-Modelling-Control-and-Optimisation"
+  weight = 90
+
+[[main]]
+  name = "<i class='fab fa-linkedin-in'></i>"
+  url = "https://www.linkedin.com/groups/8277365/"
+  weight = 95
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

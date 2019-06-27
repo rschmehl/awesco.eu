@@ -1,0 +1,21 @@
+/* Bottom align navigation bar with logo */
+.navbar-collapse {
+  margin-bottom: -27px;
+}
+
+/* Styling of icon in CTA button */
+.wg-hero.dark .btn {
+    line-height: 1.5;
+}
+.wg-hero.dark .btn .fa-info-circle {
+    position: relative;
+    top: 2px;
+    color: #00a6d7;
+    font-size: 1.5rem;
+}
+
+/* Change fancybox width setting */
+a[data-fancybox] img {
+  height: unset;
+  max-width: 100%;
+}
