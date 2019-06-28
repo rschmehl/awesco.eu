@@ -22,46 +22,44 @@ image:
   preview_only: false
 
 gallery_item:
-- album: AWECs
+- album: AWEC
   image: awec2010_stanford.jpg
   weight: 1
-  caption: 2nd Airborne Wind Energy Conference, Stanford University, CA, USA
-- album: AWECs
+  caption: 2nd Airborne Wind Energy Conference, Stanford University, CA, USA, 2010
+- album: AWEC
   image: awec2011_leuven.jpg
   weight: 2
-  caption: 3rd Airborne Wind Energy Conference, Leuven, Belgium
-- album: AWECs
+  caption: 3rd Airborne Wind Energy Conference, Leuven, Belgium, 2011
+- album: AWEC
   image: awec2013_berlin.jpg
   weight: 3
-  caption: 5th Airborne Wind Energy Conference, Berlin, Germany
-- album: AWECs
+  caption: 5th Airborne Wind Energy Conference, Berlin, Germany, 2013
+- album: AWEC
   image: awec2015_delft.jpg
   weight: 4
-  caption: 6th Airborne Wind Energy Conference, Delft, The Netherlands
-- album: AWECs
+  caption: 6th Airborne Wind Energy Conference, Delft, The Netherlands, 2015
+- album: AWEC
   image: awec2017_freiburg.jpg
   weight: 5
-  caption: 7th Airborne Wind Energy Conference, Freiburg, Germany
+  caption: 7th Airborne Wind Energy Conference, Freiburg, Germany, 2017
 
-gallery_item:
-- album: BoAs
-  image: 1-awec2011cover.jpg
+- album: BoA
+  image: 1-BoA-2011.jpg
   weight: 1
-  caption: Book
-- album: BoAs
-  image: 2-awec2013cover.jpg
+  caption: Book of Abstract of the Airborne Wind Energy Conference 2011 in Leuven, Belgium
+- album: BoA
+  image: 2-BoA-2013.jpg
   weight: 2
-  caption: Book of Abstracts, 5th Airborne Wind Energy Conference, Berlin, Germany
-- album: BoAs
-  image: 3-awec2015cover.jpg
+  caption: Book of Abstract of the Airborne Wind Energy Conference 2013 in Berlin, Germany
+- album: BoA
+  image: 3-BoA-2015.jpg
   weight: 3
-  caption: Book of Abstracts, 6th Airborne Wind Energy Conference, Delft, The Netherlands
-- album: BoAs
-  image: 4-awec2017cover.jpg
+  caption: Book of Abstract of the Airborne Wind Energy Conference 2013 in Delft, The Netherlands
+- album: BoA
+  image: 4-BoA-2017.jpg
   weight: 4
-  caption: Book of Abstracts, 7th Airborne Wind Energy Conference, Freiburg, Germany
+  caption: Book of Abstract of the Airborne Wind Energy Conference 2017 in Freiburg, Germany
 
-gallery_item:
 - album: Makani
   image: 1-makani.jpg
   weight: 1
@@ -83,18 +81,17 @@ gallery_item:
   weight: 5
   caption: Installation of a new ground station at Parker Ranch on Hawaii (2018)
 
-  gallery_item:
 - album: Ampyx
   image: 1-ampyx.jpg
   weight: 1
   caption: Ampyx AP-2 in operation
 - album: Ampyx
   image: 2-ampyx.jpg
-  weight: 1
+  weight: 2
   caption: Ampyx AP-2 in operation
 - album: Ampyx
   image: 3-ampyx.jpg
-  weight: 2
+  weight: 3
   caption: Ampyx AP-3 rendering
 
 # Projects (optional).
@@ -171,11 +168,12 @@ With the H2020 ITN doctoral training network [AWESCO](https://cordis.europa.eu/p
 
 The substantial growth of the R&D community in 2008 also intensified the need for an international platform to share and exchange results and results, to network and explore opportunities for collaboration. Accordingly, the first Airborne Wind Energy Conference (AWEC) was held in Chico, California, in 2009. Although this event was more a symposium than an international conference, it marked the starting point for a regular get-together of the international AWE community. The following group photos were taken at the AWEC's in Stanford (2010), Leuven (2011), [Hampton (2012)](http://www.awec2012.com/), Berlin (2013), [Delft (2015)](http://www.awec2015.com) and [Freiburg (2017)](http://www.awec207.com), with the two most recent events attracting each more than 200 participants.
 
-{{< gallery album="AWECs" height="85px" >}}
+{{< gallery album="AWEC" height="85px" >}}
 
 Starting with the conference in Leuven, accepted abstracts have also been published in illustrated books of abstracts. The covers of these booklets, that are available free of charge online from the [institutional repository](https://repository.tudelft.nl/islandora/search/AWEC?f%5B0%5D=mods_genre_s%3A%22conference%22) of TU Delft, are shown in the following.
 
-{{< gallery album="BoAs" height="130px" >}}
+
+{{< gallery album="BoA" height="130px" >}}
 
 The complete bibliographic information is listed on the [website](https://awec2019.com/book-of-abstracts-series) of the AWEC 2019, which will be held in Glasgow from 15-16 October. Presentations at the conferences in Delft and Freiburg were video-recorded and deposited online together with the posters. As a result, the two conference websites present rather complete snapshots of the technology development status in 2015 and 2017.
 
@@ -186,6 +184,11 @@ was that “the technology is still immature, and that it remains unclear whethe
 It is interesting to note that AWE developed essentially in parallel to classical wind energy, with only little interaction between the two fields. While wind turbines are becoming the leading source of new renewable energy capacity in Europe, the US and Canada, with global installed power expanding from 17.4 GW in 2000 to 591 GW in 2018, the R&D activities in AWE have been carried by a vibrant startup community with many commonalities and strong ties to the unmanned aerial vehicle (UAV) sector. First collaborations started to emerge after the research group of TU Delft was integrated into the section of Wind Energy in 2014 and Fort Felker, a former director of the [National Wind Technology Center](https://www.nrel.gov/nwtc/) of NREL, started as CEO of Makani / X in 2015. The Airborne Wind Energy Conferences 2015 and 2017 have experienced increasing interest also from the wind energy community and, vice versa, also wind energy conferences are increasingly visited by the AWE community. For example, at the Wind Energy Science Conference (WESC) 2019 in Cork, at least 18 presentations were about AWE. During this conference, the European Academy of Wind Energy (EAWE) established a [Airborne Wind Energy Committee](https://eawe.eu/organisation/committees/) to represent the academic community in Europe.
 
 ## Presently pursued concepts
+
+The presently pursued AWE technologies can be classified according to the following scheme.[^19]
+[^19]: Watson et al: "“Future emerging technologies in the wind power sector: a European perspective". Renewable and Sustainable Energy Reviews (under review), 2019.
+
+{{< figure_gallery src="classification-block-diagram.svg" title="All the different concepts." numbered="true" >}}
 
 Makani
 
@@ -202,5 +205,3 @@ Kitepower
 Others: Windswept, Kitemill, Twingtec, Enerkite
 
 {{< gallery album="Others" height="85px" >}}
-
-{{< figure_gallery src="classification-block-diagram.svg" title="All the different concepts." numbered="true" >}}
