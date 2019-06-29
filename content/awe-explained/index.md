@@ -177,20 +177,30 @@ Starting with the conference in Leuven, accepted abstracts have also been publis
 
 The complete bibliographic information is listed on the [website](https://awec2019.com/book-of-abstracts-series) of the AWEC 2019, which will be held in Glasgow from 15-16 October. Presentations at the conferences in Delft and Freiburg were video-recorded and deposited online together with the posters. As a result, the two conference websites present rather complete snapshots of the technology development status in 2015 and 2017.
 
-Following several years of systematic support of the technology development, the European Union commissioned a study on the challenges in the commercialization of AWE systems to a consortium lead by Dutch consultancy company [Ecorys](https://www.ecorys.com). A stakeholder workshop at the EU headquarters in Brussels was held in July 2018 and a key conclusion of the final report[^18]
-[^18]: Karel van Hussen et al: "Study on Challenges in the Commercialisation of Airborne Wind Energy Systems". ECORYS Report PP-05081-2016, Brussels, September 2018. {{< doi_button doi="10.2777/87591" >}}
+It was also the AWEC 2011 in Leuven, at which a petition to the European Parliament and the European Commissioners for better support of the technology was signed by 76 developers.[^18]
+[^18]: Wubbo Ockels et al: Petition letter to the members of the European Parliament and the European Commissioners. Leuven, 2 December 2011. {{< pdf_button url="Petition2011.pdf" >}}
+Following several years of systematic support of the technology development, the European Union commissioned a study on the challenges in the commercialization of AWE systems to a consortium lead by Dutch consultancy company [Ecorys](https://www.ecorys.com). A stakeholder workshop at the EU headquarters in Brussels was held in July 2018 and a key conclusion of the final report[^19]
+[^19]: Karel van Hussen et al: "Study on Challenges in the Commercialisation of Airborne Wind Energy Systems". ECORYS Report PP-05081-2016, Brussels, September 2018. {{< doi_button doi="10.2777/87591" >}}
 was that “the technology is still immature, and that it remains unclear whether the technology can ultimately reach cost-competitiveness”. As an important action the assessment team recommended to prove continuous operation of AWE systems and to deepen the insight into the resource potential and complementarity. [Airborne Wind Europe](http://www.airbornewindeurope.org/) was founded in 2018 as an association of European AWE industry and academia, with the objective to coordinate the commercial development activities and to establish joint working groups on important collaborative topics, such as safety and technical guidelines, airspace regulation, environmental impact and a sector-wide technology development roadmap. Regular meetings of the working groups have started in 2019.
 
 It is interesting to note that AWE developed essentially in parallel to classical wind energy, with only little interaction between the two fields. While wind turbines are becoming the leading source of new renewable energy capacity in Europe, the US and Canada, with global installed power expanding from 17.4 GW in 2000 to 591 GW in 2018, the R&D activities in AWE have been carried by a vibrant startup community with many commonalities and strong ties to the unmanned aerial vehicle (UAV) sector. First collaborations started to emerge after the research group of TU Delft was integrated into the section of Wind Energy in 2014 and Fort Felker, a former director of the [National Wind Technology Center](https://www.nrel.gov/nwtc/) of NREL, started as CEO of Makani / X in 2015. The Airborne Wind Energy Conferences 2015 and 2017 have experienced increasing interest also from the wind energy community and, vice versa, also wind energy conferences are increasingly visited by the AWE community. For example, at the Wind Energy Science Conference (WESC) 2019 in Cork, at least 18 presentations were about AWE. During this conference, the European Academy of Wind Energy (EAWE) established a [Airborne Wind Energy Committee](https://eawe.eu/organisation/committees/) to represent the academic community in Europe.
 
 ## Presently pursued concepts
 
-The presently pursued AWE technologies can be classified according to the following scheme.[^19]
-[^19]: Watson et al: "“Future emerging technologies in the wind power sector: a European perspective". Renewable and Sustainable Energy Reviews (under review), 2019.
+The presently pursued AWE technologies can be classified according to the following scheme.
 
-{{< figure_gallery src="classification-block-diagram.svg" title="All the different concepts." numbered="true" >}}
+{{< figure_gallery src="classification.svg" >}}
 
-Makani
+At the highest level we differentiate between electricity generation with a fixed ground station, with a moving ground station or directly on the flying device, requiring a conducting tether. Concepts using a moving ground station, such as a horizontal loop track or a carousel-type construction, are technically quite complex and still relatively far from realization. At the second level we distinguish between concepts using individual tethered devices that fly cross wind maneuvers and concepts using flying rotors. Multi-drone concepts and fully automated take-off and landing are challenging aspects of AWE.[^20]
+[^20]: Watson et al: "“Future emerging technologies in the wind power sector: a European perspective". Renewable and Sustainable Energy Reviews (under review), 2019.
+Most populated is the class of systems that use one or more individual wings, rigid or flexible, operated in crosswind flight maneuvers, generating electricity with a fixed ground station.
+
+{{< figure_gallery src="pumping_cycle_tex.svg" >}}
+
+A detailed analysis and assessment of the different concepts has been presented by Cherubini et al.[^21]
+[^21]: Antonello Cherubini, Andrea Papini, Rocco Vertechy, Marco Fontana: "Airborne Wind Energy Systems: A review of the technologies". Renewable and Sustainable Energy Reviews, Vol. 51, pp. 1461-1476, 2015. {{< doi_button doi="doi:10.1016/j.rser.2015.07.053" >}}
+
+The largest prototype in operation is the M600 developed by Makani. It uses 8 wind turbines onboard the wing of 28 m span. More details can be found on the websites of Makani and X. Makani has already early sought the approval of the FAA, publishing a response.
 
 {{< gallery album="Makani" height="85px" >}}
 
