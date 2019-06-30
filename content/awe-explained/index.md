@@ -191,22 +191,36 @@ The presently pursued AWE technologies can be classified according to the follow
 
 {{< figure_gallery src="classification.svg" >}}
 
-At the highest level we differentiate between electricity generation with a fixed ground station, with a moving ground station or directly on the flying device, requiring a conducting tether. Concepts using a moving ground station, such as a horizontal loop track or a carousel-type construction, are technically quite complex and still relatively far from realization. At the second level we distinguish between concepts using individual tethered devices that fly cross wind maneuvers and concepts using flying rotors. Multi-drone concepts and fully automated take-off and landing are challenging aspects of AWE.[^20]
-[^20]: Watson et al: "“Future emerging technologies in the wind power sector: a European perspective". Renewable and Sustainable Energy Reviews (under review), 2019.
-Most populated is the class of systems that use one or more individual wings, rigid or flexible, operated in crosswind flight maneuvers, generating electricity with a fixed ground station.
+At the top level we differentiate between electricity generation with a fixed ground station, with a moving ground station or directly on the flying device, requiring a conducting tether. Concepts using a moving ground station, such as a horizontal loop track or a carousel-type construction, are technically quite complex and still relatively far from realization. At the next level we distinguish between concepts using individual tethered devices that fly cross wind maneuvers and concepts using flying rotors. Most populated is the class of systems that operate one or more individual wings, rigid or flexible, in crosswind flight maneuvers, converting the pulling force into electricity with a fixed ground station. For continuous electricity generation, these systems combine a tether reel-out phase with a reel-in phase. A representative pumping cycle computed with a dynamic system model is illustrated in the following diagram.[^20]
+[^20]: Uwe Fechner: "A methodology for the design of kite power control systems". PhD dissertation, Delft University of Technology, 2016. {{< doi_button doi="10.4233/uuid:85efaf4c-9dce-4111-bc91-7171b9da4b77" >}}
 
 {{< figure_gallery src="pumping_cycle_tex.svg" >}}
 
-A detailed analysis and assessment of the different concepts has been presented by Cherubini et al.[^21]
-[^21]: Antonello Cherubini, Andrea Papini, Rocco Vertechy, Marco Fontana: "Airborne Wind Energy Systems: A review of the technologies". Renewable and Sustainable Energy Reviews, Vol. 51, pp. 1461-1476, 2015. {{< doi_button doi="doi:10.1016/j.rser.2015.07.053" >}}
+Multi-drone concepts and fully automated take-off and landing, using VTOL and HTOL techniques, are challenging technical subjects.[^21]
+[^21]: Simon Watson, Alberto Moro, et al: "“Future emerging technologies in the wind power sector: a European perspective". Renewable and Sustainable Energy Reviews (under review), 2019.
+A detailed analysis and assessment of the different concepts has been presented by Cherubini et al.[^22]
+[^22]: Antonello Cherubini, Andrea Papini, Rocco Vertechy, Marco Fontana: "Airborne Wind Energy Systems: A review of the technologies". Renewable and Sustainable Energy Reviews, Vol. 51, pp. 1461-1476, 2015. {{< doi_button doi="doi:10.1016/j.rser.2015.07.053" >}}
 
-The largest prototype in operation is the M600 developed by Makani. It uses 8 wind turbines onboard the wing of 28 m span. More details can be found on the websites of Makani and X. Makani has already early sought the approval of the FAA, publishing a response.
+<p>
+
+The largest commercial prototype in operation is the [Makani M600](https://makanipower.com/technology/), designed for a nominal power of 600 kW. The carbon composite wing with a span of 26 m uses 8 wind turbines for onboard electricity generation and automated vertical take-off and landing. A conducting tether is used to transmit the energy to the ground station.
 
 {{< gallery album="Makani" height="85px" >}}
 
-Ampyx
+Already early in the development, the company started the [approval process with the FAA]((https://www.regulations.gov/docket?D=FAA-2011-1279)). Following testing in California and on the island of Hawaii, Makani has partnered with Shell to explore [offshore operation in Norway](https://spectrum.ieee.org/energywise/energy/renewables/alphabets-moonshot-wind-kites-to-fly-offshore).[^23]
+[^23]: Arvid Nesse: "Application for establishment of temporary aviation obstacles". Maritime Energy Test Centre (METCentre), Karmøy, Norway, 15 October 2018. {{< pdf_button url="https://luftfartstilsynet.no/globalassets/dokumenter/horinger/2018/november/151018-application-caa.pdf" >}}
+
+<p>
+
+Not far behind is the Duch enterprise Ampyx Power. Following extensive testing of their AP1 and AP2 development platforms, the company is currently assembling the [AP3](https://www.ampyxpower.com/ap3/) with a wing span of 12 m and a ground generator power of 400 kW.[^24]
+[^24]: Michiel Kruijff, Richard Ruiterkamp: "A Roadmap Towards Airborne Wind Energy in the Utility Sector". In: Roland Schmehl (Ed.) "Airborne Wind Energy - Advances in Technology Development and Research", Green Energy and Technology, Springer Nature Singapore, pp. 643-662, 2018. {{< doi_button doi="10.1007/978-981-10-1947-0_26" >}}{{< pdf_button url="Kruijff2018.pdf" >}}
 
 {{< gallery album="Ampyx" height="85px" >}}
+
+The aircraft is launched by catapult from a platform, which is also used for landing. The company is collaborating with national and European aviation authorities on a regulation.[^25]
+[^25]: Volkan Salma, Richard Ruiterkamp, Michiel Kruijff, M. M. (René) van Paassen, Roland Schmehl: "Current and Expected Airspace Regulations for Airborne Wind Energy Systems". In: Roland Schmehl (Ed.) "Airborne Wind Energy - Advances in Technology Development and Research", Green Energy and Technology, Springer Nature Singapore, pp. 703-725, 2018. {{< doi_button doi="10.1007/978-981-10-1947-0_29" >}}{{< pdf_button url="Salma2018.pdf" >}}
+
+It is planned to start operating the AP3 at a test site in Ireland, which is developed together with E.On.
 
 Kitepower
 
