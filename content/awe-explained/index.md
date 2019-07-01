@@ -92,7 +92,57 @@ gallery_item:
 - album: Ampyx
   image: 3-ampyx.jpg
   weight: 3
-  caption: Ampyx AP-3 rendering
+  caption: Ampyx AP-2 from tail plane camera
+- album: Ampyx
+  image: 4-ampyx.jpg
+  weight: 4
+  caption: Ampyx AP-3 flow simulation
+- album: Ampyx
+  image: 5-ampyx.jpg
+  weight: 5
+  caption: Ampyx AP-3 assembly
+
+- album: Enerkite
+  image: 1-enerkite.jpg
+  weight: 1
+  caption: Enerkíte EK200 mounted on the rotational launch system
+- album: Enerkite
+  image: 2-enerkite.jpg
+  weight: 2
+  caption: Enerkíte EK200 detaching from rotational launch system
+- album: Enerkite
+  image: 3-enerkite.jpg
+  weight: 3
+  caption: Enerkíte EK200 controlled by three individual tethers
+- album: Enerkite
+  image: 4-enerkite.jpg
+  weight: 4
+  caption: Enerkíte EK200 flying crosswind maneuvers
+- album: Enerkite
+  image: 5-enerkite.jpg
+  weight: 5
+  caption: Enerkíte team
+
+- album: Kitepower
+  image: 1-kitepower.jpg
+  weight: 1
+  caption: Mast-based launch of a LEI V3 kite with 25 m<sup>2</sup> wing surface area
+- album: Kitepower
+  image: 2-kitepower.jpg
+  weight: 2
+  caption: LEI V5 kite with 40 m<sup>2</sup> wing surface area
+- album: Kitepower
+  image: 3-kitepower.jpg
+  weight: 3
+  caption: LEI V5 kite with 40 m<sup>2</sup> wing surface area
+- album: Kitepower
+  image: 4-kitepower.jpg
+  weight: 4
+  caption: Ground station for 100 kW net power output
+- album: Kitepower
+  image: 5-kitepower.jpg
+  weight: 5
+  caption: Flight trajectory
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -207,20 +257,23 @@ The largest commercial prototype in operation is the [Makani M600](https://makan
 
 {{< gallery album="Makani" height="85px" >}}
 
-Already early in the development, the company started the [approval process with the FAA]((https://www.regulations.gov/docket?D=FAA-2011-1279)). Following testing in California and on the island of Hawaii, Makani has partnered with Shell to explore [offshore operation in Norway](https://spectrum.ieee.org/energywise/energy/renewables/alphabets-moonshot-wind-kites-to-fly-offshore).[^23]
+Already early in the development, the company started the [approval process with the FAA]((https://www.regulations.gov/docket?D=FAA-2011-1279)). Following testing in <a data-fancybox href="https://www.youtube.com/watch?v=CKFlMDUHtLg">California</a> and on the island of <a data-fancybox href="https://www.youtube.com/watch?v=3FapxQuH7ns">Hawaii</a>, Makani has partnered with Shell to explore [offshore operation in Norway](https://spectrum.ieee.org/energywise/energy/renewables/alphabets-moonshot-wind-kites-to-fly-offshore).[^23]
 [^23]: Arvid Nesse: "Application for establishment of temporary aviation obstacles". Maritime Energy Test Centre (METCentre), Karmøy, Norway, 15 October 2018. {{< pdf_button url="https://luftfartstilsynet.no/globalassets/dokumenter/horinger/2018/november/151018-application-caa.pdf" >}}
 
 <p>
 
-Not far behind is the Duch enterprise Ampyx Power. Following extensive testing of their AP1 and AP2 development platforms, the company is currently assembling the [AP3](https://www.ampyxpower.com/ap3/) with a wing span of 12 m and a ground generator power of 400 kW.[^24]
+Not far behind is the Duch enterprise Ampyx Power. Following extensive testing of their AP1 and <a data-fancybox href="https://www.youtube.com/watch?v=jjAO86Ku4gc">AP2</a> development platforms, the company is currently assembling the [AP3](https://www.ampyxpower.com/ap3/) with a wing span of 12 m and a power output of 250 kW.[^24]
 [^24]: Michiel Kruijff, Richard Ruiterkamp: "A Roadmap Towards Airborne Wind Energy in the Utility Sector". In: Roland Schmehl (Ed.) "Airborne Wind Energy - Advances in Technology Development and Research", Green Energy and Technology, Springer Nature Singapore, pp. 643-662, 2018. {{< doi_button doi="10.1007/978-981-10-1947-0_26" >}}{{< pdf_button url="Kruijff2018.pdf" >}}
 
 {{< gallery album="Ampyx" height="85px" >}}
 
-The aircraft is launched by catapult from a platform, which is also used for landing. The company is collaborating with national and European aviation authorities on a regulation.[^25]
+The aircraft is launched by catapult from a platform, which is also used for <a data-fancybox href="https://www.youtube.com/watch?v=KQvJlI4-7QE">landing</a>. The company is collaborating with national and European aviation authorities on the regulatory framework.[^25]
 [^25]: Volkan Salma, Richard Ruiterkamp, Michiel Kruijff, M. M. (René) van Paassen, Roland Schmehl: "Current and Expected Airspace Regulations for Airborne Wind Energy Systems". In: Roland Schmehl (Ed.) "Airborne Wind Energy - Advances in Technology Development and Research", Green Energy and Technology, Springer Nature Singapore, pp. 703-725, 2018. {{< doi_button doi="10.1007/978-981-10-1947-0_29" >}}{{< pdf_button url="Salma2018.pdf" >}}
+It is planned to start operating the AP3 at a test site in Ireland, which is developed together with [E.On](https://www.eon.com/en/about-us/media/press-release/2017/eon-develops-a-demonstration-site-for-airborne-wind-technology-in-ireland.html).
 
-It is planned to start operating the AP3 at a test site in Ireland, which is developed together with E.On.
+While Makani and Ampyx Power both use tethered aircraft with conventional aerodynamic control surfaces, German company Enerkíte is [developing a swept wing](https://www.dw.com/en/kites-collect-wind-energy-in-berlin/av-48280521) that itself functions as an aerodynamic control surface, actuated by three tethers, each controlled individually from the ground station. The [wing surface area](https://www.enerkite.de/downloads/EnerKite_200_Technical_Data_EN_SM.pdf) of the EK200 is 30 m<sup>2</sup> and its nominal power is 100 kW. A rotational mast is used for launching as illustrated in the following.
+
+{{< gallery album="Enerkite" height="85px" >}}
 
 Kitepower
 
