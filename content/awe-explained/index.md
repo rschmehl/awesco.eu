@@ -96,28 +96,28 @@ gallery_item:
 - album: Ampyx
   image: 4-ampyx.jpg
   weight: 4
-  caption: Ampyx AP-3 flow simulation
+  caption: Ampyx AP-3 computational flow simulation
 - album: Ampyx
   image: 5-ampyx.jpg
   weight: 5
-  caption: Ampyx AP-3 assembly
+  caption: Ampyx AP-3 assembly at the company headquarters in The Hague, The Netherlands
 
 - album: Enerkite
   image: 1-enerkite.jpg
   weight: 1
-  caption: Enerkíte EK200 mounted on the rotational launch system
+  caption: Enerkíte EK04 with wing surface area of 4 m<sup>2</sup> mounted on the rotational launch system
 - album: Enerkite
   image: 2-enerkite.jpg
   weight: 2
-  caption: Enerkíte EK200 detaching from rotational launch system
+  caption: Enerkíte EK04 with wing surface area of 4 m<sup>2</sup> detaching from rotational launch system
 - album: Enerkite
   image: 3-enerkite.jpg
   weight: 3
-  caption: Enerkíte EK200 controlled by three individual tethers
+  caption: Enerkíte EK02 with wing surface area of 2 m<sup>2</sup> controlled by three individual tethers
 - album: Enerkite
   image: 4-enerkite.jpg
   weight: 4
-  caption: Enerkíte EK200 flying crosswind maneuvers
+  caption: Enerkíte EK02 with wing surface area of 2 m<sup>2</sup> flying crosswind maneuvers
 - album: Enerkite
   image: 5-enerkite.jpg
   weight: 5
@@ -142,7 +142,28 @@ gallery_item:
 - album: Kitepower
   image: 5-kitepower.jpg
   weight: 5
-  caption: Flight trajectory
+  caption: Photographic visualization of a pumping cycle during night operation by tracing a marker light on the kite from the ground station using long-term exposure
+
+- album: Projects
+  image: 1-kitemill.jpg
+  weight: 1
+  caption: Kitemill's tethered aircraft with VTOL system
+- album: Projects
+  image: 2-twingtec.jpg
+  weight: 2
+  caption: TwingTec's tethered aircraft with VTOL system
+- album: Projects
+  image: 3-kitex.jpg
+  weight: 3
+  caption: KiteX tethered octocopter drone
+- album: Projects
+  image: 4-bladetips.jpg
+  weight: 4
+  caption: Bladetips gyro-rotor with small onboard turbines
+- album: Projects
+  image: 5-windswept.jpg
+  weight: 5
+  caption: Windswept flying windturbine
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -249,7 +270,7 @@ At the top level we differentiate between electricity generation with a fixed gr
 Multi-drone concepts and fully automated reliable take-off and landing, using VTOL and HTOL techniques, are challenging subjects that have been identified for future research.[^21]
 [^21]: Simon Watson, Alberto Moro, et al: "“Future emerging technologies in the wind power sector: a European perspective". Renewable and Sustainable Energy Reviews (under review), 2019.
 A detailed analysis and assessment of the different concepts has been presented by Cherubini et al.[^22]
-[^22]: Antonello Cherubini, Andrea Papini, Rocco Vertechy, Marco Fontana: "Airborne Wind Energy Systems: A review of the technologies". Renewable and Sustainable Energy Reviews, Vol. 51, pp. 1461-1476, 2015. {{< doi_button doi="doi:10.1016/j.rser.2015.07.053" >}}
+[^22]: Antonello Cherubini, Andrea Papini, Rocco Vertechy, Marco Fontana: "Airborne Wind Energy Systems: A review of the technologies". Renewable and Sustainable Energy Reviews, Vol. 51, pp. 1461-1476, 2015. {{< doi_button doi="10.1016/j.rser.2015.07.053" >}}
 
 <p>
 
@@ -262,7 +283,7 @@ Already early in the development, the company started the [approval process with
 
 <p>
 
-Not far behind is the Duch enterprise Ampyx Power. Following extensive testing of their AP1 and <a data-fancybox href="https://www.youtube.com/watch?v=jjAO86Ku4gc">AP2</a> development platforms, the company is currently assembling the [AP3](https://www.ampyxpower.com/ap3/) with a wing span of 12 m and a power output of 250 kW.[^24]
+Not far behind is the Dutch enterprise Ampyx Power. Following extensive testing of their AP1 and <a data-fancybox href="https://www.youtube.com/watch?v=jjAO86Ku4gc">AP2</a> development platforms, the company is currently assembling the [AP3](https://www.ampyxpower.com/ap3/) with a wing span of 12 m and a power output of 250 kW.[^24]
 [^24]: Michiel Kruijff, Richard Ruiterkamp: "A Roadmap Towards Airborne Wind Energy in the Utility Sector". In: Roland Schmehl (Ed.) "Airborne Wind Energy - Advances in Technology Development and Research", Green Energy and Technology, Springer Nature Singapore, pp. 643-662, 2018. {{< doi_button doi="10.1007/978-981-10-1947-0_26" >}}{{< pdf_button url="Kruijff2018.pdf" >}}
 
 {{< gallery album="Ampyx" height="85px" >}}
@@ -271,14 +292,21 @@ The aircraft is launched by catapult from a platform, which is also used for <a 
 [^25]: Volkan Salma, Richard Ruiterkamp, Michiel Kruijff, M. M. (René) van Paassen, Roland Schmehl: "Current and Expected Airspace Regulations for Airborne Wind Energy Systems". In: Roland Schmehl (Ed.) "Airborne Wind Energy - Advances in Technology Development and Research", Green Energy and Technology, Springer Nature Singapore, pp. 703-725, 2018. {{< doi_button doi="10.1007/978-981-10-1947-0_29" >}}{{< pdf_button url="Salma2018.pdf" >}}
 It is planned to start operating the AP3 at a test site in Ireland, which is developed together with [E.On](https://www.eon.com/en/about-us/media/press-release/2017/eon-develops-a-demonstration-site-for-airborne-wind-technology-in-ireland.html).
 
-While Makani and Ampyx Power both use tethered aircraft with conventional aerodynamic control surfaces, German company Enerkíte is [developing a swept wing](https://www.dw.com/en/kites-collect-wind-energy-in-berlin/av-48280521) that itself functions as an aerodynamic control surface, actuated by three tethers, each controlled individually from the ground station. The [wing surface area](https://www.enerkite.de/downloads/EnerKite_200_Technical_Data_EN_SM.pdf) of the EK200 is 30 m<sup>2</sup> and its nominal power is 100 kW. A rotational mast is used for launching as illustrated in the following.
+While Makani and Ampyx Power both use tethered aircraft with conventional aerodynamic control surfaces, German company [Enerkíte](http://enerkite.com) is developing a swept wing that itself functions as a single aerodynamic control surface, actuated by three tethers, each controlled individually from the ground station. The wing surface area of the EK200 will be 30 m<sup>2</sup> and its nominal power 100 kW.[^26]
+[^26]: Enerkíte GmbH: "Technical Data EK200". Kleinmachnow, Germany. {{< pdf_button url="https://www.enerkite.de/downloads/EnerKite_200_Technical_Data_EN_SM.pdf" >}}
+A rotational mast is used for [launching](https://www.dw.com/en/kites-collect-wind-energy-in-berlin/av-48280521) as illustrated in the following.
 
 {{< gallery album="Enerkite" height="85px" >}}
 
-Kitepower
+Because all electrical equipment is on the ground and the wing is bridled, its weight is relatively low such that the system can start operating at a wind speed as low as 2 m/s.
+
+A nominal power of 100 kW is also the development target of TU Delft startup company Kitepower, which uses a flexible membrane wing that is controlled by a suspended, remote-controlled cable robot. This single-tether system configuration is illustrated in the following.
 
 {{< gallery album="Kitepower" height="85px" >}}
 
-Others: Windswept, Kitemill, Twingtec, Enerkite
+The Leading Edge Inflatable (LEI) tube kite uses additional structural reinforcements to increase the maximum aerodynamic loading and lifetime of the wing.[^27]
+[^27]: Johannes Oehler, Roland Schmehl: "Aerodynamic characterization of a soft kite by in situ flow measurement". Wind Energy Science, Vol. 4, pp. 1-21, 2019. {{< doi_button doi="10.5194/wes-4-1-2019" >}}
+Other than the concepts of Makani and Ampyx Power that aim at utility-scale electricity generation in offshore environments, the use of a lightweight flexible membrane wing allows for high mobility and rapid deployment which can be important characteristics for certain market segments.
 
-{{< gallery album="Others" height="85px" >}}
+
+{{< gallery album="Projects" height="85px" >}}
