@@ -4,7 +4,7 @@
   {{ $image_src = printf "img/%s" $image_src | relURL }}
 {{ end }}
 <figure_gallery{{ with .Get "class" }} class="{{.}}"{{ end }}>
-<a href="{{ $image_src }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }} data-fancybox="gallery">
+<a href="{{ $image_src }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}{{ with .Get "name" }} name="{{ . }}"{{ end }} data-fancybox="gallery">
 <img src="{{ $image_src }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}" {{ end }}{{ with .Get "width" }}width="{{.}}" {{ end }}{{ with .Get "height" }}height="{{.}}" {{ end }}/>
 </a>
 {{ if or (or (.Get "title") (.Get "caption")) (.Get "attr")}}

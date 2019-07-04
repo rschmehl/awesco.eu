@@ -126,11 +126,11 @@ gallery_item:
 - album: Kitepower
   image: 1-kitepower.jpg
   weight: 1
-  caption: Mast-based launch of a LEI V3 kite with 25 m<sup>2</sup> wing surface area
+  caption: Mast-based launch of a TU Delft LEI V3 kite with 25 m<sup>2</sup> wing surface area
 - album: Kitepower
   image: 2-kitepower.jpg
   weight: 2
-  caption: LEI V5 kite with 40 m<sup>2</sup> wing surface area
+  caption: Kitepower LEI V5 kite with 40 m<sup>2</sup> wing surface area
 - album: Kitepower
   image: 3-kitepower.jpg
   weight: 3
@@ -138,7 +138,7 @@ gallery_item:
 - album: Kitepower
   image: 4-kitepower.jpg
   weight: 4
-  caption: Ground station for 100 kW net power output
+  caption: Kitepower ground station for 100 kW net power output
 - album: Kitepower
   image: 5-kitepower.jpg
   weight: 5
@@ -147,15 +147,15 @@ gallery_item:
 - album: Projects
   image: 1-kitemill.jpg
   weight: 1
-  caption: Kitemill's tethered aircraft with VTOL system
+  caption: Kitemill's tethered aircraft (black) with integrated quadcopter (white)
 - album: Projects
   image: 2-twingtec.jpg
   weight: 2
-  caption: TwingTec's tethered aircraft with VTOL system
+  caption: TwingTec's tethered aircraft with integrated tricopter (rotors mounted on both wing tips and the nose)
 - album: Projects
   image: 3-kitex.jpg
   weight: 3
-  caption: KiteX tethered octocopter drone
+  caption: KiteX's tethered airframe (without wings) with integrated octocopter
 - album: Projects
   image: 4-bladetips.jpg
   weight: 4
@@ -218,7 +218,7 @@ Loyd predicted that a large tethered aircraft could theoretically produce from 7
 
 Just before the turn of the century, TU Delft professor and former astronaut [Wubbo Ockels](https://www.esa.int/Our_Activities/Human_and_Robotic_Exploration/Astronauts/Wubbo_J._Ockels) presented a high altitude wind energy concept based on a cable loop that was running from a ground station into the sky.[^13]
 [^13]: Wubbo Ockels: "Laddermill, a novel concept to exploit the energy in the airspace". Aircraft Design, Vol. 4, No. 2-3, pp. 81-97, 2001. {{< doi_button doi="10.1016/S1369-8869(01)00002-7" >}}
-Driven by kites attached at regular intervals, the mechanical net traction power in the loop was to be converted into electricity at the ground. Although this “laddermill” was only a conceptual idea the persistent effort of Ockels would lead to the establishment of a [research group](http://www.kitepower.eu) in 2004, spinning off two pioneering companies, [Ampyx Power](http://www.ampyxpower.com) (2007) and [Kitepower](http://www.kitepower.nl) (2016). The increasing number of institutions involved in AWE worldwide is illustrated in the following diagram.
+Driven by kites attached at regular intervals, the mechanical net traction power in the loop was to be converted into electricity at the ground. Although this “laddermill” was only a conceptual idea the persistent effort of Ockels would lead to the establishment of a [research group](http://kitepower.tudelft.nl) in 2004, spinning off two pioneering companies, [Ampyx Power](http://www.ampyxpower.com) (2007) and [Kitepower](http://www.kitepower.nl) (2016). The increasing number of institutions involved in AWE worldwide is illustrated in the following diagram.
 
 {{< figure_gallery src="awe-emergence.svg" >}}
 
@@ -229,7 +229,11 @@ Included are only those academic groups or commercial teams that have been activ
 
 The main contributing regions are North America and Europe, with the difference that the activities in the US are dominated by [Makani](http://www.makanipower.com), a former [Google moonshot project](https://x.company), while in Europe they are distributed to a diverse network of companies, universities and research organisations. Funding through the European Union's Framework Programmes FP7 and Horizon 2020 has played an important role in the formation of this ecosystem.
 
-Using a lightweight tether in place of a tower and its foundation removes most of the mechanical constraints of the system. For this reason, control and optimization have already early on evolved into key research themes for AWE. In 2001, Moritz Diehl described the crosswind operation of a kite as an optimal control problem,[^15]
+Using a lightweight tether in place of a tower and its foundation removes most of the mechanical constraints of the system. For this reason, control and optimization have already early on evolved into key research themes for AWE.
+
+> The essence of airborne wind energy is to replace material constraints by control algorithms. This is the potential but at the same time also the challenge of the technology.
+
+In 2001, Moritz Diehl described the crosswind operation of a kite as an optimal control problem,[^15]
 [^15]: Moritz Diehl: "Real-Time Optimization for Large Scale Nonlinear Processes". PhD dissertation, University of Heidelberg, 2001. {{< doi_button doi="10.11588/heidok.00001659" >}}{{< pdf_button url="https://cdn.syscop.de/publications/Diehl2001.pdf" >}}
 expanding this later on the basis of a prestigious FP7 Starting Grant [HighWind](https://cordis.europa.eu/project/rcn/98087/) (2011-2017) awarded by the European Research Council (ERC). A first PhD dissertation entirely dedicated to control of AWE systems was defended in 2009 by Lorenzo Fagiano,[^16]
 [^16]: Lorenzo Fagiano: "Control of Tethered Airfoils for High-Altitude Wind Energy Generation". PhD dissertation, Politecnico di Milano, 2009. {{< pdf_button url="https://re.public.polimi.it/retrieve/handle/11311/1006424/161264/PhD_thesis_Fagiano_Final.pdf" >}}
@@ -262,10 +266,10 @@ The presently pursued AWE technologies can be classified according to the follow
 
 {{< figure_gallery src="classification.svg" >}}
 
-At the top level we differentiate between electricity generation with a fixed ground station, with a moving ground station or directly on the flying device, requiring a conducting tether. Concepts using a moving ground station, such as a horizontal loop track or a carousel-type construction, are technically quite complex and still relatively far from realization. At the next level we distinguish between concepts using individual tethered devices that fly cross wind maneuvers and concepts using flying rotors. Most populated is the class of systems that operate one or more individual wings, rigid or flexible, in crosswind flight maneuvers, converting the pulling force into electricity with a fixed ground station. For continuous electricity generation, these systems combine a tether reel-out phase with a reel-in phase. A representative pumping cycle computed with a dynamic system model is illustrated in the following diagram (kite not to scale).[^20]
+At the top level we differentiate between electricity generation with a fixed ground station, with a moving ground station or directly on the flying device, requiring a conducting tether. Concepts using a moving ground station, such as a horizontal loop track or a carousel-type construction, are technically quite complex and still relatively far from realization. At the next level we distinguish between concepts using individual tethered devices that fly cross wind maneuvers and concepts using flying rotors. Most populated is the class of systems that operate one or more individual wings, rigid or flexible, in crosswind flight maneuvers, converting the pulling force into electricity with a fixed ground station. For continuous electricity generation, these systems combine a tether reel-out phase with a reel-in phase, which is denoted as "pumping cycle". A representative flight path computed with a dynamic system model is illustrated in the following diagram (kite not to scale).[^20]
 [^20]: Uwe Fechner: "A methodology for the design of kite power control systems". PhD dissertation, Delft University of Technology, 2016. {{< doi_button doi="10.4233/uuid:85efaf4c-9dce-4111-bc91-7171b9da4b77" >}}
 
-{{< figure_gallery src="pumping_cycle_tex.svg" >}}
+{{< figure_gallery src="pumping_cycle_tex.svg" name="pumping-cycle" >}}
 
 Multi-drone concepts and fully automated reliable take-off and landing, using VTOL and HTOL techniques, are challenging subjects that have been identified for future research.[^21]
 [^21]: Simon Watson, Alberto Moro, et al: "“Future emerging technologies in the wind power sector: a European perspective". Renewable and Sustainable Energy Reviews (under review), 2019.
@@ -300,13 +304,21 @@ A rotational mast is used for [launching](https://www.dw.com/en/kites-collect-wi
 
 Because all electrical equipment is on the ground and the wing is bridled, its weight is relatively low such that the system can start operating at a wind speed as low as 2 m/s.
 
-A nominal power of 100 kW is also the development target of TU Delft startup company Kitepower, which uses a flexible membrane wing that is controlled by a suspended, remote-controlled cable robot. This single-tether system configuration is illustrated in the following.
+A nominal power of 100 kW is also the development target of TU Delft startup company Kitepower, which uses a [flexible membrane wing](https://www.kitepower.nl/media/Kitepower%20Demonstratie%20-%2008-05-2019%20-%20Unmanned%20Valley%20Valkenburg.mp4) that is controlled by a suspended, remote-controlled cable robot. This single-tether system configuration is illustrated in the following (the photographic visualization of the pumping cycle corresponds to the computed flight trajectory illustrated [above](#pumping-cycle)).
 
 {{< gallery album="Kitepower" height="85px" >}}
 
 The Leading Edge Inflatable (LEI) tube kite uses additional structural reinforcements to increase the maximum aerodynamic loading and lifetime of the wing.[^27]
 [^27]: Johannes Oehler, Roland Schmehl: "Aerodynamic characterization of a soft kite by in situ flow measurement". Wind Energy Science, Vol. 4, pp. 1-21, 2019. {{< doi_button doi="10.5194/wes-4-1-2019" >}}
-Other than the concepts of Makani and Ampyx Power that aim at utility-scale electricity generation in offshore environments, the use of a lightweight flexible membrane wing allows for high mobility and rapid deployment which can be important characteristics for certain market segments.
+While the concepts of Makani and Ampyx Power aim at utility-scale electricity generation in offshore environments, the use of a lightweight flexible wings can be a decisive criterion for market segments in which high mobility, rapid deployment and low costs are crucial.
 
+However, these are only 4 specific implementations of a diverse field of explored AWE concepts described by the classification scheme shown [above](#presently-pursued-concepts). Some alternative projects by <a data-fancybox href="https://www.youtube.com/watch?v=vfBceLa3pvQ">Kitemill</a>, <a data-fancybox href="https://www.youtube.com/watch?v=d66udNrnMnU">TwingTec</a>, [KiteX](https://www.tv2lorry.dk/sondagsmagasinet/klimakamp-og-kloge-hoveder), [Bladetips](http://bladetipsenergy.com/en/home/) and [Windswept](https://windswept-and-interesting.co.uk/) are shown in the following.
 
 {{< gallery album="Projects" height="85px" >}}
+
+## Conclusions
+
+Over the last 10 years, AWE has developed from a pool of conceptual ideas and some first small-scale experiments into a vibrant field of research and development, producing an array of technology demonstrators ranging up to power outputs of several hundred kilowatts. Strong industrial leadership has been confirmed by the recent EU-commissioned study.[^19] Several critical technical challenges have been mastered, such as automatic energy harvesting, reliable sensors and state estimation, as well as developing tethered aircraft and kites for aerodynamic load cycles that are far more demanding than those for conventional aircraft and paragliders. Remaining critical challenges are the full automation of the operation, including launching and landing, operational reliability and durable and lightweight flexible materials that can sustain a large number of load cycles.
+
+But despite the technical achievements the economic potential of AWE has not yet been validated. None of the demonstrators has yet been operated for several weeks or months in a relevant wind environment. While the computer models to predict the power production have reached a high level of confidence, the actual uptime of demonstrators is still very limited. This can be explained by the fact that a flying object tethered to a ground station is a rather complex piece of technology, with many potential sources of failures affecting the overall reliability of the system. And when a component does not work as it should, the AWE system can not just be stopped in mid air.[^27]
+[^27]: Moritz Diehl: "Airborne Wind Energy: Basic Concepts and Physical Foundations".  In: Uwe Ahrens, Moritz Diehl, Roland Schmehl (Eds.) "Airborne Wind Energy", Green Energy and Technology, Springer Berlin Heidelberg, pp. 3-22, 2013. {{< doi_button doi="10.1007/978-3-642-39965-7_1" >}}{{< pdf_button url="Diehl2013.pdf" >}}
