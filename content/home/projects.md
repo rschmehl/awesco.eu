@@ -26,16 +26,24 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Modelling and Simulation"
+    tag = "Modelling and Simulation"
 
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "System Design and Optimisation"
+    tag = "System Design and Optimisation"
+
+  [[content.filter_button]]
+    name = "Sensors and Estimation"
+    tag = "Sensors and Estimation"
+
+  [[content.filter_button]]
+    name = "Control Systems"
+    tag = "Control Systems"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
