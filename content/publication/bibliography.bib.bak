@@ -25,11 +25,10 @@
 @Article{Rapp2019b,
   author  = {Rapp, Sebastian and Schmehl, Roland and Oland, Espen and Haas, Thomas},
   title   = {Cascaded Pumping Cycle Control for Rigid Wing Airborne Wind Energy Systems},
+  journal = {Journal of Guidance, Control, and Dynamics},
   year    = {2019},
   pages   = {1--18},
   doi     = {10.2514/1.G004246},
-  journal = {Journal of Guidance, Control, and Dynamics},
-  note    = {in press},
 }
 
 @Article{Folkersma2019,
@@ -42,11 +41,50 @@
 
 @InProceedings{Folkersma2018,
   author    = {Folkersma, Mikko and Thedens, Paul and Schmehl, Roland},
-  title     = {Boundary layer transition modeling on leading edge inflatable kite airfoils},
+  title     = {Fluid-Structure Interaction of Inflatable Wing Section},
   booktitle = {13th OpenFOAM Workshop (OFW13)},
   year      = {2018},
   address   = {Shanghai, China},
   date      = {2018-06-26/2018-06-29},
+}
+
+@InProceedings{Folkersma2017,
+  author    = {Folkersma, Mikko and Schmehl, Roland and Vir\'{e}, Axelle},
+  title     = {Fluid-structure interaction simulations on kites},
+  booktitle = {Book of Abstracts of the International Airborne Wind Energy Conference (AWEC 2017)},
+  year      = {2017},
+  editor    = {Diehl, M and Leuthold, R and Schmehl, R},
+  pages     = {144},
+  address   = {Freiburg, Germany},
+  publisher = {University of Freiburg | Delft University of Technology},
+  date      = {2017-10-05/2017-10-06},
+  url       = {http://resolver.tudelft.nl/uuid:dc4e8533-25f7-476b-ac05-0febbfa7cca6},
+}
+
+@InProceedings{Rapp2017,
+  author    = {Rapp, Sebastian and Schmehl, Roland},
+  title     = {Towards Robust Automatic Operation of Rigid Wing Kite Power Systems},
+  booktitle = {Book of Abstracts of the International Airborne Wind Energy Conference (AWEC 2017)},
+  year      = {2017},
+  editor    = {Diehl, M and Leuthold, R and Schmehl, R},
+  pages     = {87--89},
+  address   = {Freiburg, Germany},
+  publisher = {University of Freiburg | Delft University of Technology},
+  date      = {2017-10-05/2017-10-06},
+  url       = {http://resolver.tudelft.nl/uuid:493a5416-f3e1-41f4-96c3-bd98283851a5},
+}
+
+@InProceedings{Leuthold2017,
+  author    = {Leuthold, Rachel and De Schutter, Jochem and Malz, Elena and Gros, Sébastien and Diehl, Moritz},
+  title     = {The Effect of Realistic Wind Profiles on Multiple-Kite System Optimal Control},
+  booktitle = {Book of Abstracts of the International Airborne Wind Energy Conference (AWEC 2017)},
+  year      = {2017},
+  editor    = {Diehl, M and Leuthold, R and Schmehl, R},
+  pages     = {167--169},
+  address   = {Freiburg, Germany},
+  publisher = {University of Freiburg | Delft University of Technology},
+  date      = {2017-10-05/2017-10-06},
+  url       = {http://resolver.tudelft.nl/uuid:dc4e8533-25f7-476b-ac05-0febbfa7cca6},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

@@ -7,6 +7,7 @@ tags:
 - VTOL
 - Kitemill
 date: "2018-12-04T00:00:00Z"
+weight: 2
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
