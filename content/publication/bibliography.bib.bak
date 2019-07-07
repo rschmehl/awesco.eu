@@ -84,7 +84,29 @@
   address   = {Freiburg, Germany},
   publisher = {University of Freiburg | Delft University of Technology},
   date      = {2017-10-05/2017-10-06},
-  url       = {http://resolver.tudelft.nl/uuid:dc4e8533-25f7-476b-ac05-0febbfa7cca6},
+  url       = {http://resolver.tudelft.nl/uuid:b31ab637-5c0d-46db-8d68-55526d5396f0},
+}
+
+@InProceedings{DeSchutter2018,
+  author    = {De Schutter, Jochem and Leuthold, Rachel and Diehl, Moritz},
+  title     = {Optimal Control of a Rigid-Wing Rotary Kite System for Airborne Wind Energy},
+  booktitle = {Proceedings of the European Control Conference (ECC)},
+  year      = {2018},
+  address   = {Limassol, Cyprus},
+  date      = {2018-06-12/2018-06-15},
+  doi       = {10.23919/ECC.2018.8550383},
+  url       = {https://cdn.syscop.de/publications/DeSchutter2018.pdf},
+}
+
+@InProceedings{Leuthold2018,
+  author    = {Leuthold, Rachel and De Schutter, Jochem and Malz, Elena and Licitra, Giovanni and Gros, Sebastien and Diehl, Moritz},
+  title     = {Operational Regions of a Multi-Kite AWE System},
+  booktitle = {Proceedings of the European Control Conference (ECC)},
+  year      = {2018},
+  address   = {Limassol, Cyprus},
+  date      = {2018-06-12/2018-06-15},
+  doi       = {10.23919/ECC.2018.8550199},
+  url       = {https://cdn.syscop.de/publications/Leuthold2018.pdf},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

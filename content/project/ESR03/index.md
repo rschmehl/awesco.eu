@@ -6,7 +6,7 @@ tags:
 - System Design and Optimisation
 - Optimal Control
 - Multi-Kite Airborne Wind Energy System
-date: "2018-12-04T00:00:00Z"
+date: "2018-11-27T00:00:00Z"
 weight: 3
 
 # Optional external URL for project (replaces project detail page).
