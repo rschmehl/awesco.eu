@@ -1,7 +1,7 @@
 ---
 title: 'WESC 2019 with 18 presentations on AWE'
-subtitle: 'The Wind Energy Science Conference (WESC) 2019 will be held in Cork, 17-20 June 2019. At least 18 of the presentations will be on AWE.'
-summary: The Wind Energy Science Conference (WESC) 2019 will be held in Cork, 17-20 June 2019. At least 18 of the presentations will be on AWE.
+subtitle: 'The Wind Energy Science Conference (WESC) 2019 will be held in Cork, 17--20 June 2019. At least 18 of the presentations will be on AWE.'
+summary: The Wind Energy Science Conference (WESC) 2019 will be held in Cork, 17--20 June 2019. At least 18 of the presentations will be on AWE.
 authors:
 - roland-schmehl
 tags:

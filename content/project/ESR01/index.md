@@ -5,6 +5,7 @@ authors: ["mikko-folkersma"]
 tags:
 - Modelling and Simulation
 - Fluid Structure Interaction
+- Computational Fluid Dynamics
 date: "2018-12-06T00:00:00Z"
 weight: 1
 

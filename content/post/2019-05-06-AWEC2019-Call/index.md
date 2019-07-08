@@ -1,7 +1,7 @@
 ---
 title: 'Call for abstracts AWEC 2019 open'
-subtitle: 'Abstracts for the Airborne Wind Energy Conference (AWEC) 2019 in Glasgow, 15-16 October 2019, can be submitted until 4 June 2019.'
-summary: Abstracts for the Airborne Wind Energy Conference (AWEC) 2019 in Glasgow, 15-16 October 2019, can be submitted until 4 June 2019.
+subtitle: 'Abstracts for the Airborne Wind Energy Conference (AWEC) 2019 in Glasgow, 15--16 October 2019, can be submitted until 4 June 2019.'
+summary: Abstracts for the Airborne Wind Energy Conference (AWEC) 2019 in Glasgow, 15--16 October 2019, can be submitted until 4 June 2019.
 authors:
 - roland-schmehl
 tags:
