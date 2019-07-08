@@ -8,6 +8,7 @@ abstract: "Multiple-kite Airborne Wind Energy Systems (MAWES) aim to decrease in
 featured: false
 publication: "*IFAC-PapersOnLine (20th IFAC World Congress)*"
 doi: "10.1016/j.ifacol.2017.08.026"
+url_pdf: "https://cdn.syscop.de/publications/Leuthold2017.pdf"
 projects:
 - ESR03
 ---
