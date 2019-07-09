@@ -1,5 +1,5 @@
 ---
-title: Efficient Numerical Methods for NMPC in AWE Applications with Stability Guarantees
+title: Efficient Numerical Methods for NMPC with Stability Guarantees
 summary: Andrea Zanelli
 authors: ["Andrea Zanelli"]
 tags:

@@ -1,5 +1,5 @@
 ---
-title: Power Optimisation of AWE Systems and their Integration into the Future Energy System
+title: Power Optimisation and Integration of AWE into the Future Energy System
 summary: Elena Malz
 authors: ["Elena Malz"]
 tags:

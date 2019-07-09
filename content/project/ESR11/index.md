@@ -1,12 +1,12 @@
 ---
-title: Control of launching and landing the PowerPlane on a launch platform
-summary: Jonas Koenemann, Thanuja Rajasooriya
-authors: ["Jonas Koenemann", "Thanuja Rajasooriya"]
+title: State and Parameters Estimation Implementations Based on MHE
+summary: Fabian Girrbach
+authors: ["Fabian Girrbach"]
 tags:
-- Control Systems
-- Launching and Landing
-date: "2018-10-28T00:00:00Z"
-weight: 9
+- Sensors and Estimation
+- Moving Horizon Estimation
+date: "2018-12-05T00:00:00Z"
+weight: 11
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -59,3 +59,6 @@ states allow the determination of load cases associated with the mechanism.
 Many valuable lessons were learnt following the completion of the scope covering aspects such as
 codes and standards, scientific design methods, system engineering methods, materials and
 fabrication, costs and scope and time managment.
+During the year long fellowship, the ESR did not produce any publication, due to time restaints.
+ESR15 participated in a number of training programs organised by AWESCO and Ampyx Power during
+the fellowship.

@@ -1,5 +1,5 @@
 ---
-title: Virtual Wind Environment and Flight Simulator for Airborne Wind Energy Systems
+title: Virtual Wind Environment and Flight Simulator for AWE Systems
 summary: Thomas Haas
 authors: ["Thomas Haas"]
 tags:
