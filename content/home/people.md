@@ -12,7 +12,7 @@ subtitle = ""
 #   Edit each user's `user_groups` to add them to one or more of these groups.
 user_groups = ["Researchers",
                "Principal Investigators",
-               "Academic Staff",
+               "Academic Staff and Senior Engineers",
                "Associated Researchers and PIs",
                "Project Management",
                "Alumni"]

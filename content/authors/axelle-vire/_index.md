@@ -3,7 +3,7 @@
 name: Axelle Viré
 
 # Order of appearance
-weight: 1
+weight: 5
 
 # Username (this should match the folder name)
 authors:
@@ -76,7 +76,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Academic Staff
+- Academic Staff and Senior Engineers
 
 # (1) One sentence about your function (for academic staff) and then another sentence about your role(s) within the training network
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
