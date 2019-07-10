@@ -1,16 +1,16 @@
 ---
-title: AWE-tool
-summary: 'Computes properties of a kite flying in crosswind conditions: flight velocity, apparent wind velocity, tether force, generated power, ...'
-authors: ["Eva Ahbe", "Roy S. Smith"]
+title: preCICE-MBDyn
+summary: A [preCICE](https://www.precice.org/) adapter to couple the open source multibody solver [MBDyn](https://www.mbdyn.org/) with a variety of other simulation tools.
+authors: ["Mikko Folkersma"]
 tags:
 - Modelling and Simulation
-- Control systems
-- Crosswind flight
-date: "2017-05-30T00:00:00Z"
-weight: 60
+- Finite Element Method
+- Fluid Structure Interaction
+date: "2018-05-02T00:00:00Z"
+weight: 40
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/evaahbe/AWE_tool/"
+external_link: "https://github.com/precice/mbdyn-adapter"
 
 image:
   focal_point: Smart

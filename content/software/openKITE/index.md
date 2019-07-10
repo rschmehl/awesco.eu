@@ -3,10 +3,12 @@ title: openKITE
 summary: A [ROS](https://en.wikipedia.org/wiki/Robot_Operating_System) package for simulation, estimation and control of rigid-wing airborne wind energy systems.
 authors: ["Peter Listov", "Colin Jones"]
 tags:
+- Modelling and Simulation
+- Control Systems
 - Sensors and Estimation
 - Periodic Orbits
 date: "2018-05-02T00:00:00Z"
-weight: 7
+weight: 50
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/LA-EPFL/openkite"

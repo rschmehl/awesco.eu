@@ -1,16 +1,16 @@
 ---
-title: AWE-tool
-summary: 'Computes properties of a kite flying in crosswind conditions: flight velocity, apparent wind velocity, tether force, generated power, ...'
-authors: ["Eva Ahbe", "Roy S. Smith"]
+title: mem4py
+summary: A Finite Element solver specifically developed for the deformation of membrane structures under aerodynamic load.
+authors: ["Paul Thedens"]
 tags:
 - Modelling and Simulation
-- Control systems
-- Crosswind flight
-date: "2017-05-30T00:00:00Z"
-weight: 60
+- Finite Element Method
+- Fluid Structure Interaction
+date: "2018-12-08T00:00:00Z"
+weight: 30
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/evaahbe/AWE_tool/"
+external_link: "https://github.com/pthedens/mem4py"
 
 image:
   focal_point: Smart

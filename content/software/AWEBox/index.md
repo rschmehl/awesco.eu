@@ -3,10 +3,10 @@ title: AWEBox
 summary: A Python toolbox for modelling and optimal control of multiple-kite systems for airborne wind energy harvesting.
 authors: ["Rachel Leuthold", "Thilo Bronnenmeyer", "Jochem de Schutter", "Giovanni Licitra", "Markus Sommerfeld", " Elena Malz", "Sebastien Gros", "Moritz Diehl"]
 tags:
-- System Modelling
+- Modelling and Simulation
 - Optimal Control
 date: "2018-05-02T00:00:00Z"
-weight: 9
+weight: 10
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/awebox/awebox"
