@@ -1,13 +1,13 @@
 ---
 # Display name
-name: Mikko Folkersma
+name: Ashwin Candade
 
 # Order of appearance
-weight: 1
+weight: 12
 
 # Username (this should match the folder name)
 authors:
-- mikko-folkersma
+- ashwin-candade
 
 # Is this the primary user of the site?
 superuser: false
@@ -25,21 +25,25 @@ organizations:
   url: "http://www.tudelft.nl"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include airborne wind energy and computational fluid dynamics.
+bio: Thomas Haas's research is on optimal control of a centrifugally stiffened rotor in pumping cycle operation.
 
 interests:
-- Computational Fluid Dynamics
-- Computational Structural Mechanics
-- Fluid Structure Interaction
+- Modelling, simulation, and control
+- Aerodynamic vortex methods
+- Centrifugally stiffened rotors
+- Multi-kite systems
 
 education:
   courses:
-  - course: MSc in Mechanical Engineering
-    institution: Tampere University of Technology
+  - course: MSc in Aerospace Engineering (EWEM)
+    institution: Delft University of Technology
     year: 2015
-  - course: BSc in Mechanical Engineering
-    institution: Tampere University of Technology
-    year: 2014
+  - course: MSc in Wind Energy (EWEM)
+    institution: Technical University of Denmark
+    year: 2015
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -48,11 +52,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:m.a.m.folkersma@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:p.thedens@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Mikko_Folkersma
-
+  link: https://www.researchgate.net/profile/Elena_Malz
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -71,4 +74,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Mikko Folkersma is Marie-Skłodowska-Curie Fellow at Delft University of Technology under supervision of Dr. Roland Schmehl and Dr. Axelle Viré. He is focusing on fluid structure interaction of flexible membrane wings for airborne wind energy generation.
+Rachel Leuthold is Marie-Skłodowska-Curie Fellow working on optimal control of a centrifugally stiffened rotor in pumping cycle operation. She obtained an MSc in Aerospace Engineering from the Technical University of Delft (Netherlands) in 2015, with a thesis on a multiple wake vortex lattice method for membrane-wing kites. She graduated with a BSc in Aeronautical and Astronautical Engineering from the Massachusetts Institute of Technology (USA) in 2011.

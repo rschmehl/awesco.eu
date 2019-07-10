@@ -17,7 +17,7 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Airborne Wind Energy
+- name: Airborne Wind Energy Group
   url: "http://www.kitepower.eu"
 - name: Faculty of Aerospace Engineering
   url: "http://www.tudelft.nl/lr"

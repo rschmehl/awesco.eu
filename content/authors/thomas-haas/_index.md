@@ -1,13 +1,13 @@
 ---
 # Display name
-name: Sebastian Rapp
+name: Thomas Haas
 
 # Order of appearance
-weight: 2
+weight: 6
 
 # Username (this should match the folder name)
 authors:
-- sebastian-rapp
+- thomas-haas
 
 # Is this the primary user of the site?
 superuser: false
@@ -17,29 +17,30 @@ role: PhD researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Airborne Wind Energy Group
-  url: "http://www.kitepower.eu"
-- name: Faculty of Aerospace Engineering
-  url: "http://www.tudelft.nl/lr"
-- name: Delft University of Technology
-  url: "http://www.tudelft.nl"
+- name: Systems Control and Optmization Laboratory
+  url: "https://www.syscop.de"
+- name: IMTEK, Faculty of Engineering
+  url: "https://www.imtek.de"
+- name: University of Freiburg
+  url: "https://www.uni-freiburg.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Thomas Haas's research is on optimal control of a centrifugally stiffened rotor in pumping cycle operation.
 
 interests:
-- Flight Control
-- Vertical Takeoff and Landing
-- Failure Recovery
+- Modelling, simulation, and control
+- Aerodynamic vortex methods
+- Centrifugally stiffened rotors
+- Multi-kite systems
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
+  - course: MSc in Aerospace Engineering (EWEM)
+    institution: Delft University of Technology
+    year: 2015
+  - course: MSc in Wind Energy (EWEM)
+    institution: Technical University of Denmark
+    year: 2015
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
@@ -51,10 +52,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:s.rapp@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:p.thedens@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Sebastian_Rapp3
+  link: https://www.researchgate.net/profile/Elena_Malz
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -73,4 +74,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Sebastian Rapp is Marie-Skłodowska-Curie Fellow focusing on robust flight control of airborne wind energy systems.
+Rachel Leuthold is Marie-Skłodowska-Curie Fellow working on optimal control of a centrifugally stiffened rotor in pumping cycle operation. She obtained an MSc in Aerospace Engineering from the Technical University of Delft (Netherlands) in 2015, with a thesis on a multiple wake vortex lattice method for membrane-wing kites. She graduated with a BSc in Aeronautical and Astronautical Engineering from the Massachusetts Institute of Technology (USA) in 2011.

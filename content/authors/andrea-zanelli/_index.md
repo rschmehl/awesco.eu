@@ -1,13 +1,13 @@
 ---
 # Display name
-name: Rachel Leuthold
+name: Andrea Zanelli
 
 # Order of appearance
-weight: 3
+weight: 4
 
 # Username (this should match the folder name)
 authors:
-- rachel-leuthold
+- andrea-zanelli
 
 # Is this the primary user of the site?
 superuser: false
@@ -17,21 +17,20 @@ role: PhD researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Systems Control and Optmization Laboratory
-  url: "https://www.syscop.de"
-- name: IMTEK, Faculty of Engineering
-  url: "https://www.imtek.de"
-- name: University of Freiburg
-  url: "https://www.uni-freiburg.de/"
+- name: Airborne Wind Energy
+  url: "http://www.kitepower.eu"
+- name: Faculty of Aerospace Engineering
+  url: "http://www.tudelft.nl/lr"
+- name: Delft University of Technology
+  url: "http://www.tudelft.nl"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Rachel Leuthold's research is on optimal control of a centrifugally stiffened rotor in pumping cycle operation.
+bio: My research interests include structural mechanics of flexible membrane wings.
 
 interests:
-- Modelling, simulation, and control
-- Aerodynamic vortex methods
-- Centrifugally stiffened rotors
-- Multi-kite systems
+- Finite Element Analysis
+- Structural Analysis
+- Aerodynamics
 
 education:
   courses:
@@ -55,7 +54,7 @@ social:
   link: 'mailto:p.thedens@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Rachel_Leuthold
+  link: https://www.researchgate.net/profile/Paul_Thedens
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -74,4 +73,12 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Rachel Leuthold is Marie-Skłodowska-Curie Fellow working on optimal control of a centrifugally stiffened rotor in pumping cycle operation. She obtained an MSc in Aerospace Engineering from the Technical University of Delft (Netherlands) in 2015, with a thesis on a multiple wake vortex lattice method for membrane-wing kites. She graduated with a BSc in Aeronautical and Astronautical Engineering from the Massachusetts Institute of Technology (USA) in 2011.
+Andrea Zanelli holds a Bachelor's degree in Automation Engineering at Politecnico di Milano in 2012 and a Master's degree at ETH Zurich in Robotics, Systems and Control in 2015. He is currently pursuing his PhD under the supervision of Prof. Moritz Diehl since November 2015. He is working on the design and implementation of efficient and reliable numerical methods for nonlinear optimization. In particular, he will be focusing on topics that range from algorithms for numerical optimization on embedded devices with limited resources to applications in the control and design of airborne wind energy systems.
+
+Among other things, I am currently focusing on the development of inexact numerical methods and optimal control formulations that lead to increased computational efficiency of the algorithms used in embedded optimization and nonlinear nonlinear model predictive control.
+
+He have been helping organizing the following courses as a teaching assistant:
+
+* semester course on [numerical optimal control](https://www.syscop.de/teaching/ss2017/numerical-optimal-control)
+* winter school on [numerical optimal control with differential algebraic equations](https://www.syscop.de/teaching/ws2015/nocdae)
+* semester course on [numerical optimization](https://www.syscop.de/teaching/ws2015/numopt)
