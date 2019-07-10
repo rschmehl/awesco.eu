@@ -6,7 +6,7 @@ authors: ["Mikko Folkersma", "Paul Thedens", "Roland Schmehl"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*13th OpenFOAM Workshop (OFW13)*"
+publication: "*Proceedings of the  13th OpenFOAM Workshop (OFW13)*"
 projects:
 - ESR01
 - ESR10

@@ -218,7 +218,7 @@ Loyd predicted that a large tethered aircraft could theoretically produce from 7
 
 Just before the turn of the century, TU Delft professor and former astronaut [Wubbo Ockels](https://www.esa.int/Our_Activities/Human_and_Robotic_Exploration/Astronauts/Wubbo_J._Ockels) presented a high altitude wind energy concept based on a cable loop that was running from a ground station into the sky.[^13]
 [^13]: Wubbo Ockels: "Laddermill, a novel concept to exploit the energy in the airspace". Aircraft Design, Vol. 4, No. 2-3, pp. 81-97, 2001. {{< doi_button doi="10.1016/S1369-8869(01)00002-7" >}}
-Driven by kites attached at regular intervals, the mechanical net traction power in the loop was to be converted into electricity at the ground. Although this “laddermill” was only a conceptual idea the persistent effort of Ockels would lead to the establishment of a [research group](http://kitepower.tudelft.nl) in 2004, spinning off two pioneering companies, [Ampyx Power](http://www.ampyxpower.com) (2007) and [Kitepower](http://www.kitepower.nl) (2016). The increasing number of institutions involved in AWE worldwide is illustrated in the following diagram.
+Driven by kites attached at regular intervals, the mechanical net pulling power in the loop was to be converted into electricity at the ground. Although this “laddermill” was only a conceptual idea the persistent effort of Ockels would lead to the establishment of a [research group](http://kitepower.tudelft.nl) in 2004, spinning off two pioneering companies, [Ampyx Power](http://www.ampyxpower.com) (2007) and [Kitepower](http://www.kitepower.nl) (2016). The increasing number of institutions involved in AWE worldwide is illustrated in the following diagram.
 
 {{< figure_gallery src="awe-emergence.svg" >}}
 

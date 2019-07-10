@@ -1,5 +1,5 @@
 ---
-title: AWE tool
+title: AWE-tool
 summary: 'Computes properties of a kite flying in crosswind conditions: flight velocity, apparent wind velocity, tether force, generated power, ...'
 authors: ["Eva Ahbe", "Roy S. Smith"]
 tags:

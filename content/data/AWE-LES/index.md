@@ -1,14 +1,15 @@
 ---
-title: AWE-ERA5
-summary: A Python tool for downloading [ERA5](https://www.ecmwf.int/en/about/media-centre/news/2019/new-era5-dataset-provides-weather-and-climate-details-back-1979) reanalysis data and computing the resource potential of airborne wind energy.
-authors: ["Philip Bechtle", "Mark Schelbergen", "Roland Schmehl", "Udo Zillmann", "Simon Watson"]
+title: AWE-LES
+summary: Time-resolved three-dimensional wind field data computed with the pseudo-spectral Large-Eddy Simulation software [SP-Wind](https://www.mech.kuleuven.be/en/tme/research/tfso/wind-energy).
+authors: ["Thomas Haas", "Johan Meyers"]
 tags:
-- Resource Analysis
+- Wind Field data
+- Large Eddy Simulation
 date: "2019-01-01T00:00:00Z"
 weight: 10
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/rschmehl/awe-era5/"
+external_link: "http://doi.org/10.5281/zenodo.1418676"
 
 image:
   focal_point: Smart
