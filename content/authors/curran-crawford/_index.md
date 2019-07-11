@@ -1,24 +1,26 @@
 ---
 # Display name
-name: Pietro Faggiani
+name: Curran Crawford
 
 # Order of appearance
-weight: 35
+weight: 15
 
 # Username (this should match the folder name)
 authors:
-- pietro-faggiani
+- curran-crawford
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Simulation Engineer
+role: Associate Professor, University of Victoria
 
 # Organizations/Affiliations
 organizations:
-- name: Kitepower B.V.
-  url: "http://www.kitepower.nl"
+- name: Institute for Integrated Energy Systems
+  url: "http://www.uvic.ca/research/centres/iesvic/"
+- name: University of Victoria
+  url: "http://www.uvic.ca/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include structural mechanics of flexible membrane wings.

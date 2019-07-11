@@ -3,7 +3,7 @@
 name: Markus Sommerfeld
 
 # Order of appearance
-weight: 1
+weight: 10
 
 # Username (this should match the folder name)
 authors:

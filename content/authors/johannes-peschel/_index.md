@@ -1,19 +1,19 @@
 ---
 # Display name
-name: Pietro Faggiani
+name: Johannes Peschel
 
 # Order of appearance
-weight: 35
+weight: 30
 
 # Username (this should match the folder name)
 authors:
-- pietro-faggiani
+- johannes-peschel
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Simulation Engineer
+role: CEO and co-founder
 
 # Organizations/Affiliations
 organizations:

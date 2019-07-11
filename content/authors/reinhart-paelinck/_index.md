@@ -3,7 +3,7 @@
 name: Reinhart Paelinck
 
 # Order of appearance
-weight: 2
+weight: 50
 
 # Username (this should match the folder name)
 authors:

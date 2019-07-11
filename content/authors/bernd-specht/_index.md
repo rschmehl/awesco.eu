@@ -1,40 +1,44 @@
 ---
 # Display name
-name: Lode Carnel
+name: Bernd Specht
 
 # Order of appearance
-weight: 20
+weight: 10
 
 # Username (this should match the folder name)
 authors:
-- lode-carnel
+- bernd-specht
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Technical Manager
+role: Head Research & Develeopment
 
 # Organizations/Affiliations
 organizations:
-- name: Kitemill AS
-  url: "http://www.kitemill.com"
+- name: Skysails Yacht GmbH
+  url: "http://www.skysails.info"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is focused on airborne wind energy resource assessment and performance modeling.
+bio: My research interests are in airborne wind energy and floating offshore wind energy.
 
 interests:
-- Wind Resource Assessment
-- Performance Modeling
+- Computational Fluid Dynamics
+- Fluid Structure Interaction
+- Floating Offshore Wind Energy
 
 education:
   courses:
-  - course: MSc in Mechanical Engineering and Energy Technology
-    institution: Technical University of Kaiserslautern
-    year: 2015
-  - course: BSc in Mechanical Engineering
-    institution: Technical University of Kaiserslautern
-    year: 2013
+  - course: PhD in Physics
+    institution: Université Libre de Bruxelles
+    year: 2010
+  - course: MSc in Engineering Sciences
+    institution: Université libre de Bruxelles
+    year: 2006
+  - course: BSc in Engineering Sciences
+    institution: Université libre de Bruxelles
+    year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -43,11 +47,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:msommerf@uvic.ca'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:a.c.vire@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/axellevire
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/axelle-viré-7309261/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-0056-8213
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Markus_Sommerfeld
-
+  link: https://www.researchgate.net/profile/Axelle_Vire
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -60,11 +72,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Associated Researchers and PIs
+- Academic Staff and Senior Engineers
 
 # (1) One sentence about your function (for academic staff) and then another sentence about your role(s) within the training network
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
-Markus Sommerfeld is PhD researcher at the Institute for Integrated Energy Systems (IESVic) of the University of Victoria. He is associated with the doctoral training network AWESCO.
 
-Under the supervision of Dr. Curran Crawford and the support from the Pacific Institute for Climate Solutions (PICS), Markus' research addresses some of the key challenges of Airborne Wind Energy, with a focus on the assessment of the available wind resource. In his free time Markus enjoys jogging and other outdoor sports to clear his mind, as well as studying Japanese.
+Dr. Axelle Viré is ...
