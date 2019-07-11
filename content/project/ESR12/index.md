@@ -3,7 +3,7 @@ title: Multidisciplinary System Design, Safety and Cost Optimisation of AWE
 summary: Ashwin Candade
 authors: ["Ashwin Candade"]
 tags:
-- System Design and Optimization
+- System Design and Optimisation
 - Carbon Composites
 date: "2018-12-04T00:00:00Z"
 weight: 12

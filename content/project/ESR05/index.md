@@ -3,7 +3,7 @@ title: Power Optimisation and Integration of AWE into the Future Energy System
 summary: Elena Malz
 authors: ["Elena Malz"]
 tags:
-- System Design and Optimization
+- System Design and Optimisation
 - Power Optimisation
 date: "2018-12-03T00:00:00Z"
 weight: 5

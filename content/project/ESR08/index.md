@@ -3,7 +3,7 @@ title: Ground Station Design and Optimisation for Airborne Wind Energy
 summary: Mahdi Ebrahimi Salari
 authors: ["Mahdi Ebrahimi Salari"]
 tags:
-- System Design and Optimization
+- System Design and Optimisation
 - Ground Station
 date: "2018-11-30T00:00:00Z"
 weight: 8
