@@ -3,7 +3,7 @@
 name: Soeren Sieberling
 
 # Order of appearance
-weight: 15
+weight: 8
 
 # Username (this should match the folder name)
 authors:
@@ -67,7 +67,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Academic Staff and Senior Engineers
+- Principal Investigators
 
 # (1) One sentence about your function (for academic staff) and then another sentence about your role(s) within the training network
 # (2) Research interests, achievements, and personal interests (mainly for researchers)

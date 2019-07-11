@@ -1,37 +1,30 @@
 ---
 # Display name
-name: Roy S. Smith
+name: Stephan Brabeck
 
 # Order of appearance
-weight: 12
+weight: 9
 
 # Username (this should match the folder name)
 authors:
-- roy-smith
+- stephan-brabeck
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor
+role: CEO and co-founder
 
 # Organizations/Affiliations
 organizations:
-- name: Systems and Control Laboratory (SySCOP)
-  url: "https://www.syscop.de/"
-- name: Department of Microsystems Engineering (IMTEK)
-  url: "http://imtek.de/"
-- name: Albert Ludwigs University of Freiburg
-  url: "https://www.uni-freiburg.de/"
+- name: Skysails
+  url: "https://www.skysails.info/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests are in airborne wind energy.
 
 interests:
 - Airborne Wind Energy
-- Computational Fluid Dynamics
-- Fluid Structure Interaction
-- Aeroelasticity
 
 education:
   courses:

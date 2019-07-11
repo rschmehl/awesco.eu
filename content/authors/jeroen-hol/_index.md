@@ -3,7 +3,7 @@
 name: Jeroen Hol
 
 # Order of appearance
-weight: 25
+weight: 10
 
 # Username (this should match the folder name)
 authors:

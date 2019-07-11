@@ -13,16 +13,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Flight Operations Engineer
+role: Simulation Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Airborne Wind Energy
-  url: "http://www.kitepower.eu"
-- name: Faculty of Aerospace Engineering
-  url: "http://www.tudelft.nl/lr"
-- name: Delft University of Technology
-  url: "http://www.tudelft.nl"
+- name: Kitepower B.V.
+  url: "http://www.kitepower.nl"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include structural mechanics of flexible membrane wings.

@@ -3,7 +3,7 @@
 name: Daniel Toal
 
 # Order of appearance
-weight: 30
+weight: 7
 
 # Username (this should match the folder name)
 authors:

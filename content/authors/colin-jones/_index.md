@@ -1,28 +1,28 @@
 ---
 # Display name
-name: Roy S. Smith
+name: Colin N. Jones
 
 # Order of appearance
-weight: 12
+weight: 13
 
 # Username (this should match the folder name)
 authors:
-- roy-smith
+- colin-jones
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Systems and Control Laboratory (SySCOP)
-  url: "https://www.syscop.de/"
-- name: Department of Microsystems Engineering (IMTEK)
-  url: "http://imtek.de/"
-- name: Albert Ludwigs University of Freiburg
-  url: "https://www.uni-freiburg.de/"
+- name: Automatic Control Laboratory
+  url: "https://la.epfl.ch/"
+- name: School of Engineering
+  url: "https://sti.epfl.ch/"
+- name: Ecole Polytechnique Federale de Lausanne
+  url: "https://www.epfl.ch/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests are in airborne wind energy.
@@ -65,7 +65,3 @@ email: ""
 user_groups:
 - Principal Investigators
 ---
-
-Moritz Diehl was born in Hamburg, Germany, in 1971. He studied physics and mathematics at Heidelberg and Cambridge University from 1993-1999, and received his Ph.D. degree from Heidelberg University in 2001, at the Interdisciplinary Center for Scientific Computing. From 2006 to 2013, he was a professor with the Department of Electrical Engineering, KU Leuven University Belgium, and served as the Principal Investigator of KU Leuven's Optimization in Engineering Center OPTEC. He was the principal investigator of the ERC Project HIGHWIND.
-
-In 2013 he moved to the University of Freiburg, Germany, where he heads the Systems Control and Optimization Laboratory, in the Department of Microsystems Engineering (IMTEK), and is also affiliated to the Department of Mathematics. His research interests are in optimization and control,  spanning from numerical method  development to applications in different branches of engineering, with a focus on embedded and on renewable energy systems.

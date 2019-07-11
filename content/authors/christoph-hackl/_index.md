@@ -3,7 +3,7 @@
 name: Christoph Hackl
 
 # Order of appearance
-weight: 20
+weight: 6
 
 # Username (this should match the folder name)
 authors:

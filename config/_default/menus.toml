@@ -22,11 +22,48 @@
   name = "People"
   url = "#people"
   weight = 35
+  identifier = "people"
+
+  [[main]]
+    name = "Researchers"
+    url = "#Researchers"
+    weight = 36
+    parent = "people"
+
+  [[main]]
+    name = "Principal Investigators"
+    url = "#Principal Investigators"
+    weight = 37
+    parent = "people"
+
+  [[main]]
+    name = "Academic Staff and Senior Engineers"
+    url = "#Academic Staff and Senior Engineers"
+    weight = 38
+    parent = "people"
+
+  [[main]]
+    name = "Associated Researchers and PIs"
+    url = "#Associated Researchers and PIs"
+    weight = 39
+    parent = "people"
+
+  [[main]]
+    name = "Project Management"
+    url = "#Project Management"
+    weight = 40
+    parent = "people"
+
+  [[main]]
+    name = "Alumni"
+    url = "#Alumni"
+    weight = 41
+    parent = "people"
 
 [[main]]
   name = "Publications"
   url = "#publications"
-  weight = 40
+  weight = 45
 
 [[main]]
   name = "Software"
