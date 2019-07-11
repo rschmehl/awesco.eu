@@ -3,7 +3,7 @@
 name: Joseph Coleman
 
 # Order of appearance
-weight: 10
+weight: 30
 
 # Username (this should match the folder name)
 authors:

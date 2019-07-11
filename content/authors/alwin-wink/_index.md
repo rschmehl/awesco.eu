@@ -1,19 +1,19 @@
 ---
 # Display name
-name: Ni Yan
+name: Alwin Wink
 
 # Order of appearance
-weight: 1
+weight: 2
 
 # Username (this should match the folder name)
 authors:
-- ni-yan
+- alwin-wink
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Project Manager
+role: Financial Administrator
 
 # Organizations/Affiliations
 organizations:
@@ -25,6 +25,8 @@ bio: My research interests are in airborne wind energy and floating offshore win
 
 interests:
 - Computational Fluid Dynamics
+- Fluid Structure Interaction
+- Floating Offshore Wind Energy
 
 education:
   courses:
