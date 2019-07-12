@@ -19,10 +19,12 @@
       {{ partial $widget $params }}
     {{end}}
 
-    {{ $pubs := first 6 (where .Pages "Type" "publication") }}
+    {{ $pubs := first 100 (where .Pages "Type" "publication") }}
     {{ $pubs_len := len $pubs }}
     {{ if ge $pubs_len 1 }}
-      <h2>{{ (i18n "publications") }}</h2>
+    <div class="article-widget">
+      <div class="hr-light"></div>
+      <h3>{{ (i18n "publications") }}</h3>
       {{ range $pubs }}
         {{ if eq site.Params.projects.publication_view 1 }}
           {{ partial "li_list" . }}
@@ -34,6 +36,7 @@
           {{ partial "li_compact" . }}
         {{ end }}
       {{ end }}
+    </div>
     {{ end }}
 </section>
 
