@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Christoph Hackl
+name: Christoph M. Hackl
 
 # Order of appearance
 weight: 6
