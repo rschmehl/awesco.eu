@@ -23,7 +23,6 @@
     {{ $pubs_len := len $pubs }}
     {{ if ge $pubs_len 1 }}
     <div class="article-widget">
-      <div class="hr-light"></div>
       <h3>{{ (i18n "publications") }}</h3>
       {{ range $pubs }}
         {{ if eq site.Params.projects.publication_view 1 }}
