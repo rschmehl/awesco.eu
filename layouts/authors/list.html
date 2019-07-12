@@ -1,0 +1,40 @@
+{{/* Author profile page. */}}
+
+{{- define "main" -}}
+
+{{/* If an account has not been created for this user, just display their name as the title. */}}
+{{ if not .File }}
+<div class="universal-wrapper pt-3">
+  <h1 itemprop="name">{{ .Title }}</h1>
+</div>
+{{ end }}
+
+<section id="profile-page" class="pt-5">
+  <div class="container">
+    {{/* Show the About widget if an account exists for this user. */}}
+    {{ if .File }}
+      {{ $widget := "widgets/about.html" }}
+      {{ $username := (path.Base (path.Split .Path).Dir) }}{{/* Alternatively, use `index .Params.authors 0` */}}
+      {{ $params := dict "root" $ "page" . "author" $username }}
+      {{ partial $widget $params }}
+    {{end}}
+
+    {{ $pubs := first 6 (where .Pages "Type" "publication") }}
+    {{ $pubs_len := len $pubs }}
+    {{ if ge $pubs_len 1 }}
+      <h2>{{ (i18n "publications") }}</h2>
+      {{ range $pubs }}
+        {{ if eq site.Params.projects.publication_view 1 }}
+          {{ partial "li_list" . }}
+        {{ else if eq site.Params.projects.publication_view 3 }}
+          {{ partial "li_card" . }}
+        {{ else if eq site.Params.projects.publication_view 4 }}
+          {{ partial "li_citation" . }}
+        {{ else }}
+          {{ partial "li_compact" . }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+</section>
+
+{{- end -}}
