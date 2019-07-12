@@ -1,19 +1,19 @@
 ---
 # Display name
-name: Mikko Folkersma
+name: Johannes Oehler
 
 # Order of appearance
-weight: 1
+weight: 55
 
 # Username (this should match the folder name)
 authors:
-- mikko-folkersma
+- johannes-oehler
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD researcher
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -25,21 +25,24 @@ organizations:
   url: "http://www.tudelft.nl"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are computational fluid dynamics and fluid-structure interaction.
+bio: My research interests include structural mechanics of flexible membrane wings.
 
 interests:
-- Computational Fluid Dynamics
-- Computational Structural Mechanics
-- Fluid Structure Interaction
+- Finite Element Analysis
+- Structural Analysis
+- Aerodynamics
 
 education:
   courses:
-  - course: MSc in Mechanical Engineering
-    institution: Tampere University of Technology
+  - course: MSc in Aerospace Engineering (EWEM)
+    institution: Delft University of Technology
     year: 2015
-  - course: BSc in Mechanical Engineering
-    institution: Tampere University of Technology
-    year: 2014
+  - course: MSc in Wind Energy (EWEM)
+    institution: Technical University of Denmark
+    year: 2015
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -48,11 +51,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:m.a.m.folkersma@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:p.thedens@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Mikko_Folkersma
-
+  link: https://www.researchgate.net/profile/Paul_Thedens
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -65,10 +67,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+- Associated Researchers and PIs
 
 # (1) One sentence about your function (for academic staff) and then another sentence about your role(s) within the training network
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
-
-Mikko Folkersma is Marie-Skłodowska-Curie Fellow at Delft University of Technology under supervision of Dr. Roland Schmehl and Dr. Axelle Viré. He is focusing on fluid structure interaction of flexible membrane wings for airborne wind energy generation.

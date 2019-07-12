@@ -97,6 +97,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Dr. Roland Schmehl is head of the Airborne Wind Energy research group at Delft University of Technology. Together with Johannes Peschel he cofounded in 2016 the start-up company Kitepower. His research interests are airborne wind energy in general and aeroelasticity of tethered membrane wings and fixed-wing aircraft in particular.
-
-Roland has edited two textbooks about airborne wind energy that were published with Springer in 2013 and 2018. He is coordinator of the Marie Skłodowska-Curie Initial Training Network AWESCO and the "Fast Track to Innovation" project REACH, both funded by the European Union's Horizon 2020 Framework Programme.
+Dr. Roland Schmehl is head of the Airborne Wind Energy research group at Delft University of Technology. He is coordinator of the Marie Skłodowska-Curie Initial Training Network [AWESCO](https://cordis.europa.eu/project/rcn/193938/) and the "Fast Track to Innovation" project [REACH](https://cordis.europa.eu/project/rcn/199241/), both funded by the European Union's Horizon 2020 Framework Programme. In 2016 he cofounded the start-up company [Kitepower](http://www.kitepower.nl) together with Johannes Peschel. His research interests are airborne wind energy in general and aeroelasticity of tethered membrane wings and fixed-wing aircraft in particular. He has edited two textbooks about airborne wind energy that were published with Springer in 2013 and 2018.
