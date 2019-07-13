@@ -1,7 +1,7 @@
 ---
 title: "The Effect of Realistic Wind Profiles on Multiple-Kite System Optimal Control"
-date: 2017-10-05
-publishDate: 2017-10-05T11:30:59.880056Z
+date: 2017-10-05/2017-10-06
+publishDate: 2019-07-13T21:13:50.863500Z
 authors: ["Rachel Leuthold", "Jochem De Schutter", "Elena Malz", "Sébastien Gros", "Moritz Diehl"]
 publication_types: ["1"]
 abstract: ""
@@ -11,3 +11,4 @@ url_pdf: "http://resolver.tudelft.nl/uuid:b31ab637-5c0d-46db-8d68-55526d5396f0"
 projects:
 - ESR03
 ---
+

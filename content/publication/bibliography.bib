@@ -31,21 +31,15 @@
   doi     = {10.2514/1.G004246},
 }
 
-@Article{Folkersma2019a,
-  author  = {Folkersma, Mikko and Schmehl, Roland and Vir\'{e}, Axelle},
-  title   = {Boundary layer transition modeling on leading edge inflatable kite airfoils},
-  journal = {Wind Energy},
-  year    = {2019},
-  doi     = {10.1002/we.2329},
-}
-
 @InProceedings{Folkersma2018,
   author    = {Folkersma, Mikko and Thedens, Paul and Schmehl, Roland},
   title     = {Fluid-Structure Interaction of Inflatable Wing Section},
   booktitle = {Proceedings of the 13th OpenFOAM Workshop (OFW13)},
   year      = {2018},
   address   = {Shanghai, China},
+  abstract  = {Airborne  wind  energy  (AWE)  is  a  concept  for  harvesting  wind  energy  using  tethered  flying  devices.  Compared  toconventional wind turbines AWE systems require substantially less support structures like a tower.  The replacementof towers by tethers also allow accessing higher altitudes where winds blow stronger and more persistent.  Severalconfigurations are currently pursued.  Electricity can be generated with on-board propellers which are driven by the airflow and the power is transmitted to the ground through a conducting tether. Another configuration is the pumping cyclein which case the kite flies crosswind to pull a tether that is unreeled as it moves a ground-based electrical generator, anda retraction phase when the kite is reeled in. Next to electricity generation AWE can also be used for ship propulsion. We consider a single cell of a ram-air wing in our study which is based on an inflatable double skin design.  Ram-air wings are inflated by the stagnation pressure entering through inlets at the leading edge. The internalpressure provides structural stability and stiffness.  The fully or partially inflated structure is flexible and can thereforeexhibit large deformations during flight.  This introduces a strong coupling between the structure and the air flow sincethe internal pressure in dependent on the wind speed, and a deformed kite will inevitably have a different pressure fieldcaused by the flow compared to an un-deformed kite. Also, bridle system induces a significant additional drag to the wingdrag and therefore the kites fly with high angle of attack to obtain high lift and to ultimately maximise power output. Highangles of attack causes the flow to separate which cannot be simulated with fast inviscid methods and therefore a CFDanalysis tool such as OpenFOAM is required.The main challenge in analysis and design of these kites is the governing fluid-structure interaction (FSI) mechanism,which leads to a drastic increase in model complexity. On the other hand utilising FSI is crucial to obtain reliable results. on  performance  measures  and  structural  integrity.   We  follow  the  partitioned  coupling  approach,  where  the  fluid  andstructure domains are solved individually and coupled at their interface. In this work we couple OpenFOAM with ourfinite element (FE) solver mem4pyby using the coupling tool preCICE. The coupled solver is then used to simulate asingle ram-air wing section (cell) and its change in aerodynamic performance due to deformation.},
   date      = {2018-06-26/2018-06-29},
+  projects  = {ESR01 ESR10},
 }
 
 @InProceedings{Folkersma2017,
@@ -58,6 +52,7 @@
   address   = {Freiburg, Germany},
   publisher = {University of Freiburg | Delft University of Technology},
   date      = {2017-10-05/2017-10-06},
+  projects  = {ESR01},
   url       = {http://resolver.tudelft.nl/uuid:dc4e8533-25f7-476b-ac05-0febbfa7cca6},
 }
 
@@ -84,6 +79,7 @@
   address   = {Freiburg, Germany},
   publisher = {University of Freiburg | Delft University of Technology},
   date      = {2017-10-05/2017-10-06},
+  projects  = {ESR03},
   url       = {http://resolver.tudelft.nl/uuid:b31ab637-5c0d-46db-8d68-55526d5396f0},
 }
 
@@ -94,6 +90,7 @@
   year      = {2018},
   address   = {Limassol, Cyprus},
   publisher = {IEEE},
+  abstract  = {Multiple-kite airborne wind energy (AWE) systems are typically characterized by unstable and highly non-linear dynamics which often translates to intricate controller design and challenging coordination problems. Rotary kite AWE systems (RAWES) have been alternatively proposed for small-scale applications, under the assumption that they can reduce the complexity of the control problem. This paper confirms that a small, rigid-wing RAWES in pumping mode can be controlled effectively in a large operational range, using only pitch control as on-board actuation. Optimal control is applied to compute RAWES pumping trajectories in different operating regions, for a design geometry that is optimized for a rated wind speed under structural constraints. The reduced control complexity comes at the cost of a low harvesting factor, close to that of conventional wind turbines.},
   date      = {2018-06-12/2018-06-15},
   doi       = {10.23919/ECC.2018.8550383},
   url       = {https://cdn.syscop.de/publications/DeSchutter2018.pdf},
@@ -106,31 +103,35 @@
   year      = {2018},
   address   = {Limassol, Cyprus},
   publisher = {IEEE},
+  abstract  = {Multiple-kite airborne wind energy systems (MAWES) aim to efficiently harvest the stronger, less-intermittent winds at high altitude without material-intensive towers. Solving a series of optimal control problems for two-kite MAWES, we show that pumping-cycle MAWES have three distinct operational regions: Region I, where power is consumed to stay aloft; Region II, where the power harvesting factor grows until the design wind speed; and Region III, where the power extraction is curtailed so as to respect the physical limitations of the system. The actuator disk (AD) method is arguably the simplest tool to model aerodynamic induction effects, though its validity is limited. In this paper, we show that AD is not valid for Region I.},
   date      = {2018-06-12/2018-06-15},
   doi       = {10.23919/ECC.2018.8550199},
+  projects  = {ESR03 ESR05},
   url       = {https://cdn.syscop.de/publications/Leuthold2018.pdf},
 }
 
-@Proceedings{Diehl2017,
+@Book{Diehl2017,
   title     = {The International Airborne Wind Energy Conference 2017: Book of Abstracts},
+  publisher = {University of Freiburg | Delft University of Technology},
   year      = {2017},
   editor    = {Diehl, Moritz and Leuthold, Rachel and Schmehl, Roland},
   address   = {Freiburg, Germany},
-  publisher = {University of Freiburg | Delft University of Technology},
   date      = {2017-10-05/2017-10-06},
   doi       = {10.6094/UNIFR/12994},
   pagetotal = {188},
 }
 
 @Article{Leuthold2017a,
-  author  = {Leuthold, Rachel and Gros, Sebastien and Diehl, Moritz},
-  title   = {Induction in Optimal Control of Multiple-Kite Airborne Wind Energy Systems},
-  journal = {IFAC-PapersOnLine},
-  year    = {2017},
-  volume  = {50},
-  number  = {1},
-  pages   = {153--158},
-  doi     = {10.1016/j.ifacol.2017.08.026},
+  author   = {Leuthold, Rachel and Gros, Sebastien and Diehl, Moritz},
+  title    = {Induction in Optimal Control of Multiple-Kite Airborne Wind Energy Systems},
+  journal  = {IFAC-PapersOnLine},
+  year     = {2017},
+  volume   = {50},
+  number   = {1},
+  pages    = {153--158},
+  abstract = {Multiple-kite Airborne Wind Energy Systems (MAWES) aim to decrease inter-mittency and cost over conventional wind turbines, while generating more power than other airborne wind energy systems. The purpose of this work is to estimate whether axial and angular induction are relevant phenomena in the modelling of pumping-cycle MAWES with two or more kites. Considering the modelling assumptions, axial induction is a relevant phenomenon and leads to significant changes in design-point, especially with respect to kite mass and secondary tether length. However, angular induction can be neglected in modelling for optimal design and control problems.},
+  doi      = {10.1016/j.ifacol.2017.08.026},
+  projects = {ESR03},
 }
 
 @InProceedings{Folkersma2019b,
@@ -139,7 +140,9 @@
   booktitle = {Proceedings of CFD with OpenSource Software},
   year      = {2019},
   editor    = {Nilsson, Hakan},
-  doi       = {http://dx.doi.org/10.17196/OS_CFD#YEAR_2018},
+  abstract  = {In  this  work,  we  show  how  to  couple  OpenFOAM  (foam-extend)  and  MBDyn softwares  withpreCICE coupling tool to form a strongly coupled fluid-structure interaction (FSI) frameworkfor  membrane  structures.   We  use  an  already  existing  preCICE  adapter  for  foam-extend  and  wedevelop an adapter for MBDyn in this work.  The coupled FSI framework is verified by carryingout a simulation on a modified cavity test case which has a flexible membrane at the bottom of thedomain.  The results are compared with the results of other authors. The solvers and the couplingtool are introduced here briefly.},
+  doi       = {10.17196/OS_CFD#YEAR_2018},
+  projects  = {ESR01},
 }
 
 @Proceedings{Schmehl2015,
@@ -173,8 +176,10 @@
   pages     = {46--51},
   address   = {Limassol, Cyprus},
   month     = {June},
+  abstract  = {State-feedback controllers are frequently employed in Airborne Wind Energy systems to follow reference flight paths. In this paper we compute the region of attraction (ROA) of path-stabilizing feedback gains around a periodic trajectory as typically flown by a power generating kite. The feedback gains are obtained from applying a time-varying periodic Linear Quadratic Regulator to the system expressed in transversal coordinates. To compute the ROA we formulate Lyapunov stability conditions which we verify by Sum-of-Squares programs. These programs are posed as an optimization problem for which we compare various definitions of the cost function representing the size of the ROA. In a numeric case study we demonstrate that the maximization of an expanding ellipse inside of quartic Lyapunov functions leads to significantly larger verified ROAs compared to the standard approach of optimizing over the scaling of the sublevel set of a quadratic Lyapunov function.},
   date      = {2018-06-12/2018-06-15},
   doi       = {10.23919/ECC.2018.8550252},
+  projects  = {ESR13},
 }
 
 @InProceedings{Ahbe2018b,
@@ -185,8 +190,10 @@
   pages     = {6501--6506},
   address   = {Miami Beach, FL, USA},
   month     = {Dec},
+  abstract  = {In this paper we propose a procedure for estimating the region in which a controller robustly stabilizes a system which is subject to affine parametric uncertainty by applying transverse contraction-based stability tools. The method consists of an optimization problem in which transverse contraction conditions are verified via sum-of-squares programs. The optimization approach can be used either to maximize the bounds on the allowable parameter uncertainty or to maximize the size of the region of contraction (ROC) given a fixed level of uncertainty. In a case study we apply the procedure to an Airborne Wind Energy system where the flight path of a power generating kite is controlled by a linear quadratic regulator based on a model which is prone to large parametric uncertainties. We consider periodic trajectories of the stabilized kite system and transform the dynamics into transversal coordinates for simplification of the controller design and reduction of the computational cost. The numerical results of the proposed optimization show that uncertainty in the steering gain parameter decreases the size of the ROC while uncertainty in wind speed or line length within the considered range of operating conditions does not affect the size of the robust ROC.},
   date      = {2018-12-17/2018-12-19},
   doi       = {10.1109/CDC.2018.8619106},
+  projects  = {ESR13},
 }
 
 @InProceedings{Folkersma2019c,
@@ -195,7 +202,9 @@
   booktitle = {Proceedings of the 8th International Conference on Coupled Problems in Science and Engineering},
   year      = {2019},
   address   = {Sitges (Barcelona), Spain},
+  abstract  = {Airborne wind energy (AWE) is a novel renewable energy technology for harvesting wind energyby using kites.  Compared to conventional wind turbines, the AWE systems use a lightweightstructure which can reach higher altitudes where the winds are stronger and more persistent.In this work, we study the steady-state aerodynamics of a ram-air kite section which is made ofmembranes.  The inflatable structure of the kite is highly flexible and therefore exhibit a strongcoupling between fluid and structure.  An accurate aerodynamic model is essential to design asystem which is both aerodynamically efficient and of high steering capability.  The aerodynamicload distribution is calculated using computational fluid dynamics (CFD) toolbox OpenFOAMwith FOAM-FSI extension.  The structural deformation is calculated with in-house mem4pyfinite  element  (FE)  solver  for  membranes  which  uses  dynamic  relaxation  method  to  find  thesteady-state shape.  The two solvers are coupled with preCICE coupling tool.},
   date      = {2019-06-03/2019-06-05},
+  projects  = {ESR01 ESR10},
 }
 
 @InProceedings{Leuthold2017c,
@@ -204,7 +213,9 @@
   booktitle = {Proceedings of the 20th World Congress The International Federation of Automatic Control},
   year      = {2017},
   address   = {Toulouse, France},
+  abstract  = {Multiple-kite  Airborne  Wind  Energy  Systems  (MAWES)  aim  to  decrease  inter-mittency  and  cost  over  conventional  wind  turbines,  while  generating  more  power  than  otherairborne wind energy systems. The purpose of this work is to estimate whether axial and angularinduction are relevant phenomena in the modelling of pumping-cycle MAWES with two or morekites.  Considering  the  modelling  assumptions,  axial  induction  is  a  relevant  phenomenon  andleads to significant changes in design-point, especially with respect to kite mass and secondarytether length. However, angular induction can be neglected in modelling for optimal design andcontrol problems.},
   date      = {2017-07-09/2017-07-14},
+  projects  = {ESR03},
 }
 
 @InProceedings{Leuthold2018b,
@@ -238,6 +249,7 @@
   address   = {Delft, The Netherlands},
   publisher = {Delft University of Technology},
   date      = {2015-06-15/2015-06-16},
+  projects  = {ESR03},
   url       = {http://resolver.tudelft.nl/uuid:6e00067b-b160-49e8-b7f5-a9a4396c6c0c},
 }
 
@@ -273,36 +285,42 @@
 }
 
 @Article{Frison2018,
-  author  = {Frison, Gianluca and Kouzoupis, Dimitris and Sartor, Tommaso and Zanelli, Andrea and Diehl, Moritz},
-  title   = {{BLASFEO}: Basic Linear Algebra Subroutines For Embedded Optimization},
-  journal = {ACM Transactions on Mathematical Software (TOMS)},
-  year    = {2018},
-  volume  = {44},
-  number  = {4},
-  pages   = {42:1--42:30},
-  doi     = {10.1145/3210754},
+  author   = {Frison, Gianluca and Kouzoupis, Dimitris and Sartor, Tommaso and Zanelli, Andrea and Diehl, Moritz},
+  title    = {{BLASFEO}: Basic Linear Algebra Subroutines For Embedded Optimization},
+  journal  = {ACM Transactions on Mathematical Software (TOMS)},
+  year     = {2018},
+  volume   = {44},
+  number   = {4},
+  pages    = {42:1--42:30},
+  abstract = {Basic Linear Algebra Subroutines for Embedded Optimization (BLASFEO) is a dense linear algebra library providing high-performance implementations of BLAS- and LAPACK-like routines for use in embedded optimization and small-scale high-performance computing, in general. A key difference with respect to existing high-performance implementations of BLAS is that the computational performance is optimized for small- to medium-scale matrices, i.e., for sizes up to a few hundred. BLASFEO comes with three different implementations: a high-performance implementation aimed at providing the highest performance for matrices fitting in cache, a reference implementation providing portability and embeddability and optimized for very small matrices, and a wrapper to standard BLAS and LAPACK providing high performance on large matrices. The three implementations of BLASFEO together provide high-performance dense linear algebra routines for matrices ranging from very small to large. Compared to both open-source and proprietary highly tuned BLAS libraries, for matrices of size up to about 100, the high-performance implementation of BLASFEO is about 20--30% faster than the corresponding level 3 BLAS routines and two to three times faster than the corresponding LAPACK routines.},
+  doi      = {10.1145/3210754},
+  projects = {ESR04},
 }
 
 @Article{Kouzoupis2018,
-  author  = {Kouzoupis, Dimitris and Frison, Gianluca and Zanelli, Andrea and Diehl, Moritz},
-  title   = {Recent advances in quadratic programming algorithms for nonlinear model predictive control},
-  journal = {Vietnam Journal of Mathematics},
-  year    = {2018},
-  volume  = {46},
-  number  = {4},
-  pages   = {863--882},
-  doi     = {10.1007/s10013-018-0311-1},
+  author   = {Kouzoupis, Dimitris and Frison, Gianluca and Zanelli, Andrea and Diehl, Moritz},
+  title    = {Recent advances in quadratic programming algorithms for nonlinear model predictive control},
+  journal  = {Vietnam Journal of Mathematics},
+  year     = {2018},
+  volume   = {46},
+  number   = {4},
+  pages    = {863--882},
+  abstract = {Over the past decades, the advantages of optimization-based control techniques over conventional controllers inspired developments that enabled the use of model predictive control (MPC) in applications with very high sampling rates. Since at the heart of most linear and nonlinear MPC controllers resides a quadratic programming (QP) solver, the implementation of efficient algorithms that exploit the underlying problem structure drew the attention of many researchers and the progress in the field has been remarkable. The aim of this paper is to summarize the main algorithmic advances in the field and to provide a consistent benchmark between a selection of software tools that have been recently developed. The code that was used for the simulations is publicly available for readers that wish to reproduce the results or test the benchmarked solvers on their own nonlinear MPC applications.},
+  doi      = {10.1007/s10013-018-0311-1},
+  projects = {ESR04},
 }
 
 @Article{Frison2017,
-  author  = {Frison, Gianluca and Quirynen, Rien and Zanelli, Andrea and Diehl, Moritz and Jørgensen, John Bagterp},
-  title   = {Hardware Tailored Linear Algebra for Implicit Integrators in Embedded NMPC},
-  journal = {IFAC-PapersOnLine},
-  year    = {2017},
-  volume  = {50},
-  number  = {1},
-  pages   = {14392-14398},
-  doi     = {10.1016/j.ifacol.2017.08.2026},
+  author   = {Frison, Gianluca and Quirynen, Rien and Zanelli, Andrea and Diehl, Moritz and Jørgensen, John Bagterp},
+  title    = {Hardware Tailored Linear Algebra for Implicit Integrators in Embedded NMPC},
+  journal  = {IFAC-PapersOnLine},
+  year     = {2017},
+  volume   = {50},
+  number   = {1},
+  pages    = {14392-14398},
+  abstract = {Nonlinear Model Predictive Control (NMPC) requires the efficient treatment of the dynamic model in the form of a system of continuous-time differential equations. Newton-type optimization relies on a numerical simulation method in addition to the propagation of first or higher order derivatives. In the case of stiff or implicitly defined dynamics, implicit integration schemes are typically preferred. This paper proposes a tailored implementation of the necessary linear algebra routines (LU factorization and triangular solutions), in order to allow for a considerable computational speedup of such integrators. In particular, the open-source BLASFEO framework is presented as a library of efficient linear algebra routines for small to medium-scale embedded optimization applications. Its performance is illustrated on the nonlinear optimal control example of a chain of masses. The proposed library allows for considerable speedups and it is found to be overall competitive with both a code-generated solver and a high-performance BLAS implementation.},
+  doi      = {10.1016/j.ifacol.2017.08.2026},
+  projects = {ESR04},
 }
 
 @Article{Wijnja2018,
@@ -339,14 +357,15 @@
 }
 
 @Article{Bechtle2019,
-  author  = {Bechtle, Philip and Schelbergen, Mark and Schmehl, Roland and Zillmann, Udo and Watson, Simon},
-  title   = {Airborne Wind Energy Resource Analysis},
-  journal = {Renewable Energy},
-  year    = {2019},
-  volume  = {141},
-  pages   = {1103--1116},
-  month   = {Oct},
-  doi     = {10.1016/j.renene.2019.03.118},
+  author   = {Bechtle, Philip and Schelbergen, Mark and Schmehl, Roland and Zillmann, Udo and Watson, Simon},
+  title    = {Airborne Wind Energy Resource Analysis},
+  journal  = {Renewable Energy},
+  year     = {2019},
+  volume   = {141},
+  pages    = {1103--1116},
+  month    = {Oct},
+  abstract = {We compare the available wind resources for conventional wind turbines and for airborne wind energy systems. Accessing higher altitudes and continuously adjusting the harvesting operation to the wind resource substantially increases the potential energy yield. The study is based on the ERA5 reanalysis data which covers a period of 7 years with hourly estimates at a surface resolution of 31 31 km and a vertical resolution of 137 barometric altitude levels. We present detailed wind statistics for a location in the English Channel and then expand the analysis to a surface grid of Western and Central Europe with a resolution of 110 110 km. Over the land mass and coastal areas of Europe we find that compared to a fixed harvesting height at the approximate hub height of wind turbines, the wind power density which is available for 95% of the time increases by a factor of two.},
+  doi      = {10.1016/j.renene.2019.03.118},
 }
 
 @InCollection{Benhaiem2018,
@@ -360,6 +379,7 @@
   chapter   = {22},
   pages     = {539--577},
   address   = {Singapore},
+  abstract  = {The study proposes a new airborne wind energy system based on the carousel concept. It comprises a rotary ring kite and a ground-based rotating reel conversion system. The moment generated by the ring kite is transferred by several peripheral tethers that connect to winch modules that are mounted on the ground rotor. A generator is coupled to this rotor for direct electricity generation. Because the ring kite is inclined with respect to the ground-rotor the length of the peripheral tethers has to be adjusted continuously during operation. The proposed system is designed to minimize the used land and space. This first study describes the fundamental working principles, results of a small-scale experimental test, a kinematic analysis of steady-state operation of the system and a power transmission analysis. Design choices for the ring kite are discussed, a strategy for launching and landing and methods for passive and active control are described.},
   doi       = {10.1007/978-981-10-1947-0_22},
   isbn      = {978-981-10-1947-0},
 }
@@ -375,6 +395,7 @@
   chapter   = {16},
   pages     = {391--411},
   address   = {Singapore},
+  abstract  = {The development of airborne wind energy is steadily progressing towards the market introduction of the technology. Even though the physical foundations of the various conversion concepts are well understood, the actual economic potential of distributed small-scale and centralized large-scale power generation under realworld conditions is still under investigation. In the present chapter we consider the clustering of units into a large kite wind park, specifically the spatial arrangement and collective operation. The analysis starts from a quasi-steady flight model of the kite to estimate the power production in pumping cycle operation. From the surface area and aerodynamic properties of the kite all other system parameters are determined. A genetic algorithm is used to optimize the operation of a single unit and to derive its power curve. Based on this information multiple interconnected units are simulated and an economic model is added. The results show that a coordinated collective operation not only achieves a continuous net electricity output, but also decreases the LCOE from 106 to 96 €/Mwh as consequence of economic scale effects. The prediction supports the substantial economic potential of pumping kite wind parks for large-scale power generation.},
   doi       = {10.1007/978-981-10-1947-0_16},
   isbn      = {978-981-10-1947-0},
 }
@@ -390,6 +411,7 @@
   chapter   = {15},
   pages     = {361--390},
   address   = {Singapore},
+  abstract  = {To achieve a high conversion efficiency and at the same time robust control of a pumping kite power system it is crucial to optimize the three-dimensional flight path of the tethered wing. This chapter extends a dynamic system model to account for a realistic, turbulent wind environment and adds a flight path planner using a sequence of attractor points and turn actions. Path coordinates are calculated with explicit geometric formulas. To optimize the power output the path is adapted to the average wind speed and the vertical wind profile, using a small set of parameters. The planner employs a finite state machine with switch conditions that are highly robust towards sensor errors. The results indicate, that the decline of the average power output of pumping kite power systems at high wind speeds can be mitigated. In addition it is shown, that reeling out towards the zenith after flying figure eight flight maneuvers significantly reduces the traction forces during reel-in and thus increases the total efficiency.},
   doi       = {10.1007/978-981-10-1947-0_15},
   isbn      = {978-981-10-1947-0},
 }
@@ -410,13 +432,14 @@
 }
 
 @Article{Bauer2017,
-  author  = {Florian Bauer and Ralph M. Kennel and Christoph M. Hackl and Filippo Campagnolo and Michael Patt and Roland Schmehl},
-  title   = {Drag power kite with very high lift coefficient},
-  journal = {Renewable Energy},
-  year    = {2018},
-  volume  = {118},
-  pages   = {290--305},
-  doi     = {10.1016/j.renene.2017.10.073},
+  author   = {Florian Bauer and Ralph M. Kennel and Christoph M. Hackl and Filippo Campagnolo and Michael Patt and Roland Schmehl},
+  title    = {Drag power kite with very high lift coefficient},
+  journal  = {Renewable Energy},
+  year     = {2018},
+  volume   = {118},
+  pages    = {290--305},
+  abstract = {As an alternative to conventional wind turbines, this study considered kites with onboard wind turbines driven by a high airspeed due to crosswind flight (“drag power”). The hypothesis of this study was, that if the kite's lift coefficient is maximized, then the power, energy yield, allowed costs and profit margin are also maximized. This hypothesis was confirmed based on a kite power system model extended from Loyd's model. The performance of small-scale and utility-scale kites in monoplane and biplane configurations were examined for increasing lift coefficients. Moreover, several parameters of the utility-scale system were optimized with a genetic algorithm. With an optimal lift coefficient of 4.5, the biplane outperformed the monoplane. A 40 m wing span kite was expected to achieve a rated power of about 4.1 MW with a power density of about 52 kW/m2. A parameter sensitivity analysis of the optimized design was performed. Moreover, to demonstrate the feasibility of very high lift coefficients and the validity of a utilized simplified airfoil polar model, CFDs of a proposed high-lift multi-element airfoil were performed and the airfoil polars were recorded. Finally, a planform design of a biplane kite was proposed.},
+  doi      = {10.1016/j.renene.2017.10.073},
 }
 
 @InCollection{Schechner2018,
@@ -430,6 +453,7 @@
   chapter   = {11},
   pages     = {241--276},
   address   = {Singapore},
+  abstract  = {During pumping mode, airborne wind energy systems are operated in two phases: A power generating reel-out phase and a power dissipating reel-in phase. The ground winch is connected via a DC-link voltage source converter to the grid. The control of its DC-link voltage is a challenging task due to the bidirectional power flow over the DC-link. Two PI controller designs are discussed: the classical PI controller with constant parameters and a nonlinear PI controller with online parameter adjustment. Based on a worst-case analysis of the physical properties, bounds on the constant parameters of the classical PI controller are derived leading to a conservative design to assure a stable operation also during the reel-in phase where the system dynamics are non-minimum phase. To overcome these limitations in the closed-loop bandwidth, a nonlinear PI controller is proposed which adjusts its parameters online. For controller design, the linearized system model is used and the controller parameters are computed via “online pole placement”. Simulation results illustrate robustness, stability and improved control performance of the proposed nonlinear PI controller in comparison to the classical PI controller.},
   doi       = {10.1007/978-981-10-1947-0_11},
   isbn      = {978-981-10-1947-0},
 }
@@ -484,6 +508,7 @@
   month    = {Sep},
   abstract = {Airborne Wind Energy (AWE) is a promising new technology, and attracts a growing academic and industrial attention. Important research efforts have been deployed to develop prototypes in order to test the technology, generate control algorithms and optimize the efficiency of AWE systems. By today, a large set of control and optimization methods is available for AWE systems. However, because no validated reference model is available, there is a lack of benchmark for these methods. In this paper, we provide a reference model for pumping mode AWE systems based on rigid wings. The model describes the flight dynamics of a tethered 6 degrees of freedom (DOF) rigid body aircraft in form of differential-algebraic equations, based on Lagrange dynamics. With the help of least squares fitting the model is assessed using real flight data from the Ampyx Power prototype AP2. The model equations are smooth and have a low symbolic complexity, so as to make the model ideal for optimization and control. The information given in this paper aims at providing AWE researchers with a model that has been validated against flight data and that is well suited for trajectory and power output simulation and optimization.},
   doi      = {10.1016/j.renene.2019.03.111},
+  projects = {ESR05},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
