@@ -1,7 +1,7 @@
 ---
 title: "The International Airborne Wind Energy Conference 2015: Book of Abstracts"
 date: 2015-06-15/2015-06-16
-publishDate: 2019-07-13T21:13:50.890172Z
+publishDate: 2015-06-15
 authors: ["Roland Schmehl"]
 publication_types: ["0"]
 abstract: ""

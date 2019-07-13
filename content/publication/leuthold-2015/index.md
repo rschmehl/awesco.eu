@@ -1,7 +1,7 @@
 ---
 title: "Multiple-Wake Vortex Lattice Method for Airborne Wind Energy Membrane-Wing Kites"
 date: 2015-06-15/2015-06-16
-publishDate: 2019-07-13T21:13:50.914537Z
+publishDate: 2015-06-15
 authors: ["Rachel Leuthold", "Gael De Oliveira", "Roland Schmehl"]
 publication_types: ["1"]
 abstract: ""

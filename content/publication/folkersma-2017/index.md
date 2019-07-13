@@ -1,7 +1,7 @@
 ---
 title: "Fluid-structure interaction simulations on kites"
 date: 2017-10-05/2017-10-06
-publishDate: 2019-07-13T21:13:50.853344Z
+publishDate: 2017-10-05
 authors: ["Mikko Folkersma", "Roland Schmehl", "Axelle Viré"]
 publication_types: ["1"]
 abstract: ""
