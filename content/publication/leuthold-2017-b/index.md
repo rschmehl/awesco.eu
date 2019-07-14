@@ -10,5 +10,6 @@ publication: "*Book of Abstracts of the International Airborne Wind Energy Confe
 url_pdf: "http://resolver.tudelft.nl/uuid:b31ab637-5c0d-46db-8d68-55526d5396f0"
 projects:
 - ESR03
+- ESR05
 ---
 

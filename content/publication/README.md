@@ -2,13 +2,19 @@
 
 We use the academic admin tool for importing publications from a central bibliography file (bibliography.bib).
 
-### What is working
+### Works with standard version of academic admin Tool
+
+`academic import --bibtex content/publication/bibliography.bib --overwrite`
 
 * The publication abstract is imported via the bibtex field `abstract`.
 * The month and year of the publication are imported via the fields `month` and `year`.
 
-### What is not working
+### Works only with [my own fork](https://github.com/rschmehl/academic-admin) of the tool
 
-* Biblatex date format
-* The files `cite.bib` need to be copied manually from the generated `*.bib` files.
-* Project association: this would be a nice-to-have because then the generated publication information can be directly generated from the bib-file.   
+* Biblatex date format works
+* Files `cite.bib` are generated
+* Field entry `projects` can be used to specify project association
+
+### Important
+
+There is one BibTeX entry `Folkersma2019a` which includes a Latex formula in the abstract. The admin tool does not transfer this properly to the markdown file, and for this reason I have kept this single entry in a separate file `bibliography2.bib` which needs to be processed separately.
