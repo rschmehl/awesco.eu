@@ -7,7 +7,7 @@ weight: 6
 
 # Username (this should match the folder name)
 authors:
-- christoph-hackl
+- christoph-m-hackl
 
 # Is this the primary user of the site?
 superuser: false

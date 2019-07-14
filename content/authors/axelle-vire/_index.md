@@ -7,7 +7,7 @@ weight: 10
 
 # Username (this should match the folder name)
 authors:
-- axelle-vire
+- axelle-viré
 
 # Is this the primary user of the site?
 superuser: false

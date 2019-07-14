@@ -7,6 +7,6 @@ publication_types: ["0"]
 abstract: ""
 featured: false
 publication: "*Delft University of Technology*"
-doi: "10.4233/uuid:7df59b79-2c6b-4e30-bd58-8454f493bb09"
+doi: "104233/uuid:7df59b79-2c6b-4e30-bd58-8454f493bb09"
 ---
 

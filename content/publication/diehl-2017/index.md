@@ -7,6 +7,6 @@ publication_types: ["5"]
 abstract: ""
 featured: false
 publication: "*University of Freiburg | Delft University of Technology*"
-doi: "10.6094/UNIFR/12994"
+doi: "106094/UNIFR/12994"
 ---
 

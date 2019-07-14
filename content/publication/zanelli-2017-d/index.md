@@ -7,7 +7,7 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*Book of Abstracts of the International Airborne Wind Energy Conference (AWEC 2017)*"
-url_pdf: "http://resolver.tudelft.nl/uuid:cfaf223f-ffba-4b1e-ac1d-d5e2c9ca2c38"
+url_pdf: "http://resolvertudelftnl/uuid:cfaf223f-ffba-4b1e-ac1d-d5e2c9ca2c38"
 projects:
 - ESR04
 ---
