@@ -193,22 +193,22 @@ Precisely this idea of harvesting high altitude wind was concretized half a cent
 [^9]: Hermann Oberth: "Das Drachenkraftwerk". Uni Verlag, Dr. Roth-Oberth, Feucht, 1984. {{< pdf_button url="Oberth1984.pdf" >}}
 At the same time, the team of Bryan W. Roberts at the University of Sydney developed and tested quad-rotorcraft for harvesting high-altitude wind energy,[^10] while Miles L. Loyd, an American engineer working at Lawrence Livermore National Laboratory, laid the foundation for quantitative analysis of AWE systems.
 [^10]: Bryan W. Roberts: "Quad-Rotorcraft to Harness High-Altitude Wind Energy". In: Roland Schmehl (Ed.) "Airborne Wind Energy - Advances in Technology Development and Research", Green Energy and Technology, Springer Nature Singapore, pp. 581-601, 2018. {{< doi_button doi="10.1007/978-981-10-1947-0_23" >}}{{< pdf_button url="Roberts2018.pdf" >}}
-In his seminal article,[^11]<sup>,</sup>[^12] Loyd compared the pulling power of a kite that is moving only in the direction of the tether with the maximum power of a kite that is additionally flying cross wind maneuvers.
+In his seminal article,[^11]<sup>,</sup>[^12] Loyd compared the pulling power of a kite that is moving only in the direction of the tether with the maximum power of a kite that is additionally flying crosswind maneuvers.
 [^11]: Miles L. Loyd: "Crosswind Kite Power". Journal of Energy, Vol. 4, No. 3, pp. 106-111, 1980 {{< doi_button doi="10.2514/3.48021" >}}{{< pdf_button url="Loyd1980.pdf" >}}
 [^12]: Miles L. Loyd: "Genesis of Crosswind Kite Power". Presentation at the Airborne Wind Energy Conference (AWEC) 2010, Stanford, 28-29 September 2010. {{< pdf_button url="Loyd2010.pdf" >}}
 This comparison is summarized by the following diagrams showing the power harvesting factor $\zeta = P/(\Pw S)$ as a function of the tether reeling factor $f=\vt/\vw$ for different values of the lift-to-drag ratio $\CL/\CD$ of the kite.
 
 {{< figure_gallery src="loyd_kites_tex.svg" >}}
 
-In this nondimensional representation, $\vw$ is the wind velocity, $\vt$ the tether deployment velocity, $\Ft$ the tether force, $P=\Ft\vt$ the pulling power, $\Pw=1/2\rho \vwexp{3}$ the wind power density and $S$ the wing surface area. For simplicity the aerodynamic lift coefficient $\CL$ is set here to 1. The two diagrams show that cross wind operation of a kite greatly increases its power output and that this increase is amplified with the lift-to-drag ratio. For higher lift-to-drag ratios the increase is more than two orders of magnitude.
+In this nondimensional representation, $\vw$ is the wind velocity, $\vt$ the tether deployment velocity, $\Ft$ the tether force, $P=\Ft\vt$ the pulling power, $\Pw=1/2\rho \vwexp{3}$ the wind power density and $S$ the wing surface area. For simplicity the aerodynamic lift coefficient $\CL$ is set here to 1. The two diagrams show that crosswind operation of a kite greatly increases its power output and that this increase is amplified with the lift-to-drag ratio. For higher lift-to-drag ratios the increase is more than two orders of magnitude.
 
-For the cross wind kite, Loyd computes the maximum harvesting factor as
+For the crosswind kite, Loyd computes the maximum harvesting factor as
 $$\zetaopt=\frac{4}{27} \frac{\CL^3}{\CD^2}$$
 which occurs at the reeling factor
 $$\fopt=\frac{1}{3}.$$
 Comparing the two diagrams, it is obvious that cross-wind operation drastically increases the electricity output.
 
-Loyd also investigated onboard conversion for a kite flying cross wind at constant tether length and concluded that the performance is similar to ground-based conversion. The two different conversion modes are illustrated in the following figure, where $\vvkt$ and $\vvkr$ are the tangential and radial components of the kite velocity $\vvk$.
+Loyd also investigated onboard conversion for a kite flying crosswind at constant tether length and concluded that the performance is similar to ground-based conversion. The two different conversion modes are illustrated in the following figure, where $\vvkt$ and $\vvkr$ are the tangential and radial components of the kite velocity $\vvk$.
 
 {{< figure_gallery src="loyd_concepts_tex.svg" >}}
 
@@ -265,7 +265,7 @@ The presently pursued AWE technologies can be classified according to the follow
 
 {{< figure_gallery src="classification.svg" >}}
 
-At the top level we differentiate between electricity generation with a fixed ground station, with a moving ground station or directly on the flying device, requiring a conducting tether. Concepts using a moving ground station, such as a horizontal loop track or a carousel-type construction, are technically quite complex and still relatively far from realization. At the next level we distinguish between concepts using individual tethered devices that fly cross wind maneuvers and concepts using flying rotors. Most populated is the class of systems that operate one or more individual wings, rigid or flexible, in crosswind flight maneuvers, converting the pulling force into electricity with a fixed ground station. For continuous electricity generation, these systems combine a tether reel-out phase with a reel-in phase, which is denoted as "pumping cycle". A representative flight path computed with a dynamic system model is illustrated in the following diagram (kite not to scale).[^20]
+At the top level we differentiate between electricity generation with a fixed ground station, with a moving ground station or directly on the flying device, requiring a conducting tether. Concepts using a moving ground station, such as a horizontal loop track or a carousel-type construction, are technically quite complex and still relatively far from realization. At the next level we distinguish between concepts using individual tethered devices that fly crosswind maneuvers and concepts using flying rotors. Most populated is the class of systems that operate one or more individual wings, rigid or flexible, in crosswind flight maneuvers, converting the pulling force into electricity with a fixed ground station. For continuous electricity generation, these systems combine a tether reel-out phase with a reel-in phase, which is denoted as "pumping cycle". A representative flight path computed with a dynamic system model is illustrated in the following diagram (kite not to scale).[^20]
 [^20]: Uwe Fechner: "A methodology for the design of kite power control systems". PhD dissertation, Delft University of Technology, 2016. {{< doi_button doi="10.4233/uuid:85efaf4c-9dce-4111-bc91-7171b9da4b77" >}}
 
 {{< figure_gallery src="pumping_cycle_tex.svg" name="pumping-cycle" >}}
