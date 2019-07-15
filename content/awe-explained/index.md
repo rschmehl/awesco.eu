@@ -54,7 +54,7 @@ gallery_item:
 - album: BoA
   image: 3-BoA-2015.jpg
   weight: 3
-  caption: Book of Abstract of the Airborne Wind Energy Conference 2013 in Delft, The Netherlands
+  caption: Book of Abstract of the Airborne Wind Energy Conference 2015 in Delft, The Netherlands
 - album: BoA
   image: 4-BoA-2017.jpg
   weight: 4
@@ -271,7 +271,7 @@ At the top level we differentiate between electricity generation with a fixed gr
 {{< figure_gallery src="pumping_cycle_tex.svg" name="pumping-cycle" >}}
 
 Multi-drone concepts and fully automated reliable take-off and landing, using VTOL and HTOL techniques, are challenging subjects that have been identified for future research.[^21]
-[^21]: Simon Watson, Alberto Moro, et al: "“Future emerging technologies in the wind power sector: a European perspective". Renewable and Sustainable Energy Reviews (under review), 2019.
+[^21]: Simon Watson, Alberto Moro, et al: "“Future emerging technologies in the wind power sector: a European perspective". Renewable and Sustainable Energy Reviews (in press), 2019.
 A detailed analysis and assessment of the different concepts has been presented by Cherubini et al.[^22]
 [^22]: Antonello Cherubini, Andrea Papini, Rocco Vertechy, Marco Fontana: "Airborne Wind Energy Systems: A review of the technologies". Renewable and Sustainable Energy Reviews, Vol. 51, pp. 1461-1476, 2015. {{< doi_button doi="10.1016/j.rser.2015.07.053" >}}
 
