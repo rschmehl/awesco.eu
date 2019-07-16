@@ -7,7 +7,7 @@ weight: 13
 
 # Username (this should match the folder name)
 authors:
-- colin-jones
+- colin-n-jones
 
 # Is this the primary user of the site?
 superuser: false
