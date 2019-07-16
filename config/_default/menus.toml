@@ -61,18 +61,31 @@
     parent = "people"
 
 [[main]]
-  name = "Publications"
-  url = "#publications"
+  name = "Results"
+  url  = "#results"
   weight = 45
+  identifier = "results"
+
+  [[main]]
+    name = "Software"
+    url = "#software"
+    weight = 46
+    parent = "results"
+
+  [[main]]
+    name = "Data"
+    url = "#data"
+    weight = 47
+    parent = "results"
 
 [[main]]
-  name = "Software"
-  url = "#software"
+  name = "Talks"
+  url = "#talks"
   weight = 50
 
 [[main]]
-  name = "Data"
-  url = "#data"
+  name = "Publications"
+  url = "#publications"
   weight = 55
 
 [[main]]
