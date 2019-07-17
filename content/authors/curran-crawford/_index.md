@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor, University of Victoria
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
