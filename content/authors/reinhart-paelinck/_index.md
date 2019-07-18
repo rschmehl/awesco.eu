@@ -29,12 +29,9 @@ interests:
 
 education:
   courses:
-  - course: MSc in Mechanical Engineering and Energy Technology
-    institution: Technical University of Kaiserslautern
-    year: 2015
-  - course: BSc in Mechanical Engineering
-    institution: Technical University of Kaiserslautern
-    year: 2013
+  - course: MSc in Industrial and Product Design
+    institution: Artesis Hogeschool Antwerpen
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -65,6 +62,4 @@ user_groups:
 # (1) One sentence about your function (for academic staff) and then another sentence about your role(s) within the training network
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
-Markus Sommerfeld is PhD researcher at the Institute for Integrated Energy Systems (IESVic) of the University of Victoria. He is associated with the doctoral training network AWESCO.
-
-Under the supervision of Dr. Curran Crawford and the support from the Pacific Institute for Climate Solutions (PICS), Markus' research addresses some of the key challenges of Airborne Wind Energy, with a focus on the assessment of the available wind resource. In his free time Markus enjoys jogging and other outdoor sports to clear his mind, as well as studying Japanese.
+Reinhart Paelinck started to investigate airborne wind energy for his [graduation project](https://cdn.syscop.de/publications/Paelinck2010.pdf) at the Artesis Hogeschool Antwerpen. After having worked for [Flysurfer Kiteboarding](https://flysurfer.com/) Research & Development, Reinhart founded Kiteswarms Ltd in the UK, developing a multi-drone airborne wind energy system. The German branch of the company, Kiteswarms GmbH, is closely collaborating with the research group of [Moritz Diehl](/authors/moritz-diehl/) at the University of Freiburg.
