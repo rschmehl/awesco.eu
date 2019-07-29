@@ -17,30 +17,33 @@ role: Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Systems and Control Laboratory (SySCOP)
-  url: "https://www.syscop.de/"
-- name: Department of Microsystems Engineering (IMTEK)
-  url: "http://imtek.de/"
-- name: Albert Ludwigs University of Freiburg
-  url: "https://www.uni-freiburg.de/"
+- name: Laboratory for Mechatronic and Renewable Energy Systems (LMRES)
+  url: "https://lmres.ee.hm.edu/"
+- name: Department of Electrical Engineering and Information Technology (FK04)
+  url: "https://www.ee.hm.edu/"
+- name: Munich University of Applied Sciences (MUAS)
+  url: "https://www.hm.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests are in airborne wind energy.
 
 interests:
 - Airborne Wind Energy
-- Computational Fluid Dynamics
-- Fluid Structure Interaction
-- Aeroelasticity
+- Electrical Drive Systems
+- Power Electronics
+- Mechatronics
+- Renewable Energy Systems
+- Efficiency 
+- Fault-tolerance
 
 education:
   courses:
-  - course: PhD in Numerical Optimal Control
-    institution: University of Heidelberg
-    year: 2001
-  - course: Dipl.-Phys.
-    institution: University of Heidelberg
-    year: 1994
+  - course: PhD in Mechatronics and Control Theory
+    institution: Technical University of Munich
+    year: 2012
+  - course: Dipl.-Ing. (in Electrical Engineering)
+    institution: Technical University of Munich
+    year: 2004
 
 
 # Social/Academic Networking
@@ -50,7 +53,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:moritz.diehl@imtek.uni-freiburg.de'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:christoph.hackl@hm.edu'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -66,6 +69,12 @@ user_groups:
 - Principal Investigators
 ---
 
-Moritz Diehl was born in Hamburg, Germany, in 1971. He studied physics and mathematics at Heidelberg and Cambridge University from 1993-1999, and received his Ph.D. degree from Heidelberg University in 2001, at the Interdisciplinary Center for Scientific Computing. From 2006 to 2013, he was a professor with the Department of Electrical Engineering, KU Leuven University Belgium, and served as the Principal Investigator of KU Leuven's Optimization in Engineering Center OPTEC. He was the principal investigator of the ERC Project HIGHWIND.
+Christoph M. Hackl was born in 1977 in Mannheim, Germany. After studying
+Electrical Engineering (with focus on controls and mechatronics) at Technical
+University of Munich (TUM), Germany and University of Wisconsin-Madison, USA, 
+he received the B.Sc., Dipl.-Ing., and Dr.-Ing. (Ph.D.) degrees in Electrical Engineering
+in 2003, 2004 and 2012, respectively, from TUM. 
 
-In 2013 he moved to the University of Freiburg, Germany, where he heads the Systems Control and Optimization Laboratory, in the Department of Microsystems Engineering (IMTEK), and is also affiliated to the Department of Mathematics. His research interests are in optimization and control,  spanning from numerical method  development to applications in different branches of engineering, with a focus on embedded and on renewable energy systems.
+Since 2004, he has been teaching
+electrical drives, power electronics, and mechatronic & renewable energy systems. Since 2014, he has been the head of the research group "Control of Renewable Energy Systems (CRES)" at TUM. 
+In 2018, he became a Professor for Electrical Machines and Drives and the head of the "Laboratory for Mechatronic and Renewable Energy Systems (LMRES)" at the Munich University of Applied Sciences (MUAS), Germany. His research interests include nonlinear, adaptive and optimal control of electrical, mechatronic and renewable energy systems.

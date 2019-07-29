@@ -37,7 +37,7 @@ education:
   - course: PhD in Physics
     institution: Université Libre de Bruxelles
     year: 2010
-  - course: MSc in Engineering Sciences
+  - course: MSc in Mechanical Engineering
     institution: Université libre de Bruxelles
     year: 2006
   - course: BSc in Engineering Sciences
@@ -82,4 +82,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Dr. Axelle Viré is ...
+Dr. Axelle Viré is a tenured Assistant Professor at the Faculty of Aerospace Engineering of TU Delft. She graduated in Mechanical Engineering from the Université Libre de Bruxelles (Belgium), where she also completed a PhD in Physics in 2010. She then worked as a Marie Curie post-doctoral Research Fellow at Imperial College London (UK). She was also the recipient of a Marie Curie Career Integration Grant in 2013. She currently supervises a number of PhD students working on numerical modelling for wind energy applications, mostly developing high-fidelity computational fluid dynamics models for fluid-structure interactions. She applies her models to airborne wind energy wings as well as conventional wind turbine rotors and floating offshore wind turbines. In this context, she is Principal Investigator on the H2020-WIDESPREAD project TWIND aiming at creating a network of excellence between specialized research professionals and trainees in the field of offshore wind energy. She also coordinates the Offshore Wind Energy Minor at TU Delft.  

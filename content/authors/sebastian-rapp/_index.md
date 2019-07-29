@@ -25,24 +25,25 @@ organizations:
   url: "http://www.tudelft.nl"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include control system development and data-driven approaches for performance verification of complex control systems.
+
 
 interests:
-- Flight Control
-- Vertical Takeoff and Landing
-- Failure Recovery
+- Control Systems
+
+- Robust Control
+- Stochastic Control System Verification 
+
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.Sc. in Aerospace Engineering
+    institution: Technical University of Munich
+    year: 2015
+  - course: B.Sc. in Aerospace Engineering
+    institution: Technical University of Munich
+    year: 2013
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
