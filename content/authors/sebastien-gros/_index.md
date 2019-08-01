@@ -13,10 +13,14 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Professor
 
 # Organizations/Affiliations
 organizations:
+- name: Dept. of Eng. Cybernetics
+  url: "https://www.ntnu.no/itk"
+- name: Norwegian University of Technology
+  url: "https://www.ntnu.no"
 - name: Automatic Control Research Group
   url: "https://www.chalmers.se/en/departments/e2/research/systems-and-control/Pages/Automatic-control.aspx"
 - name: Department of Electrical Engineering
@@ -25,23 +29,21 @@ organizations:
   url: "http://www.chalmers.se"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in airborne wind energy.
+bio: My research interests are in airborne wind energy, optimal control, and reinforcement learning
 
 interests:
 - Airborne Wind Energy
-- Automatic Control
+- Automatic Control and Optimal Control
+- Reinforcement Learning and measurement-based optimization
 
 education:
   courses:
-  - course: PhD in Computational Fluid Dynamics
-    institution: Karlsruhe Institute of Technology
-    year: 2003
-  - course: MSc in Mechanical Engineering
-    institution: Karlsruhe Institute of Technology
-    year: 1994
-  - course: BSc in Mechanical Engineering
-    institution: Karlsruhe Institute of Technology
-    year: 1992
+  - course: PhD in Optimal Control
+    institution: EPFL
+    year: 2007
+  - course: MSc in Mechatronics
+    institution: EPFL
+    year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -75,4 +77,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Dr. Sébastien Gros is associate professor at Chalmers and full professor at the Norwegian University of Science and Technology. 
+Dr. Sébastien Gros is guest professor at Chalmers and full professor at the Norwegian University of Science and Technology. 
