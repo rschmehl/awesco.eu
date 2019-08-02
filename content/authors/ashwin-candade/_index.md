@@ -17,33 +17,29 @@ role: PhD researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Airborne Wind Energy Group
-  url: "http://www.kitepower.eu"
+- name: EnerKíte GmbH
+  url: "http://www.enerkite.de"
 - name: Faculty of Aerospace Engineering
   url: "http://www.tudelft.nl/lr"
 - name: Delft University of Technology
   url: "http://www.tudelft.nl"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Thomas Haas's research is on optimal control of a centrifugally stiffened rotor in pumping cycle operation.
+bio: Ashwin Candade's research is design and optimisation of AWE wings, with a focus on composite structures
 
 interests:
-- Modelling, simulation, and control
-- Aerodynamic vortex methods
-- Centrifugally stiffened rotors
-- Multi-kite systems
+- Modelling, simulation and testing of composite wings
+- Aeroelasticity 
+- Multidisciplinary design optimisation 
 
 education:
   courses:
-  - course: MSc in Aerospace Engineering (EWEM)
+  - course: MSc in Aerospace Engineering (FPP)
     institution: Delft University of Technology
     year: 2015
-  - course: MSc in Wind Energy (EWEM)
-    institution: Technical University of Denmark
-    year: 2015
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: B.Tech in Mechanical Engineering
+    institution: SRM University
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -52,10 +48,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:p.thedens@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:a.a.candade@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:a.candade@enerkite.de'  # For a direct email link, use "mailto:test@example.org".
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Elena_Malz
+  link: https://www.researchgate.net/profile/Ashwin_Candade
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ashwincandade/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -73,5 +75,4 @@ user_groups:
 # (1) One sentence about your function (for academic staff) and then another sentence about your role(s) within the training network
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
-
-Rachel Leuthold is Marie-Skłodowska-Curie Fellow working on optimal control of a centrifugally stiffened rotor in pumping cycle operation. She obtained an MSc in Aerospace Engineering from the Technical University of Delft (Netherlands) in 2015, with a thesis on a multiple wake vortex lattice method for membrane-wing kites. She graduated with a BSc in Aeronautical and Astronautical Engineering from the Massachusetts Institute of Technology (USA) in 2011.
+Ashwin Candade is a Marie-Skłodowska-Curie Fellow and PhD candidate with the Delft University of Technology, working with EnerKíte, Berlin. Following his bachelors degree in Mechanical engineering from SRM University, Chennai, he worked for about 2 years at the National Aerospace Laboratories, India. He then came to TU Delft, where he did his Masters in Aerospace Engineering, in the Flight Performance and Propulsion track. For his master thesis, he performed an experimental aerodynamic and aeroacoustic investigation into the interaction effects between a rotor slipstream and a trailing pylon. His research interests include multidisciplinary optimisation, simplified aerodynamic and structural models and knowledge based systems.
