@@ -17,33 +17,27 @@ role: PhD researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Systems Control and Optmization Laboratory
-  url: "https://www.syscop.de"
-- name: IMTEK, Faculty of Engineering
-  url: "https://www.imtek.de"
-- name: University of Freiburg
-  url: "https://www.uni-freiburg.de/"
+- name: Systems and Control
+- name: Department of Electrical Engineering
+- name: Chalmers University of Technology
+#  url: "https://www.chalmers.se/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Rachel Leuthold's research is on optimal control of a centrifugally stiffened rotor in pumping cycle operation.
+bio: Elena Malz's research is on optimal control and optimization of AWE systems and the analysis of their power production.
 
 interests:
 - Modelling, simulation, and control
-- Aerodynamic vortex methods
-- Centrifugally stiffened rotors
-- Multi-kite systems
+- Optimization
+- Energy systems
 
 education:
   courses:
-  - course: MSc in Aerospace Engineering (EWEM)
-    institution: Delft University of Technology
+  - course: MSc in Wind Power Systems
+    institution: Aalborg University, Denmark
     year: 2015
-  - course: MSc in Wind Energy (EWEM)
-    institution: Technical University of Denmark
-    year: 2015
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Renewable Energy Engineering
+    institution: University of Stuttgart, Germany
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -52,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:p.thedens@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:elenama@chalmers.se'  # For a direct email link, use "mailto:test@example.org".
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Elena_Malz
@@ -74,4 +68,6 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Rachel Leuthold is Marie-Skłodowska-Curie Fellow working on optimal control of a centrifugally stiffened rotor in pumping cycle operation. She obtained an MSc in Aerospace Engineering from the Technical University of Delft (Netherlands) in 2015, with a thesis on a multiple wake vortex lattice method for membrane-wing kites. She graduated with a BSc in Aeronautical and Astronautical Engineering from the Massachusetts Institute of Technology (USA) in 2011.
+Elena Malz is Marie-Skłodowska-Curie Fellow and PhD candidate working on optimal control and simulation of airborne wind energy systems. One part of the work is focussed on modeling and optimizing the system in terms of power production. The other part is focussed on computing the annual power production based on real wind data. The power production curve is further analyzed from an electrical energy system perspective with the aim of the eventual integration into a future power system.  
+
+

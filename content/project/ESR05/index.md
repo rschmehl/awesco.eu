@@ -32,22 +32,9 @@ url_video: ""
 #slides: example
 ---
 
-The modeling of airborne wind energy (AWE) systems and the study of the role of the AWE
-technology in the future energy system is crucial for its early-stage development. The main work
-performed by ESR05 has been the development of a mathematical model and power optimization
-problem for AWE systems, with the aim of studying the integration of AWE in the power system.
-
-This report contains the description of the work carried out by the ESR05 at Chalmers University of
-Technology. As described in detail in the report, a mathematical model of an AWE system has been
-developed and implemented in an optimal control framework with the aim of optimizing the flight
-trajectory in order to maximize the average power generation. The model has been validated with
-flight data against the Ampyx Power AP2 prototype and further used to study the AWE performance
-of controlled trajectory in wind farms.
-
-In order to investigate the integration of AWE into future energy systems, real wind data have been
-gathered from the NASA global wind database. The wind data have been implemented in the optimal
-control framework in order to investigate the annual hourly energy production at specific locations.
-The ESR has started comparing AWE and traditional wind turbines in terms of annual energy
-production, availability and downtime. Further, the levelized cost of energy will be studied
-compared to other renewable energy technologies, in order to evaluate the role of AWE systems in
-the future energy mix.
+#The modeling of airborne wind energy (AWE) systems and the study of the role of the AWE
+technology in the future energy system is crucial for its early-stage development. 
+The main work performed by the PhD fellow is the development of a mathematical model and power optimization
+problem for AWE systems, with the aim of studying the integration of AWE in the power system. In detail, a mathematical model of an AWE system is developed and implemented in an optimal control framework with the aim of optimizing the flight trajectory in order to maximize the average power generation. 
+In order to investigate the annual hourly power production at specific locations, real wind data is gathered and implemented in the optimal
+control framework. The production of AWE systems is analyzed and compared to the production of traditional wind power plants. Further it is planned to implement the power production into an electrical energy system model that simulates the future power system. The goal is to investigate the value and the possible role of AWE systems in the energy system at different European locations.
