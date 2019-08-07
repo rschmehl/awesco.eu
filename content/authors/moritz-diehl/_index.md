@@ -28,10 +28,7 @@ organizations:
 bio: My research interests are in airborne wind energy.
 
 interests:
-- Airborne Wind Energy
-- Computational Fluid Dynamics
-- Fluid Structure Interaction
-- Aeroelasticity
+- Nonlinear Model Predictive Control
 
 education:
   courses:
