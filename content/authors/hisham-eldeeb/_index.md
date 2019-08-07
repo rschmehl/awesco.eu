@@ -13,15 +13,17 @@ authors:
 superuser: false
 
 # Role/position
-role: Electrical drive control specialist and development engineer
+role: PhD researcher
 
 # Organizations/Affiliations
 organizations:
 - name: Ingenieurgesellschaft Auto und Verkehr GmbH
   url: "http://www.iav.de/"
+- name: Technical University of Munich
+  url: "https://www.tum.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hisham Eldeeb's research is on optimal control of a centrifugally stiffened rotor in pumping cycle operation.
+bio: Hisham Eldeeb's research is on fault-tolerant control of multi-phase electrical drives for airborne wind energy systems
 
 interests:
 - Modelling, simulation, and control
@@ -70,4 +72,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Hisham M. Eldeeb received his B.Sc. (honors) and M.Sc. in electrical engineering in 2011, 2014, respectively, from the Faculty of Engineering, Alexandria University, Egypt. From 2012 to 2015, he worked as a research associate at Qatar University in Qatar, hired on a 1.4M$ project; aiming at extending the penetration of inverter-based distributed-generation plants within the Qatari-Network. From September 2015 to November 2018, he pursued his PhD degree at the Technical University of Munich (TUM) in Germany and was selected as one of the 14 Marie-Curie Ph.D. candidates hired on the 3Me EU Horizon H2020 project "Airborne Wind Energy System Control and Optimization" (AWESCO). He is currently working as an electrical drive specialist and development engineer for e-vehicles at IAV GmbH. 
+Hisham M. Eldeeb received his B.Sc. (honors) and M.Sc. in electrical engineering in 2011, 2014, respectively, from the Faculty of Engineering, Alexandria University, Egypt. From 2012 to 2015, he worked as a research associate at Qatar University in Qatar, hired on a 1.4M$ project; aiming at extending the penetration of inverter-based distributed-generation plants within the Qatari-Network. From September 2015 to November 2018, he pursued his PhD degree at the Technical University of Munich (TUM) in Germany and was selected as one of the 14 Marie-Curie Ph.D. candidates hired on the 3M€ EU Horizon H2020 project "Airborne Wind Energy System Control and Optimization" (AWESCO). He is currently working as an electrical drive specialist and development engineer for e-vehicles at IAV GmbH.
