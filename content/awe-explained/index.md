@@ -265,20 +265,22 @@ The presently pursued AWE technologies can be classified according to the follow
 
 {{< figure_gallery src="classification.svg" >}}
 
-At the top level we differentiate between electricity generation with a fixed ground station, with a moving ground station or directly on the flying device, requiring a conducting tether. Concepts using a moving ground station, such as a horizontal loop track or a carousel-type construction, are technically quite complex and still relatively far from realization. At the next level we distinguish between crosswind flight operation of individual tethered devices, flight operation aligned with the tether, without a significant crosswind component, and rotational operation of the entire device. In the first two cases, the tethers transfer only the pulling forces of the flying devices to the ground station, while in the third case, the tethers transfer also an additional torque. Most populated is the class of systems that operate one or more individual wings, rigid or flexible, in crosswind flight maneuvers, converting the pulling force into electricity with a fixed ground station. For continuous electricity generation, these systems combine a tether reel-out phase with a reel-in phase, which is denoted as "pumping cycle". A representative flight path computed with a dynamic system model is illustrated in the following diagram (kite not to scale).[^20]
+At the top level we differentiate between electricity generation with a fixed ground station, with a moving ground station or directly on the flying device, requiring a conducting tether. Concepts using a moving ground station, such as a horizontal loop track or a carousel-type construction, are technically quite complex and still relatively far from realization. At the next level we distinguish between crosswind flight operation of individual tethered devices, flight operation aligned with the tether, without a significant crosswind component, and rotational flight operation of the entire device. For crosswind and tether-aligned operation, only the pulling forces of the flying devices are transferred to the ground station, while for rotational operation, an additional torque is transferred.
+Most populated is the combination of fixed ground station and crosswind operation. For continuous electricity generation, these systems combine a tether reel-out phase with a reel-in phase, which is denoted as "pumping cycle". A representative flight path computed with a dynamic system model is illustrated in the following diagram (kite not to scale).[^20]
 [^20]: Uwe Fechner: "A methodology for the design of kite power control systems". PhD dissertation, Delft University of Technology, 2016. {{< doi_button doi="10.4233/uuid:85efaf4c-9dce-4111-bc91-7171b9da4b77" >}}
 
 {{< figure_gallery src="pumping_cycle_tex.svg" name="pumping-cycle" >}}
 
-{{< figure_gallery src="cycle_output.svg" name="cycle-output" >}}
+The corresponding time evolution of the mechanical power along two cycles is shown in the following diagram (left), with the blue area representing the energy generated during reel out and the red area the energy consumed during reel in. The dashed line indicates the average power. The power fluctuations during reel out are caused by the interplay of strong turbulence of the simulated wind field and the compensating reaction of the control system.
+
+{{< figure_gallery src="cycle_output_tex.svg" name="cycle-output" >}}
+
+The cycles were simulated for a mean ground wind speed of 6 m/s. The diagram on the right shows the mechanical power curve of this pumping kite power system for the entire range of ground wind speeds. The symbol marks the operational condition considered in the left diagram and it is clear that this is just below the nominal wind speed of the system. When converting to electricity additional losses have to be taken into account. 
 
 Multi-drone concepts and fully automated reliable take-off and landing, using VTOL and HTOL techniques, are challenging subjects that have been identified for future research.[^21]
 [^21]: Simon Watson, Alberto Moro, et al: "“Future emerging technologies in the wind power sector: a European perspective". Renewable and Sustainable Energy Reviews, Vol. 113, pp. 109270, 2019. {{< doi_button doi="10.1016/j.rser.2019.109270" >}}
 A detailed analysis and assessment of the different concepts has been presented by Cherubini et al.[^22]
 [^22]: Antonello Cherubini, Andrea Papini, Rocco Vertechy, Marco Fontana: "Airborne Wind Energy Systems: A review of the technologies". Renewable and Sustainable Energy Reviews, Vol. 51, pp. 1461-1476, 2015. {{< doi_button doi="10.1016/j.rser.2015.07.053" >}}
-
-<p>
-
 The largest commercial prototype in operation is the [Makani M600](https://makanipower.com/technology/), designed for a nominal power of 600 kW. The carbon composite wing with a span of 26 m uses 8 wind turbines for onboard electricity generation and automated vertical take-off and landing. A conducting tether is used to transmit the energy to the ground station.
 
 {{< gallery album="Makani" height="85px" >}}
