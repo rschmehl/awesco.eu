@@ -275,7 +275,7 @@ The corresponding time evolution of the mechanical power along two cycles is sho
 
 {{< figure_gallery src="cycle_output_tex.svg" name="cycle-output" >}}
 
-The cycles were simulated for a mean ground wind speed of 6 m/s. The diagram on the right shows the mechanical power curve of this pumping kite power system for the entire range of ground wind speeds. The symbol marks the operational condition considered in the left diagram and it is clear that this is just below the nominal wind speed of the system. When converting to electricity additional losses have to be taken into account. 
+The cycles were simulated for a mean ground wind speed of 6 m/s. The diagram on the right shows the mechanical power curve of this pumping kite power system for the entire range of ground wind speeds. The symbol marks the operational condition considered in the left diagram and it is clear that this is roughly the point of nominal operation of this system, with the nominal wind speed being around 6 m/s and the nominal mechanical power being around 12 kW. The nominal electrical power is somewhat lower because of the additional conversion losses.  
 
 Multi-drone concepts and fully automated reliable take-off and landing, using VTOL and HTOL techniques, are challenging subjects that have been identified for future research.[^21]
 [^21]: Simon Watson, Alberto Moro, et al: "“Future emerging technologies in the wind power sector: a European perspective". Renewable and Sustainable Energy Reviews, Vol. 113, pp. 109270, 2019. {{< doi_button doi="10.1016/j.rser.2019.109270" >}}
