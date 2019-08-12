@@ -21,24 +21,20 @@ organizations:
   url: "http://www.kitepower.nl"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include structural mechanics of flexible membrane wings.
+bio: I am developing the first 100 kW airborne wind energy system on the market.
 
 interests:
-- Finite Element Analysis
-- Structural Analysis
-- Aerodynamics
+- Business startup
+- Software development
 
 education:
   courses:
-  - course: MSc in Aerospace Engineering (EWEM)
-    institution: Delft University of Technology
-    year: 2015
-  - course: MSc in Wind Energy (EWEM)
-    institution: Technical University of Denmark
-    year: 2015
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Computer Science
+    institution: Technical University of Berlin
+    year: 2014
+  - course: BSc in Computer Science
+    institution: Technical University of Berlin
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,10 +43,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:p.thedens@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:j.peschel@kitepower.nl'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/_kitepower
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/johannes-peschel-501104b1/
+- icon: xing
+  icon_pack: fab
+  link: https://www.xing.com/profile/Johannes_Peschel/  
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Paul_Thedens
+  link: https://www.researchgate.net/profile/Johannes_Peschel
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -69,12 +74,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Andrea Zanelli holds a Bachelor's degree in Automation Engineering at Politecnico di Milano in 2012 and a Master's degree at ETH Zurich in Robotics, Systems and Control in 2015. He is currently pursuing his PhD under the supervision of Prof. Moritz Diehl since November 2015. He is working on the design and implementation of efficient and reliable numerical methods for nonlinear optimization. In particular, he will be focusing on topics that range from algorithms for numerical optimization on embedded devices with limited resources to applications in the control and design of airborne wind energy systems.
-
-Among other things, I am currently focusing on the development of inexact numerical methods and optimal control formulations that lead to increased computational efficiency of the algorithms used in embedded optimization and nonlinear nonlinear model predictive control.
-
-He have been helping organizing the following courses as a teaching assistant:
-
-* semester course on [numerical optimal control](https://www.syscop.de/teaching/ss2017/numerical-optimal-control)
-* winter school on [numerical optimal control with differential algebraic equations](https://www.syscop.de/teaching/ws2015/nocdae)
-* semester course on [numerical optimization](https://www.syscop.de/teaching/ws2015/numopt)
+Johannes Peschel is CEO of the startup company Kitepower, which he founded together with Dr. [Roland Schmehl](/authors/roland-schmehl/) in 2016. The company commercially develops a 100 kW airborne wind energy system based on the technology platform that Delft University of Technology was developing and testing since 2010. From September 2014 until July 2015 he was part of the [Kitepower 2.0](http://www.kitepower.eu/newsevents/81-kite-power-20.html) project of Delft University of Technology, which eventually led to the EU Horizon 2020 "Fast Track to Innovation" project [REACH](https://cordis.europa.eu/project/rcn/199241/). Kitepower is a partner organization in the AWESCO network, providing opportunities for secondments to the PhD researchers.

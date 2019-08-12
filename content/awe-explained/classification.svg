@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.3307008"
-     inkscape:cx="103.51696"
-     inkscape:cy="277.06624"
+     inkscape:zoom="7.7254825"
+     inkscape:cx="1457.3805"
+     inkscape:cy="50.261193"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1399"
      showgrid="false"
      units="px"
      fit-margin-top="0"
@@ -410,6 +410,11 @@
        orientation="0,1"
        id="guide1507"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="244.74775,719.78237"
+       orientation="0,1"
+       id="guide1072"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata970">
@@ -495,26 +500,26 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.11066628px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       x="308.35809"
+       x="263.70572"
        y="-29.797394"
        id="text1918"><tspan
          sodipodi:role="line"
          id="tspan1916"
-         x="308.35809"
+         x="263.70572"
          y="-29.797394">Elelectricity </tspan><tspan
          sodipodi:role="line"
-         x="308.35809"
+         x="263.70572"
          y="9.0909386"
          id="tspan2016">generation</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.11066628px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       x="635.09283"
-       y="-30.149632"
+       x="629.33167"
+       y="-29.613708"
        id="text1918-6"><tspan
          sodipodi:role="line"
-         x="635.09283"
-         y="-30.149632"
+         x="629.33167"
+         y="-29.613708"
          id="tspan2018">Flight operation</tspan></text>
     <text
        xml:space="preserve"
@@ -1486,7 +1491,7 @@
            id="tspan2334"
            y="670.95184"
            x="985.97455"
-           sodipodi:role="line">Kitewinder</tspan></text>
+           sodipodi:role="line">Magenn</tspan></text>
       <path
          d="m 957.92714,621.10256 a 10.19894,10.19894 0 0 1 10.1057,-10.28948 10.19894,10.19894 0 0 1 10.29133,10.10382 10.19894,10.19894 0 0 1 -10.10193,10.29318 10.19894,10.19894 0 0 1 -10.29503,-10.10005"
          sodipodi:open="true"
@@ -1510,7 +1515,7 @@
          sodipodi:cx="968.1944"
          sodipodi:type="arc"
          id="path2306-7-3-8-6-8"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.25053334;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:2.25053334;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          d="m 1158.5108,620.93288 a 10.19894,10.19894 0 0 1 10.1057,-10.28948 10.19894,10.19894 0 0 1 10.2914,10.10382 10.19894,10.19894 0 0 1 -10.102,10.29318 10.19894,10.19894 0 0 1 -10.295,-10.10005"
          sodipodi:open="true"
@@ -1548,7 +1553,7 @@
            id="tspan2328-2"
            y="671.04486"
            x="1386.3911"
-           sodipodi:role="line" /></text>
+           sodipodi:role="line">Kitewinder</tspan></text>
       <path
          d="m 1360.1093,620.87618 a 10.19894,10.19894 0 0 1 10.1057,-10.28948 10.19894,10.19894 0 0 1 10.2914,10.10382 10.19894,10.19894 0 0 1 -10.102,10.29318 10.19894,10.19894 0 0 1 -10.295,-10.10005"
          sodipodi:open="true"
@@ -1604,6 +1609,18 @@
            y="690.08691"
            x="630.96863"
            sodipodi:role="line" /></text>
+      <path
+         d="m 1360.0189,659.94057 a 10.19894,10.19894 0 0 1 10.1057,-10.28948 10.19894,10.19894 0 0 1 10.2913,10.10382 10.19894,10.19894 0 0 1 -10.1019,10.29318 10.19894,10.19894 0 0 1 -10.2951,-10.10005"
+         sodipodi:open="true"
+         sodipodi:end="3.131941"
+         sodipodi:start="3.132674"
+         sodipodi:ry="10.19894"
+         sodipodi:rx="10.19894"
+         sodipodi:cy="659.84961"
+         sodipodi:cx="1370.2174"
+         sodipodi:type="arc"
+         id="path2306-7-6-3-2-0-8-0-99-4"
+         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.25053334;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <text
        xml:space="preserve"

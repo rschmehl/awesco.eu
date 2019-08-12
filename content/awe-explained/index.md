@@ -229,7 +229,7 @@ Included are only those academic groups or commercial teams that have been activ
 
 The main contributing regions are North America and Europe, with the difference that the activities in the US are dominated by [Makani](http://www.makanipower.com), an [ARPA-E](https://www.youtube.com/watch?v=C9Ly6na58e0)-supported startup that became a [Google moonshot project](https://x.company), while in Europe they are distributed to a diverse network of companies, universities and research organisations. Funding through the European Union's Framework Programmes FP7 and Horizon 2020 has played an important role in the formation of this ecosystem.
 
-> The essence of airborne wind energy is to replace material constraints by control algorithms. This is the great potential but at the same time also the challenge of the technology.
+> The essence of airborne wind energy is to replace material constraints (passive) by control algorithms (active). This is the great potential but at the same time also the challenge of the technology.
 
 Using a lightweight tether in place of a tower and its foundation removes most of the mechanical constraints of the system. For this reason, control and optimization have already early on evolved into key research themes for AWE.
 In 2001, Moritz Diehl described the crosswind operation of a kite as an optimal control problem,[^15]
@@ -275,7 +275,7 @@ The corresponding time evolution of the mechanical power along two cycles is sho
 
 {{< figure_gallery src="cycle_output_tex.svg" name="cycle-output" >}}
 
-The cycles were simulated for a mean ground wind speed of 6 m/s. The diagram on the right shows the mechanical power curve of this pumping kite power system for the entire range of ground wind speeds. The symbol marks the operational condition considered in the left diagram and it is clear that this is roughly the point of nominal operation of this system, with the nominal wind speed being around 6 m/s and the nominal mechanical power being around 12 kW. The nominal electrical power is somewhat lower because of the additional conversion losses.  
+The cycles were simulated for a mean ground wind speed of 6 m/s. The mean wind speed at the operational height of the kite is higher and modeled with a logarithmic law. The diagram on the right shows the mechanical power curve of this specific pumping kite power system for the entire range of ground wind speeds. The symbol marks the operational condition considered in the left diagram and it is clear that this is roughly the point of nominal operation of this system, with the nominal mechanical power being around 12 kW. Because of the additional conversion losses the nominal electrical power of the system is lower.  
 
 Multi-drone concepts and fully automated reliable take-off and landing, using VTOL and HTOL techniques, are challenging subjects that have been identified for future research.[^21]
 [^21]: Simon Watson, Alberto Moro, et al: "“Future emerging technologies in the wind power sector: a European perspective". Renewable and Sustainable Energy Reviews, Vol. 113, pp. 109270, 2019. {{< doi_button doi="10.1016/j.rser.2019.109270" >}}

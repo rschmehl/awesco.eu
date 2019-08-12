@@ -71,4 +71,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Mikko Folkersma is Marie-Skłodowska-Curie Fellow at Delft University of Technology under supervision of Dr. Roland Schmehl and Dr. Axelle Viré. He is focusing on fluid structure interaction of flexible membrane wings for airborne wind energy generation.
+Mikko Folkersma is Marie-Skłodowska-Curie Fellow at Delft University of Technology supervised by Dr. [Roland Schmehl](/authors/roland-schmehl/) and Dr. [Axelle Viré](/authors/axelle-vire/). His [research](/project/esr01/) is focused on fluid structure interaction of flexible membrane wings for airborne wind energy generation.
