@@ -17,18 +17,20 @@ role: PhD researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Systems and Control
+- name: Automatic Control Group
+  url: "https://www.chalmers.se/en/departments/e2/research/systems-and-control/Pages/Automatic-control.aspx"
 - name: Department of Electrical Engineering
+  url: "https://www.chalmers.se/en/departments/e2/Pages/default.aspx"
 - name: Chalmers University of Technology
-#  url: "https://www.chalmers.se/"
+  url: "https://www.chalmers.se/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Elena Malz's research is on optimal control and optimization of AWE systems and the analysis of their power production.
+bio: My research is on optimal control and optimization of AWE systems and the analysis of their power production.
 
 interests:
-- Modelling, simulation, and control
+- Modelling, Simulation, and Control
 - Optimization
-- Energy systems
+- Energy Systems
 
 education:
   courses:
@@ -47,6 +49,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:elenama@chalmers.se'  # For a direct email link, use "mailto:test@example.org".
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-3541-5594
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Elena_Malz
@@ -68,6 +73,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Elena Malz is Marie-Skłodowska-Curie Fellow and PhD candidate working on optimal control and simulation of airborne wind energy systems. One part of the work is focussed on modeling and optimizing the system in terms of power production. The other part is focussed on computing the annual power production based on real wind data. The power production curve is further analyzed from an electrical energy system perspective with the aim of the eventual integration into a future power system.  
-
-
+Elena Malz is Marie-Skłodowska-Curie Fellow at Chalmers University of Technology, working with [Sebastien Gros](/authors/sebastien-gros). Her research is focussed on [optimal control and simulation of airborne wind energy systems](/project/esr05/). One part of the work is focussed on modeling and optimizing the system in terms of power production. The other part is focussed on computing the annual power production based on real wind data. The power production curve is further analyzed from an electrical energy system perspective with the aim of the eventual integration into a future power system.  

@@ -21,7 +21,7 @@ organizations:
   url: "http://www.kitepower.nl"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am developing the first 100 kW airborne wind energy system on the market.
+bio: Developing the first 100 kW airborne wind energy system on the market.
 
 interests:
 - Business startup

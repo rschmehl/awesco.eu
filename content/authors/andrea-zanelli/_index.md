@@ -17,32 +17,29 @@ role: PhD researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Airborne Wind Energy
-  url: "http://www.kitepower.eu"
-- name: Faculty of Aerospace Engineering
-  url: "http://www.tudelft.nl/lr"
-- name: Delft University of Technology
-  url: "http://www.tudelft.nl"
+- name: Systems Control and Optmization Laboratory
+  url: "https://www.syscop.de"
+- name: IMTEK, Faculty of Engineering
+  url: "https://www.imtek.de"
+- name: University of Freiburg
+  url: "https://www.uni-freiburg.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include structural mechanics of flexible membrane wings.
+bio: My research interests are in nonlinear optimization, model predictive control and embedded systems.
 
 interests:
-- Finite Element Analysis
-- Structural Analysis
-- Aerodynamics
+- Nonlinear Optimization
+- Model Predictive Control
+- Embedded Systems
 
 education:
   courses:
-  - course: MSc in Aerospace Engineering (EWEM)
-    institution: Delft University of Technology
+  - course: MSc in Robotics, Systems and Control
+    institution: ETH Zurich
     year: 2015
-  - course: MSc in Wind Energy (EWEM)
-    institution: Technical University of Denmark
-    year: 2015
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Automation Engineering
+    institution: Politecnico di Milano
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -51,10 +48,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:p.thedens@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:andrea.zanelli@imtek.uni-freiburg.de'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/andrea-zanelli-755306b3/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=KVtkWqwAAAAJ
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Paul_Thedens
+  link: https://www.researchgate.net/profile/Andrea_Zanelli
+- icon: github
+  icon_pack: fab
+  link: https://github.com/zanellia
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -73,12 +79,10 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Andrea Zanelli holds a Bachelor's degree in Automation Engineering at Politecnico di Milano in 2012 and a Master's degree at ETH Zurich in Robotics, Systems and Control in 2015. He is currently pursuing his PhD under the supervision of Prof. Moritz Diehl since November 2015. He is working on the design and implementation of efficient and reliable numerical methods for nonlinear optimization. In particular, he will be focusing on topics that range from algorithms for numerical optimization on embedded devices with limited resources to applications in the control and design of airborne wind energy systems.
-
-Among other things, I am currently focusing on the development of inexact numerical methods and optimal control formulations that lead to increased computational efficiency of the algorithms used in embedded optimization and nonlinear nonlinear model predictive control.
-
-He have been helping organizing the following courses as a teaching assistant:
+Andrea Zanelli is Marie-Skłodowska-Curie Fellow at the University of Freiburg, working with [Moritz Diehl](/authors/moritz-diehl/). His research is focussed on design and implementation of [efficient and reliable numerical methods for nonlinear optimization](/project/esr04/). His interest ranges from algorithms for numerical optimization on embedded devices with limited resources to applications in the control and design of airborne wind energy systems. One of his current projects is the development of inexact numerical methods and optimal control formulations that lead to increased computational efficiency of the algorithms used in embedded optimization and nonlinear nonlinear model predictive control. He is teaching assistant for the following courses:
 
 * semester course on [numerical optimal control](https://www.syscop.de/teaching/ss2017/numerical-optimal-control)
 * winter school on [numerical optimal control with differential algebraic equations](https://www.syscop.de/teaching/ws2015/nocdae)
 * semester course on [numerical optimization](https://www.syscop.de/teaching/ws2015/numopt)
+
+In 2017 he spent 3 months as visiting PhD researcher at the Silicon Valley "flying car" start-up [Kitty Hawk](https://kittyhawk.aero/). 

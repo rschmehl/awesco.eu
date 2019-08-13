@@ -49,9 +49,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:m.a.m.folkersma@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/mikko-folkersma-890755112/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-7801-5814
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Mikko_Folkersma
+- icon: github
+  icon_pack: fab
+  link: https://github.com/mfolkersma
+- icon: bitbucket
+  icon_pack: fab
+  link: https://bitbucket.com/mamfolke/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -71,4 +83,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Mikko Folkersma is Marie-Skłodowska-Curie Fellow at Delft University of Technology supervised by Dr. [Roland Schmehl](/authors/roland-schmehl/) and Dr. [Axelle Viré](/authors/axelle-vire/). His [research](/project/esr01/) is focused on fluid structure interaction of flexible membrane wings for airborne wind energy generation.
+Mikko Folkersma is Marie-Skłodowska-Curie Fellow at Delft University of Technology, working with Dr. [Roland Schmehl](/authors/roland-schmehl/) and Dr. [Axelle Viré](/authors/axelle-vire/). His research is focused on [fluid structure interaction of flexible membrane wings](/project/esr01/) for airborne wind energy generation. From April to July 2015, he was working at the Institut Supérior de l'Aéronautique et de l'Espace (ISAE-SUPAERO) Toulouse, France, on his graduation project on [large eddy simulation of a jet in crossflow](doi.org/10.1007/978-3-319-63212-4_10) modeling a film cooling configuration for gas turbine blades.

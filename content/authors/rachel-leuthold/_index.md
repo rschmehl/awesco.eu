@@ -25,25 +25,22 @@ organizations:
   url: "https://www.uni-freiburg.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Rachel Leuthold's research is on optimal control of a centrifugally stiffened rotor in pumping cycle operation.
+bio: My research interests are on optimal control of a centrifugally stiffened rotor in pumping cycle operation.
 
 interests:
-- Modelling, simulation, and control
-- Aerodynamic vortex methods
-- Centrifugally stiffened rotors
-- Multi-kite systems
+- Modelling, Simulation, and Control
+- Aerodynamic Vortex Methods
+- Centrifugally Stiffened Rotors
+- Multi-kite Systems
 
 education:
   courses:
-  - course: MSc in Aerospace Engineering (EWEM)
+  - course: MSc in Aerospace Engineering
     institution: Delft University of Technology
     year: 2015
-  - course: MSc in Wind Energy (EWEM)
-    institution: Technical University of Denmark
-    year: 2015
-  - course: BSc in Artificial Intelligence
+  - course: BSc in Aeronautical and Astronautical Engineering
     institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -52,10 +49,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:p.thedens@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:rachel.colette.leuthold@imtek.uni-freiburg.de'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/rachel-leuthold-131a0aa5/
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Rachel_Leuthold
+  link: https://www.researchgate.net/profile/Rachel_Leuthold2
+- icon: bitbucket
+  icon_pack: fab
+  link: https://bitbucket.com/rleuthold/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -74,4 +77,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Rachel Leuthold is Marie-Skłodowska-Curie Fellow working on optimal control of a centrifugally stiffened rotor in pumping cycle operation. She obtained an MSc in Aerospace Engineering from the Technical University of Delft (Netherlands) in 2015, with a thesis on a multiple wake vortex lattice method for membrane-wing kites. She graduated with a BSc in Aeronautical and Astronautical Engineering from the Massachusetts Institute of Technology (USA) in 2011.
+Rachel Leuthold is Marie-Skłodowska-Curie Fellow at the University of Freiburg, working with [Moritz Diehl](/authors/moritz-diehl/). Her research is focussed on [optimal control of multi-kite systems](/project/esr03/) in pumping cycle operation. She co-organized the [7th Airborne Wind Energy Conference (AWEC) 2017](http://www.awec2017.com/) in Freiburg and co-edited the [book of abstracts](https://doi.org/10.6094/UNIFR/12994). She obtained an MSc in Aerospace Engineering from Delft University of Technology, the Netherlands, in 2015, with a thesis on a [multiple wake vortex lattice method for membrane-wing kites](http://resolver.tudelft.nl/uuid:4c2f34c2-d465-491a-aa64-d991978fedf4). She graduated with a BSc in Aeronautical and Astronautical Engineering from the Massachusetts Institute of Technology, MA, USA, in 2011.

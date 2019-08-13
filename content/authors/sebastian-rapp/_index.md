@@ -25,22 +25,22 @@ organizations:
   url: "http://www.tudelft.nl"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include control system development and data-driven approaches for performance verification of complex control systems.
+bio: Interested in control system development and data-driven approaches for performance verification of complex control systems.
 
 
 interests:
 - Control Systems
 
 - Robust Control
-- Stochastic Control System Verification 
+- Stochastic Control System Verification
 
 
 education:
   courses:
-  - course: M.Sc. in Aerospace Engineering
+  - course: MSc in Aerospace Engineering
     institution: Technical University of Munich
     year: 2015
-  - course: B.Sc. in Aerospace Engineering
+  - course: BSc in Aerospace Engineering
     institution: Technical University of Munich
     year: 2013
 
@@ -53,9 +53,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:s.rapp@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sebastianrapp/
+- icon: xing
+  icon_pack: fab
+  link: https://www.xing.com/profile/Sebastian_Rapp20/
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Sebastian_Rapp3
+  link: https://www.researchgate.net/profile/Sebastian_Rapp3/
+- icon: bitbucket
+  icon_pack: fab
+  link: https://bitbucket.com/rapp18/src/master/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -74,4 +83,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Sebastian Rapp is Marie-Skłodowska-Curie Fellow focusing on robust flight control of airborne wind energy systems.
+Sebastian Rapp is Marie-Skłodowska-Curie Fellow at Delft University of Technology, working with Dr. [Roland Schmehl](/authors/roland-schmehl/). His research is focused on [robust flight control](/project/esr02/) of airborne wind energy systems. In this field he has collaborated extensively with the Norwegian company [Kitemill](http://www.kitemill.com), which is a partner organization in the AWESCO network. During his studies he spent one year (2012-2013) at the Institut Supérior de l'Aéronautique et de l'Espace (ISAE-SUPAERO) Toulouse, France.

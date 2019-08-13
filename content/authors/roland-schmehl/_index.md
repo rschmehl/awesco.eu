@@ -79,6 +79,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/rschmehl
+- icon: bitbucket
+  icon_pack: fab
+  link: https://bitbucket.com/rschmehl/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -97,4 +100,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Dr. Roland Schmehl is head of the Airborne Wind Energy research group at Delft University of Technology. He is coordinator of the Marie Skłodowska-Curie Initial Training Network [AWESCO](https://cordis.europa.eu/project/rcn/193938/) and the "Fast Track to Innovation" project [REACH](https://cordis.europa.eu/project/rcn/199241/), both funded by the European Union's Horizon 2020 Framework Programme. In 2016 he cofounded the start-up company [Kitepower](http://www.kitepower.nl) together with [Johannes Peschel](/authors/johannes-peschel/), the current CEO of the company. His research interests are airborne wind energy in general and aeroelasticity of tethered membrane wings and fixed-wing aircraft in particular. He has edited two textbooks about airborne wind energy that were published with Springer in 2013 and 2018.
+Dr. Roland Schmehl is head of the Airborne Wind Energy research group at Delft University of Technology. He is coordinator of the Marie Skłodowska-Curie Initial Training Network [AWESCO](https://cordis.europa.eu/project/rcn/193938/) and the "Fast Track to Innovation" project [REACH](https://cordis.europa.eu/project/rcn/199241/), both funded by the European Union's Horizon 2020 Framework Programme. In 2016 he cofounded the start-up company [Kitepower](http://www.kitepower.nl) together with [Johannes Peschel](/authors/johannes-peschel/), the current CEO of the company. His research interests are airborne wind energy in general and aeroelasticity of tethered membrane wings and fixed-wing aircraft in particular. He is a founding member of [Airborne Wind Europe](http://www.airbornewindeurope.org) and chairs the [Airborne Wind Energy Committee](https://eawe.eu/organisation/committees/) of the European Academy of Wind Energy (EAWE). He has edited two textbooks about airborne wind energy that were published with Springer in [2013](http://doi.org/10.1007/978-3-642-39965-7) and [2018](http://doi.org/10.1007/978-981-10-1947-0).
