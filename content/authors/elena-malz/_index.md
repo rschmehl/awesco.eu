@@ -25,7 +25,7 @@ organizations:
   url: "https://www.chalmers.se/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is on optimal control and optimization of AWE systems and the analysis of their power production.
+bio: Interested in optimal control, optimization and power production of AWE systems.
 
 interests:
 - Modelling, Simulation, and Control
@@ -73,4 +73,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Elena Malz is Marie-Skłodowska-Curie Fellow at Chalmers University of Technology, working with [Sebastien Gros](/authors/sebastien-gros). Her research is focussed on [optimal control and simulation of airborne wind energy systems](/project/esr05/). One part of the work is focussed on modeling and optimizing the system in terms of power production. The other part is focussed on computing the annual power production based on real wind data. The power production curve is further analyzed from an electrical energy system perspective with the aim of the eventual integration into a future power system.  
+Elena Malz is Marie-Skłodowska-Curie Fellow at Chalmers University of Technology, working with Prof. Dr. [Sebastien Gros](/authors/sebastien-gros). Her research is focussed on [optimal control and simulation of airborne wind energy systems](/project/esr05/). One part of the work is focussed on modeling and optimizing the system in terms of power production. The other part is focussed on computing the annual power production based on real wind data. The power production curve is further analyzed from an electrical energy system perspective with the aim of the eventual integration into a future power system. During her studies at Aalborg University she contributed to research on [alternative parameter determination methods for a permanent magnet synchronous generator](https://doi.org/10.1109/OPTIM.2014.6850897) which was part of the DeepWind project. During her studies at the University of Stuttgart she investigated the optimization of off‐shore wind power plants collection grids.

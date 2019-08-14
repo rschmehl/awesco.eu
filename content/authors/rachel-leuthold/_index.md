@@ -25,7 +25,7 @@ organizations:
   url: "https://www.uni-freiburg.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are on optimal control of a centrifugally stiffened rotor in pumping cycle operation.
+bio: Interested in optimal control of a centrifugally stiffened rotor in pumping cycle operation.
 
 interests:
 - Modelling, Simulation, and Control
@@ -77,4 +77,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Rachel Leuthold is Marie-Skłodowska-Curie Fellow at the University of Freiburg, working with [Moritz Diehl](/authors/moritz-diehl/). Her research is focussed on [optimal control of multi-kite systems](/project/esr03/) in pumping cycle operation. She co-organized the [7th Airborne Wind Energy Conference (AWEC) 2017](http://www.awec2017.com/) in Freiburg and co-edited the [book of abstracts](https://doi.org/10.6094/UNIFR/12994). She obtained an MSc in Aerospace Engineering from Delft University of Technology, the Netherlands, in 2015, with a thesis on a [multiple wake vortex lattice method for membrane-wing kites](http://resolver.tudelft.nl/uuid:4c2f34c2-d465-491a-aa64-d991978fedf4). She graduated with a BSc in Aeronautical and Astronautical Engineering from the Massachusetts Institute of Technology, MA, USA, in 2011.
+Rachel Leuthold is Marie-Skłodowska-Curie Fellow at the University of Freiburg, working with Prof. Dr. [Moritz Diehl](/authors/moritz-diehl/) and [Sébastien Gros](/authors/sebastien-gros). Her research is focussed on [optimal control of multi-kite systems](/project/esr03/) in pumping cycle operation. She is one of the developers of the software package [AWEBox](https://github.com/awebox/awebox) for modelling and optimal control of multiple-kite systems for airborne wind energy. She co-organized the [7th Airborne Wind Energy Conference (AWEC) 2017](http://www.awec2017.com/) in Freiburg and co-edited the [book of abstracts](https://doi.org/10.6094/UNIFR/12994). She obtained an MSc in Aerospace Engineering from Delft University of Technology, the Netherlands, in 2015, with a thesis on a [multiple wake vortex lattice method for membrane-wing kites](http://resolver.tudelft.nl/uuid:4c2f34c2-d465-491a-aa64-d991978fedf4). She graduated with a BSc in Aeronautical and Astronautical Engineering from the Massachusetts Institute of Technology, MA, USA, in 2011.

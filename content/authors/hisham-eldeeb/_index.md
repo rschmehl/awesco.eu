@@ -23,7 +23,7 @@ organizations:
   url: "https://www.tum.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hisham Eldeeb's research is on fault-tolerant control of multi-phase electrical drives for airborne wind energy systems
+bio: Interested in fault-tolerant control of multi-phase electrical drives for AWE systems.
 
 interests:
 - Modelling, simulation, and control

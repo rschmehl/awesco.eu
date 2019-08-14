@@ -41,8 +41,3 @@ meaningful OCP solutions. Work so far has determined that: a wake model is neces
 model should be valid over applicable wind environments, that the model should include unsteady
 effects. A fast wake model suitable for MAWES (an engineering induction model) has been proposed,
 and work is ongoing to synthesize a model with a wider region of validity.
-This report describes the work done over the course of the AWESCO ITN by ESR03, under the cosupervision
-of Moritz Diehl (ALU-FR) and Sébastien Gros (Chalmers). This work began on 01.01.2016,
-and all relevant deliverables and milestones should be completed by 31.12.2018. This work was done
-in collaboration with the other members of AWESCO, through collaborative paper-writing, joint
-courses and workshops, as well as research secondments.

@@ -17,33 +17,31 @@ role: PhD researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Systems Control and Optmization Laboratory
-  url: "https://www.syscop.de"
-- name: IMTEK, Faculty of Engineering
-  url: "https://www.imtek.de"
-- name: University of Freiburg
-  url: "https://www.uni-freiburg.de/"
+- name: Turbulent Flow Simulation and Optimization Group
+  url: "http://www.mech.kuleuven.be/en/tme/research/tfso"
+- name: Department of Mechanical Engineering
+  url: "https://www.mech.kuleuven.be/en"
+- name: KU Leuven
+  url: "https://www.kuleuven.be/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Thomas Haas's research is on optimal control of a centrifugally stiffened rotor in pumping cycle operation.
+bio: Interested in computational simulation of the wind environment for AWE applications.
 
 interests:
-- Modelling, simulation, and control
-- Aerodynamic vortex methods
-- Centrifugally stiffened rotors
-- Multi-kite systems
+- Large Eddy Simulation
+- Atmospheric Boundary Layer
 
 education:
   courses:
-  - course: MSc in Aerospace Engineering (EWEM)
-    institution: Delft University of Technology
+  - course: MSc in Engineering Physics
+    institution: Technical University of Berlin
     year: 2015
-  - course: MSc in Wind Energy (EWEM)
-    institution: Technical University of Denmark
-    year: 2015
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Applied Physics
+    institution: University of Strasbourg
+    year: 2011
+  - course: BSc in Mechanical Engineering
+    institution: Offenburg University of Applied Sciences
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -52,10 +50,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:p.thedens@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:thomas.haas@kuleuven.be'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/thomas-haas-472585b6/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-9713-7481/
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Elena_Malz
+  link: https://www.researchgate.net/profile/Thomas_Haas12
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -74,4 +78,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Rachel Leuthold is Marie-Skłodowska-Curie Fellow working on optimal control of a centrifugally stiffened rotor in pumping cycle operation. She obtained an MSc in Aerospace Engineering from the Technical University of Delft (Netherlands) in 2015, with a thesis on a multiple wake vortex lattice method for membrane-wing kites. She graduated with a BSc in Aeronautical and Astronautical Engineering from the Massachusetts Institute of Technology (USA) in 2011.
+Thomas Haas is Marie-Skłodowska-Curie Fellow at KU Leuven, working with Prof. dr.ir. [Johan Meyers](/authors/johan-meyers/). His research is focused on [computational simulation of atmospheric flows](/project/esr06/)  and the effect of airborne wind energy systems on these flows. He has published an extensive [wind field dataset](http://doi.org/10.5281/zenodo.1418676) for use in airborne wind energy research.

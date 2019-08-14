@@ -25,10 +25,12 @@ organizations:
   url: "https://www.uni-freiburg.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in airborne wind energy.
+bio: https://cordis.europa.eu/project/rcn/193938/
 
 interests:
-- Nonlinear Model Predictive Control
+- Optimization and Control
+- Numerical method  development
+- Embedded and Renewable Energy Systems.
 
 education:
   courses:
@@ -48,6 +50,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:moritz.diehl@imtek.uni-freiburg.de'  # For a direct email link, use "mailto:test@example.org".
+- icon: researcherid
+  icon_pack: ai
+  link: https://publons.com/researcher/K-9537-2015/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=JEwMX6wAAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Moritz_Diehl
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -63,6 +74,4 @@ user_groups:
 - Principal Investigators
 ---
 
-Moritz Diehl was born in Hamburg, Germany, in 1971. He studied physics and mathematics at Heidelberg and Cambridge University from 1993-1999, and received his Ph.D. degree from Heidelberg University in 2001, at the Interdisciplinary Center for Scientific Computing. From 2006 to 2013, he was a professor with the Department of Electrical Engineering, KU Leuven University Belgium, and served as the Principal Investigator of KU Leuven's Optimization in Engineering Center OPTEC. He was the principal investigator of the ERC Project HIGHWIND.
-
-In 2013 he moved to the University of Freiburg, Germany, where he heads the Systems Control and Optimization Laboratory, in the Department of Microsystems Engineering (IMTEK), and is also affiliated to the Department of Mathematics. His research interests are in optimization and control,  spanning from numerical method  development to applications in different branches of engineering, with a focus on embedded and on renewable energy systems.
+Moritz Diehl heads the Systems Control and Optimization Laboratory of the Department of Microsystems Engineering (IMTEK) at the University of Freiburg. He is also affiliated to the Department of Mathematics. He is Training Manager of the Marie Skłodowska-Curie Initial Training Network [AWESCO](https://cordis.europa.eu/project/rcn/193938/). Before taking up his current assignment, he was professor with the Department of Electrical Engineering, KU Leuven, Belgium, and served as the Principal Investigator of the [Optimization in Engineering Center (OPTEC)](https://set.kuleuven.be/optec). He was the principal investigator of the EU FP7 ERC Project [HIGHWIND](https://cordis.europa.eu/project/rcn/98087/factsheet/en).

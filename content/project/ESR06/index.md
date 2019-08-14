@@ -43,5 +43,4 @@ design and performance estimation of airborne wind energy systems. In addition, 
 framework incorporates the effects of airborne wind energy systems onto the development of the
 wind flow. With this virtual flight simulator, new insights on the structure of the wind field in the
 context of airborne wind energy can be gained and can be used to increase the efficiency of power
-extraction. This report contains an overview of the work carried out by ESR06 at KU Leuven, the
-dissemination of the conducted research and the trainings taken in the context of the AWESCO-ITN.
+extraction.

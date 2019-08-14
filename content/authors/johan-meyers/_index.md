@@ -17,8 +17,10 @@ role: Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Turbulent Flow Simulation & Optimization
+- name: Turbulent Flow Simulation and Optimization Group
   url: "https://www.mech.kuleuven.be/en/tme/research/tfso"
+- name: Department of Mechanical Engineering
+  url: "https://www.mech.kuleuven.be/en"
 - name: KU Leuven
   url: "https://www.kuleuven.be"
 
@@ -26,17 +28,18 @@ organizations:
 bio: My research interests are in airborne wind energy.
 
 interests:
-- Airborne Wind Energy
+- Turbulent Flows
+- LES and DNS
+- Flow Control or Optimization
 
 education:
   courses:
-  - course: PhD in Numerical Optimal Control
-    institution: University of Heidelberg
-    year: 2001
-  - course: Dipl.-Phys.
-    institution: University of Heidelberg
-    year: 1994
-
+  - course: PhD in Applied Sciences
+    institution: KU Leuven
+    year: 2004
+  - course: MSc in Mechanical Engineering
+    institution: KU Leuven
+    year: 1996
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -45,7 +48,25 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:moritz.diehl@imtek.uni-freiburg.de'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:johan.meyers@kuleuven.be'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/johanmeyers/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-2828-4397
+- icon: impactstory
+  icon_pack: ai
+  link: https://profiles.impactstory.org/u/0000-0002-2828-4397
+- icon: researcherid
+  icon_pack: ai
+  link: https://publons.com/researcher/A-7874-2010/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=TzE76LUAAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Johan_Meyers
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -61,6 +82,4 @@ user_groups:
 - Principal Investigators
 ---
 
-Moritz Diehl was born in Hamburg, Germany, in 1971. He studied physics and mathematics at Heidelberg and Cambridge University from 1993-1999, and received his Ph.D. degree from Heidelberg University in 2001, at the Interdisciplinary Center for Scientific Computing. From 2006 to 2013, he was a professor with the Department of Electrical Engineering, KU Leuven University Belgium, and served as the Principal Investigator of KU Leuven's Optimization in Engineering Center OPTEC. He was the principal investigator of the ERC Project HIGHWIND.
-
-In 2013 he moved to the University of Freiburg, Germany, where he heads the Systems Control and Optimization Laboratory, in the Department of Microsystems Engineering (IMTEK), and is also affiliated to the Department of Mathematics. His research interests are in optimization and control,  spanning from numerical method  development to applications in different branches of engineering, with a focus on embedded and on renewable energy systems.
+Johan Meyers is head of the Turbulent Flow Simulation and Optimization Group at KU Leuven. He is Recruitment Manager of the Marie Skłodowska-Curie Initial Training Network [AWESCO](https://cordis.europa.eu/project/rcn/193938/factsheet/en). He is Associate Editor of [Wind Energy Science](https://wind-energy-science.net/) and [Computers & Fluids](https://www.journals.elsevier.com/computers-and-fluids) and currently Vice-President of the [European Academy of Wind Energy](https://eawe.eu/).

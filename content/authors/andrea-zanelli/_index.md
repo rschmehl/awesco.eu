@@ -25,7 +25,7 @@ organizations:
   url: "https://www.uni-freiburg.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in nonlinear optimization, model predictive control and embedded systems.
+bio: Interested in nonlinear optimization, model predictive control and embedded systems.
 
 interests:
 - Nonlinear Optimization
@@ -85,4 +85,4 @@ Andrea Zanelli is Marie-Skłodowska-Curie Fellow at the University of Freiburg, 
 * winter school on [numerical optimal control with differential algebraic equations](https://www.syscop.de/teaching/ws2015/nocdae)
 * semester course on [numerical optimization](https://www.syscop.de/teaching/ws2015/numopt)
 
-In 2017 he spent 3 months as visiting PhD researcher at the Silicon Valley "flying car" start-up [Kitty Hawk](https://kittyhawk.aero/). 
+In 2017 he spent 3 months as visiting PhD researcher at the Silicon Valley "flying car" start-up [Kitty Hawk](https://kittyhawk.aero/).
