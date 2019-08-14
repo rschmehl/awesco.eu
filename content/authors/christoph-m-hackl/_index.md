@@ -25,15 +25,14 @@ organizations:
   url: "https://www.hm.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in airborne wind energy.
+bio: Interested in mechatronic and renewable energy systems.
 
 interests:
-- Airborne Wind Energy
 - Electrical Drive Systems
 - Power Electronics
 - Mechatronics
 - Renewable Energy Systems
-- Efficiency 
+- Efficiency
 - Fault-tolerance
 
 education:
@@ -54,6 +53,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:christoph.hackl@hm.edu'  # For a direct email link, use "mailto:test@example.org".
+- icon: xing
+  icon_pack: fab
+  link: https://www.xing.com/profile/ChristophM_Hackl/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-5829-6818
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=LYhXm88AAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Christoph_Hackl
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -71,10 +82,12 @@ user_groups:
 
 Christoph M. Hackl was born in 1977 in Mannheim, Germany. After studying
 Electrical Engineering (with focus on controls and mechatronics) at Technical
-University of Munich (TUM), Germany and University of Wisconsin-Madison, USA, 
+University of Munich (TUM), Germany and University of Wisconsin-Madison, USA,
 he received the B.Sc., Dipl.-Ing., and Dr.-Ing. (Ph.D.) degrees in Electrical Engineering
-in 2003, 2004 and 2012, respectively, from TUM. 
+in 2003, 2004 and 2012, respectively, from TUM.
 
 Since 2004, he has been teaching
-electrical drives, power electronics, and mechatronic & renewable energy systems. Since 2014, he has been the head of the research group "Control of Renewable Energy Systems (CRES)" at TUM. 
+electrical drives, power electronics, and mechatronic & renewable energy systems. Since 2014, he has been the head of the research group "Control of Renewable Energy Systems (CRES)" at TUM.
 In 2018, he became a Professor for Electrical Machines and Drives and the head of the "Laboratory for Mechatronic and Renewable Energy Systems (LMRES)" at the Munich University of Applied Sciences (MUAS), Germany. His research interests include nonlinear, adaptive and optimal control of electrical, mechatronic and renewable energy systems.
+
+He is IEEE Senior Member.

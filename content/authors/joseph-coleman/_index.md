@@ -17,33 +17,27 @@ role: PostDoc
 
 # Organizations/Affiliations
 organizations:
-- name: Systems Control and Optmization Laboratory
-  url: "https://www.syscop.de"
-- name: IMTEK, Faculty of Engineering
-  url: "https://www.imtek.de"
-- name: University of Freiburg
-  url: "https://www.uni-freiburg.de/"
+- name: Mobile & Marine Robotics Research Centre
+  url: "http://www.mmrrc.ul.ie"
+- name: University of Limerick
+  url: "https://www.ul.ie/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Thomas Haas's research is on optimal control of a centrifugally stiffened rotor in pumping cycle operation.
+bio: Interested in control systems and power take off methods for airborne wind energy systems.
 
 interests:
-- Modelling, simulation, and control
-- Aerodynamic vortex methods
-- Centrifugally stiffened rotors
-- Multi-kite systems
+- Autonomous Vehicles
+- Robotics
+- Control Systems
 
 education:
   courses:
-  - course: MSc in Aerospace Engineering (EWEM)
-    institution: Delft University of Technology
-    year: 2015
-  - course: MSc in Wind Energy (EWEM)
-    institution: Technical University of Denmark
-    year: 2015
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Mechatronics, Robotics, and Automation Engineering
+    institution: University of Limerick
+    year: 2014
+  - course: BEng in Aeronautical Engineering
+    institution: University of Limerick
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -52,10 +46,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:p.thedens@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:josephcoleman0@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/joseph-coleman-61715426/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-1800-9623
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Elena_Malz
+  link: https://www.researchgate.net/profile/Joseph_Coleman3
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -74,4 +74,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Rachel Leuthold is Marie-Skłodowska-Curie Fellow working on optimal control of a centrifugally stiffened rotor in pumping cycle operation. She obtained an MSc in Aerospace Engineering from the Technical University of Delft (Netherlands) in 2015, with a thesis on a multiple wake vortex lattice method for membrane-wing kites. She graduated with a BSc in Aeronautical and Astronautical Engineering from the Massachusetts Institute of Technology (USA) in 2011.
+Joseph Coleman worked as postdoctoral researcher at the Mobile & Marine Robotics Research Centre of the University of Limerick. His research was focused on autonomous & semi-autonomous vehicles, systems & controls development for harsh field applications, such as airborne, subsea & industrial vehicles. He finalized his PhD research in 2014 about a [distributed control system and novel power take off method for pumping-mode airborne wind energy](http://hdl.handle.net/10344/4424). Since May 2019 he is working as Autonomous Systems Project Manager at [Combilift](https://combilift.com/en/).

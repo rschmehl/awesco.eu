@@ -25,7 +25,7 @@ organizations:
   url: "http://www.kitekraft.de"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 interests:
 
@@ -61,3 +61,5 @@ user_groups:
 # (1) One sentence about your function (for academic staff) and then another sentence about your role(s) within the training network
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
+
+Florian Bauer is PhD researcher at the Chair of Electrical Drive Systems and Power Electronics

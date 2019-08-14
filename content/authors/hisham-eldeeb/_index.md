@@ -17,8 +17,13 @@ role: PhD researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Ingenieurgesellschaft Auto und Verkehr GmbH
-  url: "http://www.iav.de/"
+- name: Laboratory for Mechatronic and Renewable Energy Systems (LMRES)
+  url: "https://lmres.ee.hm.edu/"
+- name: Department of Electrical Engineering and Information Technology (FK04)
+  url: "https://www.ee.hm.edu/"
+- name: Munich University of Applied Sciences (MUAS)
+  url: "https://www.hm.edu/"
+- name: Control of Renewable Energy Systems (CRES) Group
 - name: Technical University of Munich
   url: "https://www.tum.de/"
 
@@ -33,14 +38,14 @@ interests:
 
 education:
   courses:
-  - course: PhD in Electrical Drives and Power Electronics
+  - course: PhD in Electrical and Computer Engineering
     institution: Technical University of Munich
     year: 2019
-  - course: MSc in Electrical Engineering, Power & Machines Division
-    institution: Faculty of Engineering, Alexandria University, Egypt
+  - course: MSc in Electrical and Electronics Engineering
+    institution: Alexandria University
     year: 2014
-  - course: BSc in Electrical Engineering, Power & Machines Division
-    institution: Faculty of Engineering, Alexandria University, Egypt
+  - course: BSc in Electrical Power, Machines and Automatic Control
+    institution: Alexandria University
     year: 2011
 
 # Social/Academic Networking
@@ -51,6 +56,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:hisham.eldeeb@iav.de'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/hisham-eldeeb-dr-ing-phd-b9830041/
+- icon: xing
+  icon_pack: fab
+  link: https://www.xing.com/profile/DrIngHisham_Eldeeb/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-5106-5064
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Hisham_Eldeeb
@@ -72,4 +86,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Hisham M. Eldeeb received his B.Sc. (honors) and M.Sc. in electrical engineering in 2011, 2014, respectively, from the Faculty of Engineering, Alexandria University, Egypt. From 2012 to 2015, he worked as a research associate at Qatar University in Qatar, hired on a 1.4M$ project; aiming at extending the penetration of inverter-based distributed-generation plants within the Qatari-Network. From September 2015 to November 2018, he pursued his PhD degree at the Technical University of Munich (TUM) in Germany and was selected as one of the 14 Marie-Curie Ph.D. candidates hired on the 3M€ EU Horizon H2020 project "Airborne Wind Energy System Control and Optimization" (AWESCO). He is currently working as an electrical drive specialist and development engineer for e-vehicles at IAV GmbH.
+Hisham M. Eldeeb started as Marie-Skłodowska-Curie Fellow at Technical University Munich, working with Dr. [Christoph M. Hackl](/authors/christoph-m-hackl), then continuing at Munich University of Applied Sciences, where Dr. Hackl accepted a post as full professor. His research was focused on [control of the electrical drive system](/project/esr07/) for airborne wind energy systems. He was on several secondments to AWESCO industry partners [Ampyx Power](https://www.ampyxpower.com/) and [EnerKíte](https://www.enerkite.com/) to apply his research and further refine the control strategies. From 2012 to 2015, he worked as a research associate at [Qatar University](http://www.qu.edu.qa/), hired on a 1.4M$ project, aiming at extending the penetration of inverter-based distributed-generation plants within the Qatari-Network. He is currently working as an electrical drive specialist and development engineer for e-vehicles at [Ingenieurgesellschaft Auto und Verkehr GmbH (IAV) GmbH](http://www.iav.de/).

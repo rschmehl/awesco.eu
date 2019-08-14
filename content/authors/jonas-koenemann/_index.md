@@ -17,33 +17,21 @@ role: PhD researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Systems Control and Optmization Laboratory
-  url: "https://www.syscop.de"
-- name: IMTEK, Faculty of Engineering
-  url: "https://www.imtek.de"
-- name: University of Freiburg
-  url: "https://www.uni-freiburg.de/"
+- name: Ampyx Power BV
+  url: "https://www.ampyxpower.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Thomas Haas's research is on optimal control of a centrifugally stiffened rotor in pumping cycle operation.
+bio: Interested in optimal control.
 
 interests:
-- Modelling, simulation, and control
-- Aerodynamic vortex methods
-- Centrifugally stiffened rotors
-- Multi-kite systems
+- Optimal Control
+- Robotics
 
 education:
   courses:
-  - course: MSc in Aerospace Engineering (EWEM)
-    institution: Delft University of Technology
-    year: 2015
-  - course: MSc in Wind Energy (EWEM)
-    institution: Technical University of Denmark
-    year: 2015
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Computer Science
+    institution: University of Freiburg
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -52,10 +40,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:p.thedens@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:jonas.koenemann@imtek.de'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/jonas-koenemann-032198ab/
+- icon: xing
+  icon_pack: fab
+  link: https://www.xing.com/profile/Jonas_Koenemann
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=2PGTD5kAAAAJ
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Elena_Malz
+  link: https://www.researchgate.net/profile/Jonas_Koenemann
+- icon: github
+  icon_pack: fab
+  link: https://github.com/jkoendev
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -74,4 +74,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Rachel Leuthold is Marie-Skłodowska-Curie Fellow working on optimal control of a centrifugally stiffened rotor in pumping cycle operation. She obtained an MSc in Aerospace Engineering from the Technical University of Delft (Netherlands) in 2015, with a thesis on a multiple wake vortex lattice method for membrane-wing kites. She graduated with a BSc in Aeronautical and Astronautical Engineering from the Massachusetts Institute of Technology (USA) in 2011.
+Jonas Koenemann was Marie-Skłodowska-Curie Fellow at Ampyx Power BV, working with [Soeren Sieberling](/authors/soeren-sieberling). He has developed the open source tool [openAWE](https://github.com/openawe/openawe). He currently works as PhD researcher at the IMTEK of the University of Freiburg and is continuing the development of the Open Optimal Control Library [openOCL](https://openocl.org/).
