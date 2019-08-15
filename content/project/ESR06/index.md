@@ -34,13 +34,4 @@ url_video: ""
 #slides: example
 ---
 
-Airborne wind energy systems extract power from the wind environment in which they operate.
-This wind environment is, however, chaotic and difficult to predict. We provide a state-of-the-art
-simulation framework using large-eddy simulations to compute complete time-resolved three-dimensional
-wind fields and investigate the interaction between airborne wind energy systems and
-the wind environment. The generated datasets provide a virtual testing environment for controller
-design and performance estimation of airborne wind energy systems. In addition, the proposed
-framework incorporates the effects of airborne wind energy systems onto the development of the
-wind flow. With this virtual flight simulator, new insights on the structure of the wind field in the
-context of airborne wind energy can be gained and can be used to increase the efficiency of power
-extraction.
+AWE systems extract power from the wind environment in which they operate. This wind environment is, however, chaotic and difficult to predict. We provide a state-of-the-art simulation framework using large-eddy simulations to compute complete time-resolved three-dimensional wind fields and investigate the interaction between airborne wind energy systems and the wind environment. The generated datasets provide a virtual testing environment for controller design and performance estimation of airborne wind energy systems. In addition, the proposed framework incorporates the effects of airborne wind energy systems onto the development of the wind flow. With this virtual flight simulator, new insights on the structure of the wind field in the context of airborne wind energy can be gained and can be used to increase the efficiency of power extraction.

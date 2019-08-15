@@ -17,32 +17,28 @@ role: Senior Research Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Airborne Wind Energy
-  url: "http://www.kitepower.eu"
-- name: Faculty of Aerospace Engineering
-  url: "http://www.tudelft.nl/lr"
-- name: Delft University of Technology
-  url: "http://www.tudelft.nl"
+- name: Xsens Technologies BV
+  url: "https://www.xsens.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include structural mechanics of flexible membrane wings.
+bio: Interested in sensor fusion and calibration of inertial sensors, vision, ultra-wideband and GPS.
 
 interests:
-- Finite Element Analysis
-- Structural Analysis
-- Aerodynamics
+- Sensor fusion
+- Signal Processing
+- Sensor Calibration
 
 education:
   courses:
-  - course: MSc in Aerospace Engineering (EWEM)
-    institution: Delft University of Technology
-    year: 2015
-  - course: MSc in Wind Energy (EWEM)
-    institution: Technical University of Denmark
-    year: 2015
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Electrical Engineering
+    institution: Linköping University
+    year: 2011
+  - course: MSc in Automatic Control
+    institution: Linköping University
     year: 2008
+  - course: MSc in Computer Science
+    institution: University of Twente
+    year: 2005    
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -51,10 +47,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:p.thedens@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
-- icon: researchgate
+  link: 'mailto:jeroen.hol@daqri.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: google-scholar
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Paul_Thedens
+  link: https://scholar.google.com/citations?hl=de&user=rZjgZPsAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -73,12 +69,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Andrea Zanelli holds a Bachelor's degree in Automation Engineering at Politecnico di Milano in 2012 and a Master's degree at ETH Zurich in Robotics, Systems and Control in 2015. He is currently pursuing his PhD under the supervision of Prof. Moritz Diehl since November 2015. He is working on the design and implementation of efficient and reliable numerical methods for nonlinear optimization. In particular, he will be focusing on topics that range from algorithms for numerical optimization on embedded devices with limited resources to applications in the control and design of airborne wind energy systems.
-
-Among other things, I am currently focusing on the development of inexact numerical methods and optimal control formulations that lead to increased computational efficiency of the algorithms used in embedded optimization and nonlinear nonlinear model predictive control.
-
-He have been helping organizing the following courses as a teaching assistant:
-
-* semester course on [numerical optimal control](https://www.syscop.de/teaching/ss2017/numerical-optimal-control)
-* winter school on [numerical optimal control with differential algebraic equations](https://www.syscop.de/teaching/ws2015/nocdae)
-* semester course on [numerical optimization](https://www.syscop.de/teaching/ws2015/numopt)
+Jeroen Hol was Senior Research Engineer at Xsens Technologies BV and Principle Investigator for the company within AWESCO. Since November 2017 he is working as Senior Sensor Fusion Engineer for [DAQRI Holographics GmbH & Co.KG](https://www.daqri.com/) in Vienna.

@@ -1,5 +1,5 @@
 ---
-title: Durable Structural Reinforcements of Large Scale Fabric Kites
+title: Durable Structural Reinforcements of Large-Scale Fabric Kites
 summary: Paul Thedens
 authors: ["Paul Thedens"]
 tags:
@@ -33,18 +33,4 @@ url_video: ""
 #slides: example
 ---
 
-Motion tracking and the estimation of the state of a manoeuvring kite is a crucial component for the
-reliable and robust operation of airborne wind energy systems. The fast motions of the tethered kite
-impose a challenge for state of the art estimation algorithms which is why ESR11 is responsible for
-designing, analysing, and implementing optimisation-based moving horizon estimators.
-
-This report illustrates the work carried out by ESR11 in the attempt of accomplishing the assigned task.
-As will be shown later in this report, the developed moving horizon estimators for sensor fusion using
-inertial sensors show a more robust estimation behaviour. Moreover, the developed algorithms are
-particularly suited for online-calibration of the employed sensors and system parameters. The
-additional computational complexity of the algorithm imposes a challenge for the real-time
-implementation of moving horizon estimators on embedded systems with restricted computational
-resources. First essential steps towards the full integration of optimisation-based estimators have been
-taken, and the promising results will influence the design of the next generation of Xsens motion
-trackers. The presented work is a result of both academic and industrial collaborations within the
-AWESCO consortium.
+This project is about [large flexible membrane kites](https://doi.org/10.1007/978-3-642-39965-7_32) for airborne wind energy generation. Harvesting between heights of 300 and 500 meters, these kites generally have a large surface-to-weight ratio and deform substantially during flight. The particular kite considered in this study is based on a [ram air wing](https://doi.org/10.1007/978-3-642-39965-7_31). The aerodynamic load distribution on this wing is transferred to the tether by means of bridle lines that attach to the lower part of the wing surface. To ensure reliable structural performance the wing has to be locally reinforced which reduces excessive deformations and a degradation in flight behavior and life time. The objective of the project is to develop an optimization strategy to reduce profile deformation using additional fabric attached to the rib. The layout follows the load path through the rib starting at the line attachment point towards the top side of the rib. To enable a more reliable prediction of deformation and flow a fluid-structure interaction (FSI) routine is added to the optimization and a qualitative comparison between the optimization results with and with FSI are given.

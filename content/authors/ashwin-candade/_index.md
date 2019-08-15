@@ -17,27 +17,29 @@ role: PhD researcher
 
 # Organizations/Affiliations
 organizations:
-- name: EnerKíte GmbH
-  url: "http://www.enerkite.de"
+- name: Airborne Wind Energy Group
+  url: "http://www.kitepower.eu"
 - name: Faculty of Aerospace Engineering
   url: "http://www.tudelft.nl/lr"
 - name: Delft University of Technology
   url: "http://www.tudelft.nl"
+- name: EnerKíte GmbH
+  url: "http://www.enerkite.de"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ashwin Candade's research is design and optimisation of AWE wings, with a focus on composite structures
+bio: Interested in design and optimization of AWE systems with a focus on composite structures.
 
 interests:
 - Modelling, simulation and testing of composite wings
-- Aeroelasticity 
-- Multidisciplinary design optimisation 
+- Multidisciplinary design optimisation
+- Aeroelasticity
 
 education:
   courses:
-  - course: MSc in Aerospace Engineering (FPP)
+  - course: MSc in Aerospace Engineering
     institution: Delft University of Technology
     year: 2015
-  - course: B.Tech in Mechanical Engineering
+  - course: BTech in Mechanical Engineering
     institution: SRM University
     year: 2011
 
@@ -52,12 +54,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:a.candade@enerkite.de'  # For a direct email link, use "mailto:test@example.org".
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Ashwin_Candade
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ashwincandade/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-9228-1310
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Ashwin_Candade
+- icon: bitbucket
+  icon_pack: fab
+  link: https://bitbucket.com/ashcan/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -75,4 +83,4 @@ user_groups:
 # (1) One sentence about your function (for academic staff) and then another sentence about your role(s) within the training network
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
-Ashwin Candade is a Marie-Skłodowska-Curie Fellow and PhD candidate with the Delft University of Technology, working with EnerKíte, Berlin. Following his bachelors degree in Mechanical engineering from SRM University, Chennai, he worked for about 2 years at the National Aerospace Laboratories, India. He then came to TU Delft, where he did his Masters in Aerospace Engineering, in the Flight Performance and Propulsion track. For his master thesis, he performed an experimental aerodynamic and aeroacoustic investigation into the interaction effects between a rotor slipstream and a trailing pylon. His research interests include multidisciplinary optimisation, simplified aerodynamic and structural models and knowledge based systems.
+Ashwin Candade is Marie-Skłodowska-Curie Fellow at EnerKíte GmbH, Berlin, working with Dr. [Alexander Bormann](/authors/alexander-bormann/) and [Maximilian Ranneberg](/authors/maximilian-ranneberg/), and at Delft University of Technology, working with Dr. [Roland Schmehl](/authors/roland-schmehl/). Following his BSc in Mechanical engineering from SRM University, Chennai, he worked for about 2 years at the National Aerospace Laboratories, India. He then came to TU Delft, where he did his Masters in Aerospace Engineering, in the Flight Performance and Propulsion track. For his master thesis, he performed an experimental aerodynamic and aeroacoustic investigation into the interaction effects between a rotor slipstream and a trailing pylon. His research interests include multidisciplinary optimization, simplified aerodynamic and structural models and knowledge based systems.

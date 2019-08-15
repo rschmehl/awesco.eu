@@ -25,12 +25,20 @@ organizations:
   url: "http://www.kitekraft.de"
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: Interested in physical modeling and performance optimization of AWE systems.
 
 interests:
-
+- Drag power AWE Systems
+- Performance Optimization
 
 education:
+courses:
+- course: MSc in Electrical Engineering and Information Technology
+  institution: Technical University of Munich
+  year: 2013
+- course: BEng in Renewable Energies
+  institution: Bielefeld University of Applied Sciences
+  year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -40,6 +48,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:florian.bauer@tum.de'  # For a direct email link, use "mailto:test@example.org".
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-9926-0694
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Florian_Bauer10
@@ -62,4 +73,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Florian Bauer is PhD researcher at the Chair of Electrical Drive Systems and Power Electronics
+Florian Bauer is PhD researcher at the Chair of Electrical Drive Systems and Power Electronics. In October 2018 he co-founded the start-up company [kiteKraft](http://www.kitekraft.de) where he is responsible for the systems engineering and the kite-autopilot. In his graduation project he developed [QtPLC, a C++ Qt PLC library for a preempt-RT real time Linux based distributed control system for airborne wind energy](http://www.eal.ei.tum.de/fileadmin/tueieal/www/theses/Bauer/Publications/QtPLC_MasterThesis_FlorianBauer.pdf).

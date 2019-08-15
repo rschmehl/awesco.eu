@@ -17,30 +17,33 @@ role: PhD researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Xsens
+- name: Systems and Control Laboratory (SySCOP)
+  url: "https://www.syscop.de/"
+- name: Department of Microsystems Engineering (IMTEK)
+  url: "http://imtek.de/"
+- name: Albert Ludwigs University of Freiburg
+  url: "https://www.uni-freiburg.de/"
+- name: Xsens BV
   url: "https://www.xsens.com"
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Thomas Haas's research is on optimal control of a centrifugally stiffened rotor in pumping cycle operation.
+bio: Interested in motion tracking and state estimation.
 
 interests:
-- Modelling, simulation, and control
-- Aerodynamic vortex methods
-- Centrifugally stiffened rotors
-- Multi-kite systems
+- 3D Motion Tracking
+- Multi-Sensor Fusion
+- Robotics
+- Mechatronics
 
 education:
   courses:
-  - course: MSc in Aerospace Engineering (EWEM)
-    institution: Delft University of Technology
+  - course: MSc in Embedded Systems Engineering
+    institution: University of Freiburg
     year: 2015
-  - course: MSc in Wind Energy (EWEM)
-    institution: Technical University of Denmark
-    year: 2015
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Mechatronics
+    institution: Karlsruhe University of Applied Sciences
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -49,10 +52,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:p.thedens@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:Fabian.Girrbach@xsens.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/fabiangirrbach/
+- icon: xing
+  icon_pack: fab
+  link: https://www.xing.com/profile/Fabian_Girrbach/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=de&user=LUCQmgkAAAAJ
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Elena_Malz
+  link: https://www.researchgate.net/profile/Fabian_Girrbach
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -71,4 +83,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Rachel Leuthold is Marie-Skłodowska-Curie Fellow working on optimal control of a centrifugally stiffened rotor in pumping cycle operation. She obtained an MSc in Aerospace Engineering from the Technical University of Delft (Netherlands) in 2015, with a thesis on a multiple wake vortex lattice method for membrane-wing kites. She graduated with a BSc in Aeronautical and Astronautical Engineering from the Massachusetts Institute of Technology (USA) in 2011.
+Fabian Girrbach is Marie-Skłodowska-Curie Fellow at Xsens BV, working with [Jeroen Hol](/authors/jeroen-hol), and at the University of Freiburg, working with Prof. Dr. [Moritz Diehl](/authors/moritz-diehl/). His research is focused on [state and parameters estimation implementations based on moving horizon estimation (MHE)](/project/esr11). Since 2019, he continued to work at Xsens BV as research engineer in collaboration with Prof. Dr. [Moritz Diehl](/authors/moritz-diehl/).

@@ -1,5 +1,5 @@
 ---
-title: "Empirical evaluation of a Q-Learning Algorithm forModel-free Autonomous Soaring"
+title: "Empirical evaluation of a Q-Learning Algorithm for Model-free Autonomous Soaring"
 date: 2017-07-03/2017-07-07
 publishDate: 2017-07-03
 authors: ["Erwan Lecarpentier", "Sebastian Rapp", "Marc Melo", "Emmanuel Rachelson"]

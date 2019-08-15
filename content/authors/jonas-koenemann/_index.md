@@ -17,6 +17,12 @@ role: PhD researcher
 
 # Organizations/Affiliations
 organizations:
+- name: Systems and Control Laboratory (SySCOP)
+  url: "https://www.syscop.de/"
+- name: Department of Microsystems Engineering (IMTEK)
+  url: "http://imtek.de/"
+- name: Albert Ludwigs University of Freiburg
+  url: "https://www.uni-freiburg.de/"
 - name: Ampyx Power BV
   url: "https://www.ampyxpower.com/"
 
@@ -25,6 +31,7 @@ bio: Interested in optimal control.
 
 interests:
 - Optimal Control
+- Model Predictive Control
 - Robotics
 
 education:
@@ -41,6 +48,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jonas.koenemann@imtek.de'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/JonasCoen
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jonas-koenemann-032198ab/
@@ -74,4 +84,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Jonas Koenemann was Marie-Skłodowska-Curie Fellow at Ampyx Power BV, working with [Soeren Sieberling](/authors/soeren-sieberling). He has developed the open source tool [openAWE](https://github.com/openawe/openawe). He currently works as PhD researcher at the IMTEK of the University of Freiburg and is continuing the development of the Open Optimal Control Library [openOCL](https://openocl.org/).
+Jonas Koenemann was Marie-Skłodowska-Curie Fellow at Ampyx Power BV, working with [Soeren Sieberling](/authors/soeren-sieberling) and Prof. Dr. [Moritz Diehl](/authors/moritz-diehl/). His research was focused on the [control of launching and landing the tethered aircraft on a launch platform](/project/esr09/). He has developed the open source tool [openAWE](https://github.com/openawe/openawe). He currently works as PhD researcher at the University of Freiburg and is continuing the development of the Open Optimal Control Library [openOCL](https://openocl.org/).

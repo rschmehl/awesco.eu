@@ -1,14 +1,16 @@
 ---
-title: openAWE
-summary: A [Matlab](https://en.wikipedia.org/wiki/MATLAB) and [Octave](https://www.gnu.org/software/octave/) library for modelling and optimization the operation of airborne wind energy systems.
+title: AWEBox
+summary: Open Optimal Control Library for [Matlab](https://en.wikipedia.org/wiki/MATLAB). Model-predictive control (MPC) and trajectory optimization software.
 authors: ["Jonas Koenemann", "Moritz Diehl"]
 tags:
-- Modelling and Optimization
-date: "2018-08-15T00:00:00Z"
-weight: 70
+- Optimal Control
+- Model-Predictive Control
+- Trajectory Optimization
+date: "2018-05-02T00:00:00Z"
+weight: 90
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/openawe/openawe"
+external_link: "https://github.com/OpenOCL/OpenOCL"
 
 image:
   focal_point: Smart

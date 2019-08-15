@@ -17,7 +17,7 @@ role: PhD researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Airborne Wind Energy
+- name: Airborne Wind Energy Group
   url: "http://www.kitepower.eu"
 - name: Faculty of Aerospace Engineering
   url: "http://www.tudelft.nl/lr"
@@ -25,7 +25,7 @@ organizations:
   url: "http://www.tudelft.nl"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include structural mechanics of flexible membrane wings.
+bio: Interested in structural mechanics of flexible membrane wings.
 
 interests:
 - Finite Element Analysis
@@ -40,9 +40,9 @@ education:
   - course: MSc in Wind Energy (EWEM)
     institution: Technical University of Denmark
     year: 2015
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Aerospace Engineering
+    institution: Delft University of Technology
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -52,9 +52,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:p.thedens@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-4545-2361
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Paul_Thedens
+- icon: github
+  icon_pack: fab
+  link: https://github.com/pthedens/
+- icon: bitbucket
+  icon_pack: fab
+  link: https://bitbucket.com/PaulThedens/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -73,4 +82,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Paul Thedens is Marie-Skłodowska-Curie Fellow at Delft University of Technology under supervision of Dr. Roland Schmehl. He is working for associate partner Skysails Power GmbH in Hamburg. Paul's research is on fluid-structure interaction of ram air wings for airborne wind energy generation.
+Paul Thedens was Marie-Skłodowska-Curie Fellow starting at [Skysails GmbH](http://www.skysails.info/en/), working with [Bernd Specht](/authors/bernd-specht) and later continuing at the University of Freiburg, working with Prof. Dr. [Moritz Diehl](/authors/moritz-diehl/). His project is focused on [durable structural reinforcements of large-scale fabric kites](/project/esr10) for airborne wind energy. He has developed the finite element simulation tool [mem4py](https://github.com/pthedens/mem4py). Before starting his doctoral reasearch, he graduated from the [European Wind Energy Master (EWEM)](https://ewem.tudelft.nl/) program, with a project on [topology optimization of thin membranes applied on a parafoil rib](http://resolver.tudelft.nl/uuid:9178f436-a0c3-4365-814a-3b375b2231c9). Since 2019 he is working for [Skysails Power GmbH](https://www.skysails.info/en/power/) and collaborating with Dr. [Roland Schmehl](/authors/roland-schmehl/) on the computational simulation of large-scale membrane kites.

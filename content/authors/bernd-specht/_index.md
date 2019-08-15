@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Head Research & Develeopment
+role: Head Research & Development
 
 # Organizations/Affiliations
 organizations:
@@ -21,45 +21,18 @@ organizations:
   url: "http://www.skysails.info"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in airborne wind energy and floating offshore wind energy.
+bio: Interested in airborne wind energy generation and ship propulsion with kites.
 
 interests:
-- Computational Fluid Dynamics
-- Fluid Structure Interaction
-- Floating Offshore Wind Energy
+- Ram Air Kites
+- Membrane Structures
 
-education:
-  courses:
-  - course: PhD in Physics
-    institution: Université Libre de Bruxelles
-    year: 2010
-  - course: MSc in Engineering Sciences
-    institution: Université libre de Bruxelles
-    year: 2006
-  - course: BSc in Engineering Sciences
-    institution: Université libre de Bruxelles
-    year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:a.c.vire@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/axellevire
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/axelle-viré-7309261/
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0003-0056-8213
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Axelle_Vire
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -77,5 +50,3 @@ user_groups:
 # (1) One sentence about your function (for academic staff) and then another sentence about your role(s) within the training network
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
-
-Dr. Axelle Viré is ...
