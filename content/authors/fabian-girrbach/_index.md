@@ -52,7 +52,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:Fabian.Girrbach@xsens.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:fabian.girrbach@xsens.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:fabian.girrbach@imtek.uni-freiburg.de'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/fabiangirrbach/
@@ -83,4 +86,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Fabian Girrbach is Marie-Skłodowska-Curie Fellow at Xsens BV, working with [Jeroen Hol](/authors/jeroen-hol), and at the University of Freiburg, working with Prof. Dr. [Moritz Diehl](/authors/moritz-diehl/). His research is focused on [state and parameters estimation implementations based on moving horizon estimation (MHE)](/project/esr11). Since 2019, he continued to work at Xsens BV as research engineer in collaboration with Prof. Dr. [Moritz Diehl](/authors/moritz-diehl/).
+Fabian Girrbach is Marie-Skłodowska-Curie Fellow at Xsens BV, where he worked with [Jeroen Hol](/authors/jeroen-hol). He is affiliated with the University of Freiburg, collaborating with Prof. Dr. [Moritz Diehl](/authors/moritz-diehl/). His research is focused on [state and parameters estimation implementations based on moving horizon estimation (MHE)](/project/esr11). Following his undergraduate studies in mechatronics he studied for one year at the Polytechnic University of Valencia as part of an Erasmus+ exchange program. He presently works as research engineer at Xsens BV.

@@ -52,6 +52,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:p.thedens@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:paul.thedens@skysails.de'  # For a direct email link, use "mailto:test@example.org".
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-4545-2361

@@ -21,22 +21,22 @@ organizations:
   url: "https://www.xsens.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interested in sensor fusion and calibration of inertial sensors, vision, ultra-wideband and GPS.
+bio: Interested in sensor fusion, calibration and machine learning and their applications to inertial sensors and motion capture.
 
 interests:
 - Sensor fusion
-- Signal Processing
 - Sensor Calibration
+- Signal Processing
 
 education:
   courses:
-  - course: PhD in Electrical Engineering
+  - course: PhD in Automatic Control
     institution: Linköping University
     year: 2011
-  - course: MSc in Automatic Control
+  - course: Licentiate in Electrical Engineering
     institution: Linköping University
     year: 2008
-  - course: MSc in Computer Science
+  - course: MSc in Mechanical Engineering
     institution: University of Twente
     year: 2005    
 
@@ -69,4 +69,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Jeroen Hol was Senior Research Engineer at Xsens Technologies BV and Principle Investigator for the company within AWESCO. Since November 2017 he is working as Senior Sensor Fusion Engineer for [DAQRI Holographics GmbH & Co.KG](https://www.daqri.com/) in Vienna.
+Jeroen Hol was Senior Research Engineer at Xsens Technologies BV and Principle Investigator for the company within the AWESCO network. Since November 2017 he is working as Senior Sensor Fusion Engineer for [DAQRI Holographics GmbH & Co.KG](https://www.daqri.com/) in Vienna.

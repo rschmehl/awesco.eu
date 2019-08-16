@@ -1,5 +1,5 @@
 ---
-title: Control of launching and landing a tethered aircraft on a launch platform
+title: Control of launching and landing a tethered aircraft on a platform
 summary: Jonas Koenemann, Thanuja Rajasooriya
 authors: ["Jonas Koenemann", "Thanuja Rajasooriya"]
 tags:

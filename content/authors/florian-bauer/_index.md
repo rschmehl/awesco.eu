@@ -13,16 +13,16 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD researcher, CEO & co-founder
+role: PhD researcher, co-founder
 
 # Organizations/Affiliations
 organizations:
+- name: kiteKRAFT
+  url: "http://www.kitekraft.de"
 - name: Chair of Electrical Drive Systems and Power Electronics
   url: "http://www.eal.ei.tum.de/research/projects/research-bauer/"
 - name: Technical University of Munich
   url: "http://www.tum.de"
-- name: kiteKRAFT
-  url: "http://www.kitekraft.de"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Interested in physical modeling and performance optimization of AWE systems.
@@ -32,13 +32,13 @@ interests:
 - Performance Optimization
 
 education:
-courses:
-- course: MSc in Electrical Engineering and Information Technology
-  institution: Technical University of Munich
-  year: 2013
-- course: BEng in Renewable Energies
-  institution: Bielefeld University of Applied Sciences
-  year: 2012
+  courses:
+  - course: MSc in Electrical Engineering and Information Technology
+    institution: Technical University of Munich
+    year: 2013
+  - course: BEng in Renewable Energies
+    institution: Bielefeld University of Applied Sciences
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -48,6 +48,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:florian.bauer@tum.de'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/kiteKRAFT_tech
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/floba/
+- icon: xing
+  icon_pack: fab
+  link: https://www.xing.com/profile/Florian_Bauer92/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-9926-0694
@@ -73,4 +82,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Florian Bauer is PhD researcher at the Chair of Electrical Drive Systems and Power Electronics. In October 2018 he co-founded the start-up company [kiteKraft](http://www.kitekraft.de) where he is responsible for the systems engineering and the kite-autopilot. In his graduation project he developed [QtPLC, a C++ Qt PLC library for a preempt-RT real time Linux based distributed control system for airborne wind energy](http://www.eal.ei.tum.de/fileadmin/tueieal/www/theses/Bauer/Publications/QtPLC_MasterThesis_FlorianBauer.pdf).
+Florian Bauer is PhD researcher at the Chair of Electrical Drive Systems and Power Electronics. In October 2018 he co-founded the start-up [kiteKraft](http://www.kitekraft.de), being responsible for the systems engineering and the kite autopilot. In his graduation project he developed a [library for a distributed control system for airborne wind energy](http://www.eal.ei.tum.de/fileadmin/tueieal/www/theses/Bauer/Publications/QtPLC_MasterThesis_FlorianBauer.pdf).

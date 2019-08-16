@@ -17,7 +17,7 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Airborne Wind Energy
+- name: Airborne Wind Energy Group
   url: "http://www.kitepower.eu"
 - name: Faculty of Aerospace Engineering
   url: "http://www.tudelft.nl/lr"
@@ -25,7 +25,7 @@ organizations:
   url: "http://www.tudelft.nl"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in airborne wind energy and floating offshore wind energy.
+bio: Interested in computational fluid dynamics and floating offshore wind energy.
 
 interests:
 - Computational Fluid Dynamics
@@ -38,10 +38,10 @@ education:
     institution: Université Libre de Bruxelles
     year: 2010
   - course: MSc in Mechanical Engineering
-    institution: Université libre de Bruxelles
+    institution: Université Libre de Bruxelles
     year: 2006
   - course: BSc in Engineering Sciences
-    institution: Université libre de Bruxelles
+    institution: Université Libre de Bruxelles
     year: 2004
 
 # Social/Academic Networking
@@ -61,9 +61,21 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-0056-8213
+- icon: impactstory
+  icon_pack: ai
+  link: https://profiles.impactstory.org/u/0000-0003-0056-8213
+- icon: researcherid
+  icon_pack: ai
+  link: https://publons.com/researcher/1336934/axelle-vire/
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Axelle_Vire
+- icon: bitbucket
+  icon_pack: fab
+  link: https://github.com/axellevire
+- icon: github
+  icon_pack: fab
+  link: https://github.com/avire
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -82,4 +94,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Dr. Axelle Viré is a tenured Assistant Professor at the Faculty of Aerospace Engineering of TU Delft. She graduated in Mechanical Engineering from the Université Libre de Bruxelles (Belgium), where she also completed a PhD in Physics in 2010. She then worked as a Marie Curie post-doctoral Research Fellow at Imperial College London (UK). She was also the recipient of a Marie Curie Career Integration Grant in 2013. She currently supervises a number of PhD students working on numerical modelling for wind energy applications, mostly developing high-fidelity computational fluid dynamics models for fluid-structure interactions. She applies her models to airborne wind energy wings as well as conventional wind turbine rotors and floating offshore wind turbines. In this context, she is Principal Investigator on the H2020-WIDESPREAD project TWIND aiming at creating a network of excellence between specialized research professionals and trainees in the field of offshore wind energy. She also coordinates the Offshore Wind Energy Minor at TU Delft.  
+Dr. Axelle Viré supervises several PhD students working on numerical modeling for wind energy applications, mostly developing high-fidelity computational fluid dynamics models for fluid-structure interaction. She applies her models to airborne wind energy applications as well as conventional wind turbine rotors and floating offshore wind turbines. She is a Principal Investigator in the H2020-WIDESPREAD project [TWIND](https://cordis.europa.eu/project/rcn/224083/factsheet/en) aiming at creating a network of excellence between specialized research professionals and trainees in the field of offshore wind energy. She also coordinates the [Offshore Wind Energy Minor](https://www.tudelft.nl/en/ae/education/minors/offshore-wind-energy-minor/) at Delft University of Technology. Before starting in Delft, she was Marie Curie post-doctoral Research Fellow at [Imperial College London](https://www.imperial.ac.uk/). She was involved in the development of the open source CFD package [Fluidity](https://fluidityproject.github.io/). In 2013 she received the FP7 Marie Curie Career Integration Grant [NUMIWING](https://cordis.europa.eu/project/rcn/110013/factsheet/en).

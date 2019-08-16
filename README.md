@@ -20,6 +20,12 @@ from within the source code top level directory. The content of the `publication
 
 More information can be found in the `README.md` file of the `content/publication` folder.
 
+## Synchronizing local development with public server
+
+Run from home directory
+
+    rclone sync public/ awesco-new:httpdocs
+
 ## Updating
 
 [Configure Git to sync your fork with the original Spoon-Knife repository](https://help.github.com/en/articles/fork-a-repo#keep-your-fork-synced)

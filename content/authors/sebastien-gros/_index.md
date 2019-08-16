@@ -32,9 +32,10 @@ organizations:
 bio: My research interests are in airborne wind energy, optimal control, and reinforcement learning
 
 interests:
-- Airborne Wind Energy
-- Automatic Control and Optimal Control
-- Reinforcement Learning and measurement-based optimization
+- Automatic Control
+- Optimal Control
+- Reinforcement Learning
+- Measurement-based optimization
 
 education:
   courses:
@@ -77,4 +78,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Dr. Sébastien Gros is guest professor at Chalmers and full professor at the Norwegian University of Science and Technology. 
+Dr. Sébastien Gros is guest professor at the department of Signal and Systems at Chalmers University of Technology and full professor at the Norwegian University of Science and Technology. He conducts research on energy-related problems and optimal control. He obtained his PhD in 2008 when working for the [Automatic Control Laboratory](https://www.epfl.ch/labs/la/) of EPFL and did his post-doc with [OPTICON](https://www.astro-opticon.org/)/[OPTEC](https://set.kuleuven.be/optec) at KU Leuven.

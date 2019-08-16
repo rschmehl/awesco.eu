@@ -17,5 +17,6 @@ We use the academic admin tool for importing publications from a central bibliog
 
 ### Important
 
-1. Do *not* use dots to abbreviate middle initials in the BibTeX file. This disturbs the recognition of author names.
-2. There is one BibTeX entry `Folkersma2019a` which includes a Latex formula in the abstract. The admin tool does not transfer this properly to the markdown file, and for this reason I have kept this single entry in a separate file `bibliography2.bib` which needs to be processed separately.
+* Do *not* use dots to abbreviate middle initials in the BibTeX file. This disturbs the recognition of author names.
+* There is one BibTeX entry `Folkersma2019a` which includes a Latex formula in the abstract. The admin tool does not transfer this properly to the markdown file, and for this reason I have kept this single entry in a separate file `bibliography2.bib` which needs to be processed separately.
+* Also included in `bibliography2.bib` are PhD theses for which the `publication` entry needs to be populated manually (this could also be coded into the academic tool)
