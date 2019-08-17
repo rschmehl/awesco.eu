@@ -13,35 +13,25 @@ authors:
 superuser: false
 
 # Role/position
-role: Engineer
+role: Research Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Systems and Control Laboratory (SySCOP)
-  url: "https://www.syscop.de/"
-- name: Department of Microsystems Engineering (IMTEK)
-  url: "http://imtek.de/"
-- name: Albert Ludwigs University of Freiburg
-  url: "https://www.uni-freiburg.de/"
+- name: Ampyx Power BV
+  url: "https://www.ampyxpower.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in airborne wind energy.
+bio: Interested in structural design and numerical analysis.
 
 interests:
-- Airborne Wind Energy
-- Computational Fluid Dynamics
-- Fluid Structure Interaction
-- Aeroelasticity
+- Structural Design
+- Numerical Analysis
 
 education:
   courses:
-  - course: PhD in Numerical Optimal Control
-    institution: University of Heidelberg
-    year: 2001
-  - course: Dipl.-Phys.
-    institution: University of Heidelberg
-    year: 1994
-
+  - course: BEng (hons) in Aerospace Engineering
+    institution: Kingston University
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -50,7 +40,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:moritz.diehl@imtek.uni-freiburg.de'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:thanuja.rajasooriya@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/thanuja-rajasooriya/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -65,3 +58,5 @@ email: ""
 user_groups:
 - Alumni
 ---
+
+Thanuja Rajasooriya was Marie-Skłodowska-Curie Fellow at Ampyx Power BV, working with [Soeren Sieberling](/authors/soeren-sieberling). Her project was about [control of launching and landing the tethered aircraft on a launch platform](/project/esr09/). Within this frame she designed an arresting mechanism for the precommercial prototype AP3. Before joining Ampyx Power BV she worked for 5 years for [2H Offshore](https://2hoffshore.com/) on the design and numerical analysis of subsea systems.

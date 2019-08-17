@@ -17,25 +17,28 @@ role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: NN Investment Partners
-  url: "https://www.nnip.com/"
+- name: Neurocast NV
+  url: "https://neurocast.nl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include airborne wind energy and computational fluid dynamics.
+bio: Interested in data Science, general-purpose optimization, machine learning, modeling, identification and predictive analytics
 
 interests:
-- Computational Fluid Dynamics
-- Computational Structural Mechanics
-- Fluid Structure Interaction
+- Data Science
+- General-purpose optimization
+- Machine Learning
+- Modeling
+- System Identification
+- Predictive Analytics
 
 education:
   courses:
-  - course: MSc in Mechanical Engineering
-    institution: Tampere University of Technology
-    year: 2015
-  - course: BSc in Mechanical Engineering
-    institution: Tampere University of Technology
+  - course: MSc in Automation Engineering
+    institution: University of Calabria
     year: 2014
+  - course: BSc in Electronic Engineering - Microelectronics
+    institution: University of Calabria
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,10 +47,25 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:m.a.m.folkersma@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:gianni.licitra7@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/giovanni-licitra-phd-4691318a/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-0585-0189/
+- icon: impactstory
+  icon_pack: ai
+  link: https://profiles.impactstory.org/u/0000-0003-0585-0189/
+- icon: researcherid
+  icon_pack: ai
+  link: https://publons.com/researcher/1534058/giovanni-licitra/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=aatixCYAAAAJ
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Mikko_Folkersma
+  link: https://www.researchgate.net/profile/Giovanni_Licitra
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -67,4 +85,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Dr. Giovanni Licitra was Marie-Skłodowska-Curie Fellow in the EU projects TEMPO and AWESCO, working for Ampyx Power.
+Dr. Giovanni Licitra was Marie-Skłodowska-Curie Fellow in the EU projects [TEMPO](https://cordis.europa.eu/project/rcn/109545/factsheet/en) (FP7) and [AWESCO](https://cordis.europa.eu/project/rcn/193938/factsheet/en) (H2020), working at Ampyx Power BV in The Hague, The Netherlands. He was affiliated with the University of Freiburg, collaborating with Prof. Dr. [Moritz Diehl](/authors/moritz-diehl/). His research was about [identification and optimization of an airborne wind energy system](/publication/licitra-2018-a/). During his undergraduate studies in electronic engineering he studied for one year at the [Polytechnic University of Valencia](https://www.upv.es/) as part of an Erasmus+ exchange program. He presently works as Lead Data Scientist for Neurocast NV in Amsterdam, The Netherlands.

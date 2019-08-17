@@ -53,13 +53,28 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
+  link: 'mailto:sebastien.gros@ntnu.no'  # For a direct email link, use "mailto:test@example.org".
+- icon: envelope
+  icon_pack: fas
   link: 'mailto:grosse@chalmers.se'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sebastien-gros-783a5018/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-6054-2133
+- icon: impactstory
+  icon_pack: ai
+  link: https://profiles.impactstory.org/u/0000-0001-6054-2133
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=38fYqeYAAAAJ
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Sebastien_Gros2
+- icon: github
+  icon_pack: fab
+  link: https://github.com/sebchalmers
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv

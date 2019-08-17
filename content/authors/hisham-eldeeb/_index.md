@@ -31,10 +31,10 @@ organizations:
 bio: Interested in fault-tolerant control of multi-phase electrical drives for AWE systems.
 
 interests:
-- Modelling, simulation, and control
-- Grid-connected converters
-- Power electronics
-- Multi-phase drives
+- Modelling, Simulation, and Control
+- Grid-Connected Converters
+- Power Electronics
+- Multi-Phase Drives
 
 education:
   courses:
@@ -86,4 +86,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Hisham M. Eldeeb started as Marie-Skłodowska-Curie Fellow at Technical University Munich, working with Dr. [Christoph M. Hackl](/authors/christoph-m-hackl), then continuing at Munich University of Applied Sciences, where Dr. Hackl accepted a post as full professor. His research was focused on [control of the electrical drive system](/project/esr07/) for airborne wind energy systems. He was on several secondments to AWESCO industry partners [Ampyx Power](https://www.ampyxpower.com/) and [EnerKíte](https://www.enerkite.com/) to apply his research and further refine the control strategies. From 2012 to 2015, he worked as a research associate at [Qatar University](http://www.qu.edu.qa/), hired on a 1.4M$ project, aiming at extending the penetration of inverter-based distributed-generation plants within the Qatari-Network. He is currently working as an electrical drive specialist and development engineer for e-vehicles at [Ingenieurgesellschaft Auto und Verkehr GmbH (IAV) GmbH](http://www.iav.de/).
+Hisham M. Eldeeb started as Marie-Skłodowska-Curie Fellow at Technical University Munich, working with Dr. [Christoph M. Hackl](/authors/christoph-m-hackl), then continuing at Munich University of Applied Sciences, where Dr. Hackl accepted a post as full professor. His research was about [control of the electrical drive system](/project/esr07/) for airborne wind energy systems. He was on several secondments to AWESCO industry partners [Ampyx Power](https://www.ampyxpower.com/) and [EnerKíte](https://www.enerkite.com/) to apply his research and further refine the control strategies. From 2012 to 2015, he worked as a research associate at [Qatar University](http://www.qu.edu.qa/), hired on a 1.4 million dollar project, aiming at extending the penetration of inverter-based distributed-generation plants within the Qatari-Network. He is currently working as an electrical drive specialist and development engineer for e-vehicles at [Ingenieurgesellschaft Auto und Verkehr GmbH (IAV) GmbH](http://www.iav.de/).

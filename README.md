@@ -22,7 +22,7 @@ More information can be found in the `README.md` file of the `content/publicatio
 
 ## Synchronizing local development with public server
 
-Run from home directory
+Run from home directory (activate VPN)
 
     rclone sync public/ awesco-new:httpdocs
 

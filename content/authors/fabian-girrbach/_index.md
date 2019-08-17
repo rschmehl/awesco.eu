@@ -23,7 +23,7 @@ organizations:
   url: "http://imtek.de/"
 - name: Albert Ludwigs University of Freiburg
   url: "https://www.uni-freiburg.de/"
-- name: Xsens BV
+- name: Xsens Technologies BV
   url: "https://www.xsens.com"
 
 
@@ -86,4 +86,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Fabian Girrbach is Marie-Skłodowska-Curie Fellow at Xsens BV, where he worked with [Jeroen Hol](/authors/jeroen-hol). He is affiliated with the University of Freiburg, collaborating with Prof. Dr. [Moritz Diehl](/authors/moritz-diehl/). His research is focused on [state and parameters estimation implementations based on moving horizon estimation (MHE)](/project/esr11). Following his undergraduate studies in mechatronics he studied for one year at the Polytechnic University of Valencia as part of an Erasmus+ exchange program. He presently works as research engineer at Xsens BV.
+Fabian Girrbach is Marie-Skłodowska-Curie Fellow at Xsens Technologies BV, Enschede, The Netherlands, where he worked with [Jeroen Hol](/authors/jeroen-hol). He is affiliated with the University of Freiburg, collaborating with Prof. Dr. [Moritz Diehl](/authors/moritz-diehl/). His research is focused on [state and parameters estimation implementations based on moving horizon estimation (MHE)](/project/esr11). Following his undergraduate studies in mechatronics he studied for one year at the [Polytechnic University of Valencia](https://www.upv.es/) as part of an Erasmus+ exchange program. He presently works as research engineer for Xsens Technologies BV.

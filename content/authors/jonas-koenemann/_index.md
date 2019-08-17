@@ -32,6 +32,7 @@ bio: Interested in optimal control.
 interests:
 - Optimal Control
 - Model Predictive Control
+- Dynamic Systems
 - Robotics
 
 education:
@@ -84,4 +85,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Jonas Koenemann was Marie-Skłodowska-Curie Fellow at Ampyx Power BV, working with [Soeren Sieberling](/authors/soeren-sieberling) and Prof. Dr. [Moritz Diehl](/authors/moritz-diehl/). His research was focused on the [control of launching and landing the tethered aircraft on a launch platform](/project/esr09/). He has developed the open source tool [openAWE](https://github.com/openawe/openawe). He currently works as PhD researcher at the University of Freiburg and is continuing the development of the Open Optimal Control Library [openOCL](https://openocl.org/).
+Jonas Koenemann was Marie-Skłodowska-Curie Fellow at Ampyx Power BV, working with [Soeren Sieberling](/authors/soeren-sieberling). He was affiliated with the University of Freiburg, collaborating with Prof. Dr. [Moritz Diehl](/authors/moritz-diehl/). His research was focused on the [control of launching and landing the tethered aircraft on a launch platform](/project/esr09/). Within this frame he developed the open source software tools [openAWE](https://github.com/openawe/openawe) and [openOCL](https://openocl.org/). Before starting his doctoral research, he spent one semester of his studies at the [University of La Laguna](https://www.ull.es/en/), Spain, and completed a 7 months internship at the [LAAS-CNRS institute](https://www.laas.fr/public/en) in Toulouse, France, with novel results in applying non-linear model predictive control to a full-size humanoid robot. At present he is PhD researcher at the University of Freiburg, working with Prof. Dr. [Moritz Diehl](/authors/moritz-diehl/) and continuing the development of open source software tools and specific applications, such as [modeling for reinforcement learning and optimal control](https://medium.com/@JonasCoen/modeling-for-reinforcement-learning-and-optimal-control-double-pendulum-on-a-cart-394f46b7ec7e).

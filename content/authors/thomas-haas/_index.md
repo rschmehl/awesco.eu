@@ -39,7 +39,7 @@ education:
   - course: BSc in Applied Physics
     institution: University of Strasbourg
     year: 2011
-  - course: BSc in Mechanical Engineering
+  - course: BEng in Mechanical Engineering
     institution: Offenburg University of Applied Sciences
     year: 2011
 
@@ -78,4 +78,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Thomas Haas is Marie-Skłodowska-Curie Fellow at KU Leuven, working with Prof. dr.ir. [Johan Meyers](/authors/johan-meyers/). His research is focused on [computational simulation of atmospheric flows](/project/esr06/)  and the effect of airborne wind energy systems on these flows. He has published an extensive [wind field dataset](http://doi.org/10.5281/zenodo.1418676) for use in airborne wind energy research.
+Thomas Haas is Marie-Skłodowska-Curie Fellow at KU Leuven, working with Prof. dr.ir. [Johan Meyers](/authors/johan-meyers/). His research is about [computational simulation of atmospheric flows](/project/esr06/) and the effect of airborne wind energy systems on these flows. As part of this he has published an extensive [wind field dataset](http://doi.org/10.5281/zenodo.1418676) for higher altitudes so that it can be used in airborne wind energy research. Fluid dynamics was also the topic of his graduation project at the Technical University of Berlin, for which he numerically analyzed a pulsed impinging jet using also dynamic mode decomposition.
