@@ -21,7 +21,7 @@ organizations:
   url: "https://la.epfl.ch/"
 - name: School of Engineering
   url: "https://sti.epfl.ch/"
-- name: Ecole Polytechnique Federale de Lausanne
+- name: École Polytechnique Fédérale de Lausanne
   url: "https://www.epfl.ch/"
 
 # Short bio (displayed in user profile at end of posts)

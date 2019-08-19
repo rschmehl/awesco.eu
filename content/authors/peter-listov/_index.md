@@ -17,33 +17,27 @@ role: PhD researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Airborne Wind Energy Group
-  url: "http://www.kitepower.eu"
-- name: Faculty of Aerospace Engineering
-  url: "http://www.tudelft.nl/lr"
-- name: Delft University of Technology
-  url: "http://www.tudelft.nl"
+- name: Automatic Control Laboratory
+  url: "https://la.epfl.ch/"
+- name: School of Engineering
+  url: "https://sti.epfl.ch/"
+- name: École Polytechnique Fédérale de Lausanne
+  url: "https://www.epfl.ch"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Thomas Haas's research is on optimal control of a centrifugally stiffened rotor in pumping cycle operation.
+bio: Interested in nonlinear system analysis, NMPC and stochastic estimation.
 
 interests:
-- Modelling, simulation, and control
-- Aerodynamic vortex methods
-- Centrifugally stiffened rotors
-- Multi-kite systems
+- Nonlinear System Analysis
+- Nonlinear Model Predictive Control
+- Stochastic Estimation.
+
 
 education:
   courses:
-  - course: MSc in Aerospace Engineering (EWEM)
-    institution: Delft University of Technology
-    year: 2015
-  - course: MSc in Wind Energy (EWEM)
-    institution: Technical University of Denmark
-    year: 2015
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Control System Engineering
+    institution: Bauman Moscow State Technical University
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -52,10 +46,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:p.thedens@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:petr.listov@epfl.ch'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/peter-listov-66b41856/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-3813-5432
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Elena_Malz
+  link: https://www.researchgate.net/profile/Petr_Listov
+- icon: github
+  icon_pack: fab
+  link: https://github.com/petlist
+- icon: gitlab
+  icon_pack: fab
+  link: https://gitlab.com/petlist
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -74,4 +80,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Rachel Leuthold is Marie-Skłodowska-Curie Fellow working on optimal control of a centrifugally stiffened rotor in pumping cycle operation. She obtained an MSc in Aerospace Engineering from the Technical University of Delft (Netherlands) in 2015, with a thesis on a multiple wake vortex lattice method for membrane-wing kites. She graduated with a BSc in Aeronautical and Astronautical Engineering from the Massachusetts Institute of Technology (USA) in 2011.
+Peter Listov is Marie-Skłodowska-Curie Fellow at EPFL, working with Prof. Dr [Colin Jones](/authors/colin-jones/). His research is about [control of periodic orbits](/project/esr14/) for airborne wind energy system, for which he has developed [openKITE](https://github.com/LA-EPFL/openkite), which is an open source [Robot Operating System (ROS)](https://www.ros.org/) package for simulation, estimation and control of rigid-wing airborne wind energy kites. From October 2013 to January 2016 he was a Lead Research Programmer and a team leader of the Motion Control group at [RoboCV](http://robocv.com/) in Moscow, working on optimal motion planning and control for constrained autonomous guided vehicle. From August 2012 to October 2013, he worked as a Junior Researcher in the company, responsible for development of path planning and trajectory tracking algorithms.

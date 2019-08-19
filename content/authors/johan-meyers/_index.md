@@ -25,12 +25,12 @@ organizations:
   url: "https://www.kuleuven.be"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in airborne wind energy.
+bio: Interested in turbulent flows, LES and DNS, as well as flow control and optimization.
 
 interests:
 - Turbulent Flows
 - LES and DNS
-- Flow Control or Optimization
+- Flow Control and Optimization
 
 education:
   courses:
@@ -82,4 +82,4 @@ user_groups:
 - Principal Investigators
 ---
 
-Johan Meyers is head of the Turbulent Flow Simulation and Optimization Group at KU Leuven. He is Recruitment Manager of the Marie Skłodowska-Curie Initial Training Network [AWESCO](https://cordis.europa.eu/project/rcn/193938/factsheet/en). He is Associate Editor of [Wind Energy Science](https://wind-energy-science.net/) and [Computers & Fluids](https://www.journals.elsevier.com/computers-and-fluids) and currently Vice-President of the [European Academy of Wind Energy](https://eawe.eu/).
+Prof. Dr. Johan Meyers is head of the Turbulent Flow Simulation and Optimization Group at KU Leuven. He is Recruitment Manager of the Marie Skłodowska-Curie Initial Training Network [AWESCO](https://cordis.europa.eu/project/rcn/193938/factsheet/en). He is Associate Editor of [Wind Energy Science](https://wind-energy-science.net/) and [Computers & Fluids](https://www.journals.elsevier.com/computers-and-fluids) and currently Vice-President of the [European Academy of Wind Energy](https://eawe.eu/).

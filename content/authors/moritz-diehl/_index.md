@@ -25,11 +25,11 @@ organizations:
   url: "https://www.uni-freiburg.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: https://cordis.europa.eu/project/rcn/193938/
+bio: Interested in optimization and control, optimal control, numerical method development, embedded and renewable energy systems.
 
 interests:
 - Optimization and Control
-- Numerical method  development
+- Numerical Method Development
 - Embedded and Renewable Energy Systems.
 
 education:
@@ -74,4 +74,4 @@ user_groups:
 - Principal Investigators
 ---
 
-Moritz Diehl heads the Systems Control and Optimization Laboratory of the Department of Microsystems Engineering (IMTEK) at the University of Freiburg. He is also affiliated to the Department of Mathematics. He is Training Manager of the Marie Skłodowska-Curie Initial Training Network [AWESCO](https://cordis.europa.eu/project/rcn/193938/). Before taking up his current assignment, he was professor with the Department of Electrical Engineering, KU Leuven, Belgium, and served as the Principal Investigator of the [Optimization in Engineering Center (OPTEC)](https://set.kuleuven.be/optec). He was the principal investigator of the EU FP7 ERC Project [HIGHWIND](https://cordis.europa.eu/project/rcn/98087/factsheet/en).
+Prof. Dr. Moritz Diehl heads the Systems Control and Optimization Laboratory of the Department of Microsystems Engineering (IMTEK) at the University of Freiburg. He is also affiliated to the Department of Mathematics. He is Training Manager of the Marie Skłodowska-Curie Initial Training Network [AWESCO](https://cordis.europa.eu/project/rcn/193938/). Before taking up his current assignment, he was professor with the Department of Electrical Engineering, KU Leuven and served as the Principal Investigator of the [Optimization in Engineering Center (OPTEC)](https://set.kuleuven.be/optec). He was the principal investigator of the EU FP7 ERC Project [HIGHWIND](https://cordis.europa.eu/project/rcn/98087/factsheet/en).

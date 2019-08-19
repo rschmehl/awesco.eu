@@ -17,33 +17,29 @@ role: PhD researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Airborne Wind Energy Group
-  url: "http://www.kitepower.eu"
-- name: Faculty of Aerospace Engineering
-  url: "http://www.tudelft.nl/lr"
-- name: Delft University of Technology
-  url: "http://www.tudelft.nl"
+- name: Automatic Control Laboratory
+  url: "https://control.ee.ethz.ch/"
+- name: Department of Information Technology and Electrical Engineering
+  url: "https://ee.ethz.ch/"
+- name: ETH Zurich
+  url: "https://ethz.ch/en.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Thomas Haas's research is on optimal control of a centrifugally stiffened rotor in pumping cycle operation.
+bio: Interested in
 
 interests:
 - Modelling, simulation, and control
-- Aerodynamic vortex methods
-- Centrifugally stiffened rotors
-- Multi-kite systems
+- Stability Verification
+- Robust Control
 
 education:
   courses:
-  - course: MSc in Aerospace Engineering (EWEM)
-    institution: Delft University of Technology
+  - course: MSc in Physics
+    institution: University of Heidelberg
     year: 2015
-  - course: MSc in Wind Energy (EWEM)
-    institution: Technical University of Denmark
-    year: 2015
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Physics
+    institution: University of Heidelberg
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -52,10 +48,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:p.thedens@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ahbee@control.ee.ethz.ch'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/eva-ahbe-017080103/
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Elena_Malz
+  link: https://www.researchgate.net/profile/Eva_Ahbe
+- icon: github
+  icon_pack: fab
+  link: https://github.com/evaahbe
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -74,4 +76,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Rachel Leuthold is Marie-Skłodowska-Curie Fellow working on optimal control of a centrifugally stiffened rotor in pumping cycle operation. She obtained an MSc in Aerospace Engineering from the Technical University of Delft (Netherlands) in 2015, with a thesis on a multiple wake vortex lattice method for membrane-wing kites. She graduated with a BSc in Aeronautical and Astronautical Engineering from the Massachusetts Institute of Technology (USA) in 2011.
+Eva Ahbe is Marie-Skłodowska-Curie Fellow at ETH Zurich, working with Prof. [Roy Smith](/authors/roy-smith/). Her research is about [modeling and periodic control of dynamically uncertain airfoils](/project/esr13/), for which she has developed an open source tool for [airborne wind energy trajectory analysis](https://github.com/evaahbe/AWE_tool/). Her master studies included a 12 months research period at the [Carnegie Institution for Science](https://carnegiescience.edu/) at Stanford, CA, USA.

@@ -37,13 +37,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Mechatronics and Control Theory
+  - course: PhD in Electrical Engineering
     institution: Technical University of Munich
     year: 2012
-  - course: Dipl.-Ing. (in Electrical Engineering)
+  - course: MSc in Electrical Engineering
     institution: Technical University of Munich
     year: 2004
-
+  - course: BSc in Electrical Engineering
+    institution: Technical University of Munich
+    year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -80,14 +82,4 @@ user_groups:
 - Principal Investigators
 ---
 
-Christoph M. Hackl was born in 1977 in Mannheim, Germany. After studying
-Electrical Engineering (with focus on controls and mechatronics) at Technical
-University of Munich (TUM), Germany and University of Wisconsin-Madison, USA,
-he received the B.Sc., Dipl.-Ing., and Dr.-Ing. (Ph.D.) degrees in Electrical Engineering
-in 2003, 2004 and 2012, respectively, from TUM.
-
-Since 2004, he has been teaching
-electrical drives, power electronics, and mechatronic & renewable energy systems. Since 2014, he has been the head of the research group "Control of Renewable Energy Systems (CRES)" at TUM.
-In 2018, he became a Professor for Electrical Machines and Drives and the head of the "Laboratory for Mechatronic and Renewable Energy Systems (LMRES)" at the Munich University of Applied Sciences (MUAS), Germany. His research interests include nonlinear, adaptive and optimal control of electrical, mechatronic and renewable energy systems.
-
-He is IEEE Senior Member.
+Dr. Christoph M. Hackl is professor for Electrical Machines and Drives and head of the Laboratory for Mechatronic and Renewable Energy Systems (LMRES) at the Munich University of Applied Sciences (MUAS). Before assuming this position in 2018, he was head of the research group Control of Renewable Energy Systems (CRES) at the Technical University of Munich. Since 2004 he has been teaching electrical drives, power electronics, and mechatronic & renewable energy systems. He studied Electrical Engineering at the Technical University of Munich and the University of Wisconsin-Madison. He is IEEE Senior Member. 
