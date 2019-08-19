@@ -59,6 +59,4 @@ user_groups:
 - Principal Investigators
 ---
 
-Moritz Diehl was born in Hamburg, Germany, in 1971. He studied physics and mathematics at Heidelberg and Cambridge University from 1993-1999, and received his Ph.D. degree from Heidelberg University in 2001, at the Interdisciplinary Center for Scientific Computing. From 2006 to 2013, he was a professor with the Department of Electrical Engineering, KU Leuven University Belgium, and served as the Principal Investigator of KU Leuven's Optimization in Engineering Center OPTEC. He was the principal investigator of the ERC Project HIGHWIND.
-
-In 2013 he moved to the University of Freiburg, Germany, where he heads the Systems Control and Optimization Laboratory, in the Department of Microsystems Engineering (IMTEK), and is also affiliated to the Department of Mathematics. His research interests are in optimization and control,  spanning from numerical method  development to applications in different branches of engineering, with a focus on embedded and on renewable energy systems.
+He has chapter 24 about the [development of a three-line ground-actuated airborne wind energy converter](https://doi.org/10.1007/978-3-642-39965-7_24) of the Springer textbook [Airborne Wind Energy](https://doi.org/10.1007/978-3-642-39965-7) published in 2013. 
