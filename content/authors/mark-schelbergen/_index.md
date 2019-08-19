@@ -50,7 +50,10 @@ social:
   link: 'm.schelbergen@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Markus_Sommerfeld
+  link: https://www.researchgate.net/profile/Mark_Schelbergen
+- icon: gitlab
+  icon_pack: fab
+  link: https://gitlab.com/markschelbergen
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
