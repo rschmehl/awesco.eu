@@ -13,35 +13,38 @@ authors:
 superuser: false
 
 # Role/position
-role: Director of Mobile & Marine Robotics Research Centre
+role: Director
 
 # Organizations/Affiliations
 organizations:
-- name: Systems and Control Laboratory (SySCOP)
-  url: "https://www.syscop.de/"
-- name: Department of Microsystems Engineering (IMTEK)
-  url: "http://imtek.de/"
-- name: Albert Ludwigs University of Freiburg
-  url: "https://www.uni-freiburg.de/"
+- name: Center for Robotics & Intelligent Systems (CRIS)
+  url: "http://www.cris.ul.ie"
+- name: Department of Electronic and Computer Engineering
+  url: "https://www.ece.ul.ie/"
+- name: University of Limerick
+  url: "http://www.ul.ie/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in airborne wind energy.
+bio: Interested
 
 interests:
-- Airborne Wind Energy
-- Computational Fluid Dynamics
-- Fluid Structure Interaction
-- Aeroelasticity
+- Renewable Energy Integration
+- Field Robotics for Challenging Environments
 
 education:
   courses:
-  - course: PhD in Numerical Optimal Control
-    institution: University of Heidelberg
-    year: 2001
-  - course: Dipl.-Phys.
-    institution: University of Heidelberg
-    year: 1994
-
+  - course: PhD in Marine Robotics
+    institution: University of Limerick
+    year: 2004
+  - course: MSc in Manufacturing Systems Engineering
+    institution: Cranfield University
+    year: 1986
+  - course: BEng in Electrical Engineering
+    institution: Dublin University
+    year: 1984
+  - course: Hons Dip Elec Eng in Electrical Engineering
+    institution: Technological University Dublin
+    year: 1984
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -50,7 +53,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:moritz.diehl@imtek.uni-freiburg.de'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:daniel.toal@ul.ie'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/daniel-toal-83a9a1b/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-3601-9216
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=oNOK8I4AAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Daniel_Toal
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -66,6 +81,4 @@ user_groups:
 - Principal Investigators
 ---
 
-Moritz Diehl was born in Hamburg, Germany, in 1971. He studied physics and mathematics at Heidelberg and Cambridge University from 1993-1999, and received his Ph.D. degree from Heidelberg University in 2001, at the Interdisciplinary Center for Scientific Computing. From 2006 to 2013, he was a professor with the Department of Electrical Engineering, KU Leuven University Belgium, and served as the Principal Investigator of KU Leuven's Optimization in Engineering Center OPTEC. He was the principal investigator of the ERC Project HIGHWIND.
-
-In 2013 he moved to the University of Freiburg, Germany, where he heads the Systems Control and Optimization Laboratory, in the Department of Microsystems Engineering (IMTEK), and is also affiliated to the Department of Mathematics. His research interests are in optimization and control,  spanning from numerical method  development to applications in different branches of engineering, with a focus on embedded and on renewable energy systems.
+Dr. Daniel Toal is professor for Electrical Engineering and Robotics at the University of Limerick and director of the Center for Robotics & Intelligent Systems (CRIS). He is a chartered engineer in Electrical and Systems Engineering and has worked in the Electrical Power and High Voltage sector with [GEC](https://en.wikipedia.org/wiki/General_Electric_Company) in Britain. He is a Co-PI of the [Marine and Renewable Energy Ireland Center (MaREI)](http://www.marei.ie).

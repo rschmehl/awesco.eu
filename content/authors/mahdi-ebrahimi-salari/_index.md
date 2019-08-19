@@ -17,8 +17,8 @@ role: PhD researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Mobile & Marine Robotics Research Centre
-  url: "http://www.mmrrc.ul.ie"
+- name: Center for Robotics & Intelligent Systems (CRIS)
+  url: "http://www.cris.ul.ie"
 - name: University of Limerick
   url: "https://www.ul.ie/"
 
