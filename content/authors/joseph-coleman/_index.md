@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PostDoc
+role: Post-Doc
 
 # Organizations/Affiliations
 organizations:

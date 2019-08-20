@@ -1,5 +1,5 @@
 ---
-title: "Aero-elastic analysis of a large airborne wind turbine"
+title: "Aeroelastic analysis of a large airborne wind turbine"
 date: 2018-08-09
 publishDate: 2018-08-09
 authors: ["Jelle Wijnja", "Roland Schmehl", "Roeland De Breuker", "Kenny Jensen", "Damon Vander Lind"]

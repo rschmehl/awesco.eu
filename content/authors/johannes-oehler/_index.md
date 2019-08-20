@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Researcher
+role: Alumni
 
 # Organizations/Affiliations
 organizations:

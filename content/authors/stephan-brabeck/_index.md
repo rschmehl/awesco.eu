@@ -13,24 +13,27 @@ authors:
 superuser: false
 
 # Role/position
-role: CEO and co-founder
+role: CEO and Co-Founder
 
 # Organizations/Affiliations
 organizations:
+- name: Stephan Brabeck Consulting
+  url: "https://consulting.brabeck.eu/"
 - name: Skysails Group GmbH
   url: "https://www.skysails.info/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in airborne wind energy.
+bio: Interested in use of kites for ship traction.
 
 interests:
-- Airborne Wind Energy
+- Business Development
+- Kite-Based Propulsion
 
 education:
   courses:
   - course: MSc in Aerospace Engineering
     institution: RWTH Aachen
-    year: 1990
+    year: 1989
 
 
 # Social/Academic Networking
@@ -56,3 +59,5 @@ email: ""
 user_groups:
 - Principal Investigators
 ---
+
+Stephan Brabeck is CEO and Co-Founder of Skysails Group GmbH, Hamburg, a company he has been working for since 2005 as CEO and as head of Research & Development. From 1991 until 2004 he worked for [Schottel GmbH](https://www.schottel.de), Spay. During his studies at [RWTH Aachen](https://www.rwth-aachen.de/) he focused on structural optimization of wings and failure behavior of composite materials.

@@ -24,7 +24,7 @@ organizations:
 bio: Interested in sensor fusion, calibration and machine learning and their applications to inertial sensors and motion capture.
 
 interests:
-- Sensor fusion
+- Sensor Fusion
 - Sensor Calibration
 - Signal Processing
 

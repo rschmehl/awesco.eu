@@ -25,22 +25,24 @@ organizations:
   url: "https://www.epfl.ch/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in airborne wind energy.
+bio: Interested in optimization-based, or model predictive control with a particular emphasis on problems arising from renewable energy challenges.
 
 interests:
-- Airborne Wind Energy
-- Computational Fluid Dynamics
-- Fluid Structure Interaction
-- Aeroelasticity
+- Optimization-Based Control
+- Predictive Control
+- Renewable Energy
 
 education:
   courses:
-  - course: PhD in Numerical Optimal Control
-    institution: University of Heidelberg
+  - course: PhD in Control Engineering
+    institution: University of Cambridge
+    year: 2005
+  - course: MASc in Mathematics
+    institution: The University of British Columbia
     year: 2001
-  - course: Dipl.-Phys.
-    institution: University of Heidelberg
-    year: 1994
+  - course: BASc in Electrical Engineering
+    institution: The University of British Columbia
+    year: 1999
 
 
 # Social/Academic Networking
@@ -50,7 +52,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:moritz.diehl@imtek.uni-freiburg.de'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:colin.jones@epfl.ch'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/colin-jones-b04a663/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-7239-4799
+- icon: researcherid
+  icon_pack: ai
+  link: https://publons.com/researcher/2582477/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=SulkJJQAAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Colin_Jones
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -65,3 +82,5 @@ email: ""
 user_groups:
 - Principal Investigators
 ---
+
+Dr. Colin Jones is an Associate Professor in the Automatic Control Laboratory at the École Polytechnique Fédérale de Lausanne (EPFL) in Switzerland. He was a Senior Researcher at the [Automatic Control Laboratory](https://control.ee.ethz.ch/) at ETH Zurich until 2011 and obtained a PhD in 2005 from the University of Cambridge for his work on polyhedral computational methods for constrained control. He has worked in a variety of industrial roles, ranging from commercial building control to the development of custom optimization tools focusing on retail human resource scheduling. His current research interests are in the theory and computation of predictive control and optimization, and their application to green energy generation, distribution and management.

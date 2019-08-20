@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: CEO and co-founder
+role: CEO and Co-Founder
 
 # Organizations/Affiliations
 organizations:

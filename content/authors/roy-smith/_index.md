@@ -17,30 +17,34 @@ role: Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Systems and Control Laboratory (SySCOP)
-  url: "https://www.syscop.de/"
-- name: Department of Microsystems Engineering (IMTEK)
-  url: "http://imtek.de/"
-- name: Albert Ludwigs University of Freiburg
-  url: "https://www.uni-freiburg.de/"
-
+- name: Automatic Control Laboratory
+  url: "https://control.ee.ethz.ch/"
+- name: Department of Information Technology and Electrical Engineering
+  url: "https://ee.ethz.ch/"
+- name: ETH Zurich
+  url: "https://ethz.ch/en.html"
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests are in airborne wind energy.
 
 interests:
-- Airborne Wind Energy
-- Computational Fluid Dynamics
-- Fluid Structure Interaction
-- Aeroelasticity
+- Identification and Control of Uncertain Systems
+- Stability Verification
+- Robust Control
 
 education:
   courses:
-  - course: PhD in Numerical Optimal Control
-    institution: University of Heidelberg
-    year: 2001
-  - course: Dipl.-Phys.
-    institution: University of Heidelberg
-    year: 1994
+  - course: PhD Engineering and Applied Science
+    institution: California Institute of Technology
+    year: 1990
+  - course: MSc
+    institution: California Institute of Technology
+    year: 1986
+  - course: ME
+    institution: University of Canterbury
+    year: 1981
+  - course: BE (Hons)
+    institution: University of Canterbury
+    year: 1980
 
 
 # Social/Academic Networking
@@ -50,7 +54,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:moritz.diehl@imtek.uni-freiburg.de'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:rsmith@control.ee.ethz.ch'  # For a direct email link, use "mailto:test@example.org".
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-8139-4683
+- icon: researcherid
+  icon_pack: ai
+  link: https://publons.com/researcher/2858336/roy-s-smith/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=qG8uVoYAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -66,6 +79,4 @@ user_groups:
 - Principal Investigators
 ---
 
-Moritz Diehl was born in Hamburg, Germany, in 1971. He studied physics and mathematics at Heidelberg and Cambridge University from 1993-1999, and received his Ph.D. degree from Heidelberg University in 2001, at the Interdisciplinary Center for Scientific Computing. From 2006 to 2013, he was a professor with the Department of Electrical Engineering, KU Leuven University Belgium, and served as the Principal Investigator of KU Leuven's Optimization in Engineering Center OPTEC. He was the principal investigator of the ERC Project HIGHWIND.
-
-In 2013 he moved to the University of Freiburg, Germany, where he heads the Systems Control and Optimization Laboratory, in the Department of Microsystems Engineering (IMTEK), and is also affiliated to the Department of Mathematics. His research interests are in optimization and control,  spanning from numerical method  development to applications in different branches of engineering, with a focus on embedded and on renewable energy systems.
+Dr. Roy Smith is a Professor in the Automatic Control Laboratory at ETH Zurich. From 1990 to 2010 he was on the faculty of the Electrical Engineering Department at the [University of California, Santa Barbara](https://www.ucsb.edu/). He has been a long-time consultant to the [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/) and has industrial experience in automotive control and power system design. He received his undergraduate education at Canterbury University in New Zealand (1980) and a Ph.D. from the California Institute of Technology (1990).

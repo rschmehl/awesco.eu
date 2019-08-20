@@ -13,27 +13,29 @@ authors:
 superuser: false
 
 # Role/position
-role: CEO and co-founder
+role: CEO and Co-Founder
 
 # Organizations/Affiliations
 organizations:
-- name: EnerKíte
+- name: EnerKíte GmbH
   url: "https://www.enerkite.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in airborne wind energy.
+bio: Interested in commercial development of airborne wind energy.
 
 interests:
-- Airborne Wind Energy
+- Business Development
+- Lightweight structures
+- Fatigue Dynamics
 
 education:
   courses:
-  - course: PhD in Numerical Optimal Control
-    institution: University of Heidelberg
-    year: 2001
-  - course: Dipl.-Phys.
-    institution: University of Heidelberg
-    year: 1994
+  - course: PhD in Aerospace Engineering
+    institution: Technical University of Berlin
+    year: 2008
+  - course: MSc in Aerospace Engineering
+    institution: Technical University of Berlin
+    year: 1997
 
 
 # Social/Academic Networking
@@ -43,7 +45,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:moritz.diehl@imtek.uni-freiburg.de'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:a.bormann@enerkite.de'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/alexbormann
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/alexanderbormann/
+- icon: xing
+  icon_pack: fab
+  link: https://www.xing.com/profile/Alexander_Bormann2/
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCdLLsY99kASw3W7lcaaH3Vw
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Alexander_Bormann3/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -59,4 +76,4 @@ user_groups:
 - Principal Investigators
 ---
 
-He has chapter 24 about the [development of a three-line ground-actuated airborne wind energy converter](https://doi.org/10.1007/978-3-642-39965-7_24) of the Springer textbook [Airborne Wind Energy](https://doi.org/10.1007/978-3-642-39965-7) published in 2013. 
+Dr. Alexander Bormann is co-founder and CEO of Enerkíte GmbH based in Berlin. As entrepreneur, pioneer and visionary of airborne wind energy he builds on more than 20 years of experience in Aeronautical Engineering and Wind Energy. He has particular expertise in fatigue, dynamics of structures and materials. He contributed a chapter on the [development of a three-line ground-actuated airborne wind energy converter](https://doi.org/10.1007/978-3-642-39965-7_24) to the Springer textbook [Airborne Wind Energy](https://doi.org/10.1007/978-3-642-39965-7) published in 2013.

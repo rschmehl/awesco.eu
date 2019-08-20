@@ -50,3 +50,5 @@ user_groups:
 # (1) One sentence about your function (for academic staff) and then another sentence about your role(s) within the training network
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
+
+Bernd Specht is head of teh Research & Development department at Skysails Yacht GmbH, which is a partner organization in the AWESCO network. He contributed a chapter on the [conceptual design of textile kites](https://doi.org/10.1007/978-3-642-39965-7_32) to the Springer textbook [Airborne Wind Energy](https://doi.org/10.1007/978-3-642-39965-7) published in 2013.
