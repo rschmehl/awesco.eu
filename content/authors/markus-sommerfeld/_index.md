@@ -17,13 +17,15 @@ role: PhD Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Institute for Integrated Energy Systems
+- name: Institute for Integrated Energy Systems (IESVic)
   url: "http://www.uvic.ca/research/centres/iesvic/"
+- name: Pacific Institute for Climate Solutions (PICS)
+  url: "https://pics.uvic.ca/"
 - name: University of Victoria
   url: "http://www.uvic.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is focused on airborne wind energy resource assessment and performance modeling.
+bio: Interested in airborne wind energy resource assessment and performance modeling.
 
 interests:
 - Wind Resource Assessment
@@ -46,6 +48,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:msommerf@uvic.ca'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/markus-sommerfeld/
+- icon: xing
+  icon_pack: fab
+  link: https://www.xing.com/profile/Markus_Sommerfeld4/
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Markus_Sommerfeld
@@ -67,6 +75,5 @@ user_groups:
 # (1) One sentence about your function (for academic staff) and then another sentence about your role(s) within the training network
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
-Markus Sommerfeld is PhD researcher at the Institute for Integrated Energy Systems (IESVic) of the University of Victoria. He is associated with the doctoral training network AWESCO.
 
-Under the supervision of Dr. Curran Crawford and the support from the Pacific Institute for Climate Solutions (PICS), Markus' research addresses some of the key challenges of Airborne Wind Energy, with a focus on the assessment of the available wind resource. In his free time Markus enjoys jogging and other outdoor sports to clear his mind, as well as studying Japanese.
+Markus Sommerfel is a mechanical engineering PhD researcher at the University of Victoria where he investigates the potential of AWE systems. His research  is about the assessment of wind resources in higher altitudes through measurements and a variety of simulations as well as using this information to estimate optimal operating conditions, predicting annual energy production and estimating their cost. For his graduation project at the Fraunhofer Institute for Wind Energy & Energy System Technology in Bremerhaven he was part of the "BladeMaker" team, designing and implementing a test bench for the investigation of automated rotor blade spar cap manufacturing. During a six months internship (2013-2014) at TÜV Rheinland in Yokohama Japan he conducted tests on PV modules and analyzed the results according to international safety, quality and performance standards. He worked at Airbus Hamburg Germany (2012) on the certification of various airplane parts, designing the necessary mechanical load test device for cargo loading devices and conducted first test.

@@ -249,9 +249,9 @@ Starting with the conference in Leuven, accepted abstracts have also been publis
 
 {{< gallery album="BoA" height="130px" >}}
 
-The complete bibliographic information is listed on the [website](https://awec2019.com/book-of-abstracts-series) of the AWEC 2019, which will be held in Glasgow from 15-16 October. Presentations at the conferences in Delft and Freiburg were video-recorded and deposited online together with the posters. As a result, the two conference websites present rather complete snapshots of the technology development status in 2015 and 2017.
+The complete bibliographic information is listed on the [website](https://awec2019.com/book-of-abstracts-series) of the AWEC 2019, which will be held in Glasgow from 15-16 October. Presentations at the conferences in Delft and Freiburg were video-recorded and deposited online together with the posters. As a result, the two conference websites present rather complete snapshots of the technology development status in [2015](http://www.awec2015.com/presentations.html) and [2017](http://www.awec2017.com/presentations.html).
 
-It was also the AWEC 2011 in Leuven, at which a petition to the European Parliament and the European Commissioners for better support of the technology was signed by 76 developers.[^18]
+At the AWEC 2011 in Leuven a petition to the European Parliament and the European Commissioners for better support of the technology was signed by 76 developers.[^18]
 [^18]: Wubbo Ockels et al: Petition letter to the members of the European Parliament and the European Commissioners. Leuven, 2 December 2011. {{< pdf_button url="Petition2011.pdf" >}}
 Following several years of systematic support of the technology development, the European Union commissioned a study on the challenges in the commercialization of AWE systems to a consortium lead by Dutch consultancy company [Ecorys](https://www.ecorys.com). A stakeholder workshop at the EU headquarters in Brussels was held in July 2018 and key conclusions of the final report[^19]
 [^19]: Karel van Hussen et al: "Study on Challenges in the Commercialisation of Airborne Wind Energy Systems". ECORYS Report PP-05081-2016, Brussels, September 2018. {{< doi_button doi="10.2777/87591" >}}

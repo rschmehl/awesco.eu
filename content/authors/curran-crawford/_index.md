@@ -17,8 +17,10 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Institute for Integrated Energy Systems
+- name: Institute for Integrated Energy Systems (IESVic)
   url: "http://www.uvic.ca/research/centres/iesvic/"
+- name: Pacific Institute for Climate Solutions (PICS)
+  url: "https://pics.uvic.ca/"
 - name: University of Victoria
   url: "http://www.uvic.ca/"
 

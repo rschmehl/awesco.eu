@@ -23,7 +23,7 @@ organizations:
   url: "http://www.enerkite.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include structural mechanics of flexible membrane wings.
+bio: Interested in the mathematical and engineering challenges of airborne wind energy.
 
 interests:
 - Finite Element Analysis
@@ -32,7 +32,7 @@ interests:
 
 education:
   courses:
-  - course: Diploma in Mathematics
+  - course: MSc in Mathematics
     institution: Freie Universität Berlin
     year: 2011
 
@@ -43,10 +43,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:p.thedens@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:m.ranneberg@viiflow.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:m.ranneberg@enerkite.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/maximilian-ranneberg-2b1694a2/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=ewxE93oAAAAJ
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Paul_Thedens
+  link: https://www.researchgate.net/profile/Maximilian_Ranneberg
+- icon: github
+  icon_pack: fab
+  link: https://github.com/mranneberg
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -65,4 +77,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Maximilian Ranneberg is senior researcher at EnerKíte GmbH where he is responsible from modeling, controls and simulation. He is also the author of the fluid dynamics software [viiflow](http://www.viiflow.com/).
+Maximilian Ranneberg is senior researcher at EnerKíte GmbH where he is responsible for modeling, controls and simulation. He is also the author of the fluid dynamics software [viiflow](http://www.viiflow.com/). He contributed a chapter on the [development of a three-line ground-actuated airborne wind energy converter](https://doi.org/10.1007/978-3-642-39965-7_24) to the Springer textbook [Airborne Wind Energy](https://doi.org/10.1007/978-3-642-39965-7) published in 2013.
