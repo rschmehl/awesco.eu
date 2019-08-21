@@ -72,6 +72,5 @@ user_groups:
 # (1) One sentence about your function (for academic staff) and then another sentence about your role(s) within the training network
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
-Markus Sommerfeld is PhD researcher at the Institute for Integrated Energy Systems (IESVic) of the University of Victoria. He is associated with the doctoral training network AWESCO.
 
-Under the supervision of Dr. Curran Crawford and the support from the Pacific Institute for Climate Solutions (PICS), Markus' research addresses some of the key challenges of Airborne Wind Energy, with a focus on the assessment of the available wind resource. In his free time Markus enjoys jogging and other outdoor sports to clear his mind, as well as studying Japanese.
+Mark Schelbergen is Marie-Skłodowska-Curie Fellow at Delft University of Technology, working with Dr. [Roland Schmehl](/authors/roland-schmehl/). For his graduation project he looked at vertical axis wind turbines.

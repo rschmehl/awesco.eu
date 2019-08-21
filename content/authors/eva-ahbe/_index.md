@@ -76,4 +76,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Eva Ahbe is Marie-Skłodowska-Curie Fellow at ETH Zurich, working with Prof. [Roy Smith](/authors/roy-smith/). Her research is about [modeling and periodic control of dynamically uncertain airfoils](/project/esr13/), for which she has developed an open source tool for [airborne wind energy trajectory analysis](https://github.com/evaahbe/AWE_tool/). Her master studies included a 12 months research period at the [Carnegie Institution for Science](https://carnegiescience.edu/) at Stanford, CA, USA.
+Eva Ahbe is Marie-Skłodowska-Curie Fellow at ETH Zurich, working with Prof. [Roy Smith](/authors/roy-smith/). Her PhD research is about [modeling and periodic control of dynamically uncertain airfoils](/project/esr13/), for which she has developed an open source tool for [airborne wind energy trajectory analysis](https://github.com/evaahbe/AWE_tool/). Her master studies included a 12 months research period at the [Carnegie Institution for Science](https://carnegiescience.edu/) at Stanford, CA, USA.
