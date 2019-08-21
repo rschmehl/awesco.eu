@@ -33,12 +33,12 @@ interests:
 
 education:
   courses:
-  - course: MSc in Mechanical Engineering and Energy Technology
-    institution: Technical University of Kaiserslautern
-    year: 2015
-  - course: BSc in Mechanical Engineering
-    institution: Technical University of Kaiserslautern
+  - course: MSc in Aerospace Engineering
+    institution: Delft University of Technology
     year: 2013
+  - course: BEng in Aeronautical Engineering
+    institution: Inholland University of Applied Sciences Delft
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -73,4 +73,5 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Mark Schelbergen is Marie-Skłodowska-Curie Fellow at Delft University of Technology, working with Dr. [Roland Schmehl](/authors/roland-schmehl/). For his graduation project he looked at vertical axis wind turbines.
+Mark Schelbergen is PhD researcher at Delft University of Technology, working with Dr. [Roland Schmehl](/authors/roland-schmehl/). His research is about wind resource modeling for airborne wind energy and performance estimation of pumping kite power systems. His work is funded
+within the [REACH](https://cordis.europa.eu/project/rcn/199241/) project. Before starting his doctoral research he worked at [We4Sea](https://www.we4sea.com/). For his graduation project he looked at the structural optimization of [multi-megawatt, offshore vertical axis wind turbine rotors](https://doi.org/10.2514/6.2014-1082).

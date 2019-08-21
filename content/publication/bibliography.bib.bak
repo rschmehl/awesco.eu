@@ -1835,4 +1835,18 @@ as kite Euler angles and position, the results are also compared with a second i
   doi     = {10.1016/j.renene.2015.04.028},
 }
 
+@InBook{Younis2017,
+  pages     = {707--734},
+  title     = {Optimal Operation of a Self-regulating Smart Distribution System with Wind Energy Integration and Demand Response},
+  publisher = {Springer International Publishing},
+  year      = {2017},
+  author    = {Younis, Adel and Williams, Trevor and Wang, Dan and Dong, Zuomin and Crawford, Curran and Djilali, Ned},
+  editor    = {Zhang, XinRong and Dincer, Ibrahim},
+  address   = {Cham},
+  abstract  = {As an integral part of a smart grid, the smart distribution system is an important concept that employs advanced communication, control and information technologies to manage and optimize the resources of a feeder in order to (1) improve energy efficiency and customer power consumption patterns, (2) increase penetration and storage of Renewable Energy (RE) thereby decreasing GHG emissions, and (3) enable markets, consumer motivation, and participation. For electrical distribution systems and demand-side management, demand response (DR) control is an emerging concept to manage customer power consumption patterns in response to system operation conditions, and to minimize (or provide) system ancillary services while maintaining customer-side comfortable usage requirements. Reliable bidirectional smart grid communications and customer's grid-friendly participation provide new opportunities that enable DR to be employed to optimize grid operation utilizing the energy storage capability of modern homes via control of heat pumps and, in the near future, plug-in electric vehicles (PEVs). Considering the complex interactions between an electrical distribution network and grid resources, in a quasi-steady-state simulation environment, optimal operation and management requires robust global optimization techniques that also incorporate distribution load flow simulations to optimally integrate RE generation, loads and corresponding DR control strategy. System power loss reduction was selected as an objective for the optimal distribution load flow optimization and the optimization process simulates load calculations and demand-side DR resource control. Residential heat pumps with thermal energy storage were chosen as typical DR resources to help regulate system power balance. An advanced metamodel-based global optimization (MBGO) search tool, recently presented, named space exploration and unimodal region elimination (SEUMRE) algorithm, was applied to determine minimum system power losses and optimal DR resources operation to offset wind fluctuations. This MBGO tool solves complex global design optimization problems with black-box objective/constraint functions and is ideally suited to this complex, computationally intensive application. The optimal control solution was compared with the unoptimized results to show the benefit of the proposed advanced optimizer. The inability to achieve an optimized solution and the poor computational efficiency of conventional optimization approaches in identifying the correct global optimum are also illustrated.},
+  booktitle = {Energy Solutions to Combat Global Warming},
+  date      = {2016-10-18},
+  doi       = {10.1007/978-3-319-26950-4_33},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

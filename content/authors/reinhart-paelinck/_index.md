@@ -13,19 +13,20 @@ authors:
 superuser: false
 
 # Role/position
-role: CEO and Co-Founder
+role: CEO and Founder
 
 # Organizations/Affiliations
 organizations:
-- name: Kiteswarms Ltd / Kiteswarms GmbH
+- name: Kiteswarms Ltd
   url: "http://www.kiteswarms.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research is focused on airborne wind energy resource assessment and performance modeling.
 
 interests:
-- Wind Resource Assessment
-- Performance Modeling
+- Collaborative Design
+- Problem Solving
+- 3D Modeling and Visualisation.
 
 education:
   courses:
@@ -40,11 +41,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:msommerf@uvic.ca'  # For a direct email link, use "mailto:test@example.org".
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Markus_Sommerfeld
-
+  link: 'mailto:reinhart@kiteswarms.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://www.twitter.com/kiteswarms
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/reinhartp/
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCMRT-1_mrZSZfIiKWXOUVzg
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -62,4 +68,4 @@ user_groups:
 # (1) One sentence about your function (for academic staff) and then another sentence about your role(s) within the training network
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
-Reinhart Paelinck started to investigate airborne wind energy for his [graduation project](https://cdn.syscop.de/publications/Paelinck2010.pdf) at the Artesis Hogeschool Antwerpen. After having worked for [Flysurfer Kiteboarding](https://flysurfer.com/) Research & Development, Reinhart founded Kiteswarms Ltd in the UK, developing a multi-drone airborne wind energy system. The German branch of the company, Kiteswarms GmbH, is closely collaborating with the research group of [Moritz Diehl](/authors/moritz-diehl/) at the University of Freiburg.
+Reinhart Paelinck is CEO, Co-Founder and Head of Product Development at Kiteswarms Ltd and Kiteswarms GmbH, developing a multi-drone AWE system. The German branch of the company, Kiteswarms GmbH, is closely collaborating with the research group of [Moritz Diehl](/authors/moritz-diehl/) at the University of Freiburg. Prior to the founding of the company in April 2017 he was working for [Flysurfer Kiteboarding](https://flysurfer.com) where he was responsible for several development projects, such as unconventional wing designs and control- and safety systems. He co-organized the [3rd Airborne Wind Energy Conference (AWEC) 2011](http://www.awec2011.com/) in Leuven and co-edited the [book of abstracts](https://doi.org/10.4233/uuid:54a23dff-74f9-4007-b1d6-e92e0c458491). He investigated airborne wind energy for his [graduation project](https://cdn.syscop.de/publications/Paelinck2010.pdf) at the Artesis Hogeschool Antwerpen.

@@ -25,24 +25,26 @@ organizations:
   url: "http://www.uvic.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include structural mechanics of flexible membrane wings.
+bio: Interested in sustainable energy systems, wind and tidal turbines, plug-in hybrid vehicles and energy system modeling.
 
 interests:
-- Finite Element Analysis
-- Structural Analysis
-- Aerodynamics
+- Wind and Tidal Turbines
+- Plug-in Hybrid Vehicles
+- Sustainable Energy Systems
+- Energy System Modeling
+
 
 education:
   courses:
-  - course: MSc in Aerospace Engineering (EWEM)
-    institution: Delft University of Technology
-    year: 2015
-  - course: MSc in Wind Energy (EWEM)
-    institution: Technical University of Denmark
-    year: 2015
-  - course: BSc in Artificial Intelligence
+  - course: PhD in Engineering
+    institution: University of Cambridge
+    year: 2006
+  - course: SM in Aeronautics and Astronautics
     institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2003
+  - course: BEng in Mechanical Engineering
+    institution: University of Victoria
+    year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -51,10 +53,25 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:p.thedens@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:curranc@uvic.ca'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/currancrawford
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/curran-crawford-5204b05/
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/watch?v=p4aagtqd714
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-6047-728X
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=CB0QXgcAAAAJ
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Paul_Thedens
+  link: https://www.researchgate.net/profile/Curran_Crawford
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -73,12 +90,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Andrea Zanelli holds a Bachelor's degree in Automation Engineering at Politecnico di Milano in 2012 and a Master's degree at ETH Zurich in Robotics, Systems and Control in 2015. He is currently pursuing his PhD under the supervision of Prof. Moritz Diehl since November 2015. He is working on the design and implementation of efficient and reliable numerical methods for nonlinear optimization. In particular, he will be focusing on topics that range from algorithms for numerical optimization on embedded devices with limited resources to applications in the control and design of airborne wind energy systems.
-
-Among other things, I am currently focusing on the development of inexact numerical methods and optimal control formulations that lead to increased computational efficiency of the algorithms used in embedded optimization and nonlinear nonlinear model predictive control.
-
-He have been helping organizing the following courses as a teaching assistant:
-
-* semester course on [numerical optimal control](https://www.syscop.de/teaching/ss2017/numerical-optimal-control)
-* winter school on [numerical optimal control with differential algebraic equations](https://www.syscop.de/teaching/ws2015/nocdae)
-* semester course on [numerical optimization](https://www.syscop.de/teaching/ws2015/numopt)
+Dr. Curran Crawford is professor at the Institute for Integrated Energy Systems (IESVic) of the Universit of Victoria. In 2014 his [plug-in electric vehicle (PEV) smart grid project](https://www.uvic.ca/news/topics/2014+plug-in-vehicle-project+ring) project received federal funding.
