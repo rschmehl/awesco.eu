@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Publications in AWESCO
 
 # View.
 #   1 = List

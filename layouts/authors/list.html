@@ -23,7 +23,7 @@
     {{ $pubs_len := len $pubs }}
     {{ if ge $pubs_len 1 }}
     <div class="article-widget">
-      <h3>{{ (i18n "publications") }}</h3>
+      <h3>{{ (i18n "publications") }} in AWESCO</h3>
       {{ range $pubs }}
         {{ if eq site.Params.projects.publication_view 1 }}
           {{ partial "li_list" . }}

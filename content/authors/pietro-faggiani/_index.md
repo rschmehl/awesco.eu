@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Simulation Engineer
+role: Systems Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -21,24 +21,20 @@ organizations:
   url: "http://www.kitepower.nl"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include structural mechanics of flexible membrane wings.
+bio: Explores the potential of airborne wind energy to become a leading source of renewable energy.
 
 interests:
-- Finite Element Analysis
-- Structural Analysis
-- Aerodynamics
+- System Level Modeling
+- System Operation
 
 education:
   courses:
-  - course: MSc in Aerospace Engineering (EWEM)
+  - course: MSc in Sustainable Energy Technology
     institution: Delft University of Technology
-    year: 2015
-  - course: MSc in Wind Energy (EWEM)
-    institution: Technical University of Denmark
-    year: 2015
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2014
+  - course: BS in Energy Engineering
+    institution: Sapienza University of Rome
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,10 +43,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:p.thedens@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Paul_Thedens
+  link: 'mailto:p.faggiani@kitepower.nl'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/pietro-faggiani-5672baa8/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -69,12 +65,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Andrea Zanelli holds a Bachelor's degree in Automation Engineering at Politecnico di Milano in 2012 and a Master's degree at ETH Zurich in Robotics, Systems and Control in 2015. He is currently pursuing his PhD under the supervision of Prof. Moritz Diehl since November 2015. He is working on the design and implementation of efficient and reliable numerical methods for nonlinear optimization. In particular, he will be focusing on topics that range from algorithms for numerical optimization on embedded devices with limited resources to applications in the control and design of airborne wind energy systems.
-
-Among other things, I am currently focusing on the development of inexact numerical methods and optimal control formulations that lead to increased computational efficiency of the algorithms used in embedded optimization and nonlinear nonlinear model predictive control.
-
-He have been helping organizing the following courses as a teaching assistant:
-
-* semester course on [numerical optimal control](https://www.syscop.de/teaching/ss2017/numerical-optimal-control)
-* winter school on [numerical optimal control with differential algebraic equations](https://www.syscop.de/teaching/ws2015/nocdae)
-* semester course on [numerical optimization](https://www.syscop.de/teaching/ws2015/numopt)
+Pietro Faggiani works as systems engineer at Kitepower BV. He is a trained operator for the 100 kW [AWE system](https://kitepower.nl/tech/) that the company is developing, supervises test campaigns and the production of new kites. For his graduation project at Delft University of Technology he investigated the performance and generation characteristics of a [pumping kites wind farm](http://resolver.tudelft.nl/uuid:66cddbd2-5f50-4fc7-be0b-468853128f37) using computational simulations. Early in his masters studies he spent 5 months as intern at [KiteGen Research Srl](http://kitegen.com/).

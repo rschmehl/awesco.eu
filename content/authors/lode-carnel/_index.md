@@ -24,9 +24,9 @@ organizations:
 bio: Interested in commercially developing airborne wind energy.
 
 interests:
+- Failure Mode and Effects Analysis
 - System Level Analysis
 - Renewable Energies
-- Failure Mode and Effects Analysis (FMEA)
 
 education:
   courses:
@@ -73,4 +73,4 @@ user_groups:
 # (1) One sentence about your function (for academic staff) and then another sentence about your role(s) within the training network
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
-Dr. Lode Carnel is Chief Technical Officer at Kitemill AS. He has a demonstrated history of working in the renewables and environment industry. He is skilled in Process Control, Failure Mode and Effects Analysis (FMEA), Renewable Energies, Project Management, and Research and Development.
+Dr. Lode Carnel is Chief Technical Officer at Kitemill AS. He has a demonstrated history of working in the renewables and environment industry. He is skilled in Process Control, Failure Mode and Effects Analysis (FMEA), Renewable Energies, Project Management, and Research and Development. Before venturing into airborne wind energy, he investigated the production of photovoltaic cells, where he holds 3 patents. 
