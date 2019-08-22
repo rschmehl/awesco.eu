@@ -6,6 +6,10 @@ authors:
 - roland-schmehl
 tags:
 - Airborne Wind Energy
+- Working Principles
+- Technological Challenges 
+- Historical Perspective
+- Industrial Development
 categories: []
 date: "2019-06-20T00:00:00Z"
 lastmod: "2019-06-20T00:00:00Z"

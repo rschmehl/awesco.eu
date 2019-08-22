@@ -25,24 +25,20 @@ organizations:
   url: "http://www.tudelft.nl"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include structural mechanics of flexible membrane wings.
+bio: Interested in experimental characterization of flexible membrane wings.
 
 interests:
-- Finite Element Analysis
-- Structural Analysis
-- Aerodynamics
+- Aerodynamic Measurement Techniques
+- Flexible Membrane Wings
 
 education:
   courses:
-  - course: MSc in Aerospace Engineering (EWEM)
-    institution: Delft University of Technology
-    year: 2015
-  - course: MSc in Wind Energy (EWEM)
-    institution: Technical University of Denmark
-    year: 2015
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Aerospace Engineering
+    institution: University of Stuttgart
+    year: 2017
+  - course: BSc in Aerospace Engineering
+    institution: University of Stuttgart
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -51,10 +47,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:p.thedens@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:johannesoehler@posteo.de'  # For a direct email link, use "mailto:test@example.org".
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Paul_Thedens
+  link: https://www.researchgate.net/profile/Johannes_Oehler2
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -72,3 +68,5 @@ user_groups:
 # (1) One sentence about your function (for academic staff) and then another sentence about your role(s) within the training network
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
+
+Johannes Oehler was researcher at Delft University of Technology, working with Dr. [Roland Schmehl](/authors/roland-schmehl/) in the EU Horizon 2020 "Fast Track to Innovation" project [REACH](https://cordis.europa.eu/project/rcn/199241/). His research was about experimental characterization of soft kites with a focus on the coupled aerodynamics and deformation behavior of the wing and the effect on the flight dynamics. Prior to this assignment, he finalized his masters studies at the [University of Stuttgart](http://www.uni-stuttgart.de) with a graduation project at Delft University of Technology and [Kitepower BV](http://www.kitepower.nl) on [measuring the relative flow experienced by a flexible wing kite](http://dx.doi.org/10.18419/opus-9890).
