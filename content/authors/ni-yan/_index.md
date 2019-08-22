@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Project Manager
+role: EU program coordinator
 
 # Organizations/Affiliations
 organizations:
@@ -21,22 +21,23 @@ organizations:
   url: "http://www.tudelft.nl"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in airborne wind energy and floating offshore wind energy.
-
+bio: Interested in coordinating multi-national technology research projects.
 interests:
-- Computational Fluid Dynamics
+- Multi-National Technology Research Projects
+- Project Coordination
+- Project Management
 
 education:
   courses:
-  - course: PhD in Physics
-    institution: Université Libre de Bruxelles
-    year: 2010
-  - course: MSc in Engineering Sciences
-    institution: Université libre de Bruxelles
-    year: 2006
-  - course: BSc in Engineering Sciences
-    institution: Université libre de Bruxelles
-    year: 2004
+  - course: PhD in Optical Communication
+    institution: Eindhoven University of Technology
+    year: 2008
+  - course: MS in Telecommunications
+    institution: University College London
+    year: 2003
+  - course: BE in Communication Engineering
+    institution: Sun Yat-sen University
+    year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -45,19 +46,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:a.c.vire@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/axellevire
+  link: 'mailto:n.yan@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/axelle-viré-7309261/
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0003-0056-8213
+  link: https://www.linkedin.com/in/niyan79/
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Axelle_Vire
+  link: https://www.researchgate.net/profile/Ni_Yan10
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -76,4 +71,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Dr. Ni Yan is ....
+Dr. Ni Yan was EU program coordinator at the Valorization Center of Delft University of Technology. She managed the Marie Skłodowska-Curie Initial Training Network [AWESCO](https://cordis.europa.eu/project/rcn/193938/) and assisted in the management of the "Fast Track to Innovation" project [REACH](https://cordis.europa.eu/project/rcn/199241/). She has coordinated and managed several other EU projects in the past, such as the FP7 project [NIOPLEX](http://nioplex.eu/). She is currently working as program and section coordinator at the [Department of Hydraulic Engineering](https://www.tudelft.nl/en/ceg/about-faculty/departments/hydraulic-engineering/) of the Faculty of Civil Engineering and Geosciences and the [Department of Urbanism](https://www.tudelft.nl/en/architecture-and-the-built-environment/about-the-faculty/departments/urbanism/) of the Faculty of Architecture and the Built Environment, for which she coordinates the EU Horizon 2020 project [REPAIR](http://h2020repair.eu/).
