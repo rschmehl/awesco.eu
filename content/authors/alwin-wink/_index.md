@@ -21,7 +21,7 @@ organizations:
   url: "http://www.tudelft.nl"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I administrate the EU H2020 project AWESCO for the coordinating institution TU Delft.
+bio: Administrates the EU H2020 project AWESCO for the coordinating institution.
 
 interests:
 - International Business
@@ -63,4 +63,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Alwin Wink works for the Valorisation Centre of Delft University of Technology and is responsible for the financial administration of the AWESCO project.
+Alwin Wink works for the Valorization Center of Delft University of Technology and is responsible for the financial administration of the AWESCO project.

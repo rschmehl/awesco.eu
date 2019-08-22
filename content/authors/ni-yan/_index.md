@@ -21,7 +21,7 @@ organizations:
   url: "http://www.tudelft.nl"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interested in coordinating multi-national technology research projects.
+bio: Manages the EU H2020 project AWESCO for the coordinating institution.
 interests:
 - Multi-National Technology Research Projects
 - Project Coordination
@@ -71,4 +71,4 @@ user_groups:
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
 
-Dr. Ni Yan was EU program coordinator at the Valorization Center of Delft University of Technology. She managed the Marie Skłodowska-Curie Initial Training Network [AWESCO](https://cordis.europa.eu/project/rcn/193938/) and assisted in the management of the "Fast Track to Innovation" project [REACH](https://cordis.europa.eu/project/rcn/199241/). She has coordinated and managed several other EU projects in the past, such as the FP7 project [NIOPLEX](http://nioplex.eu/). She is currently working as program and section coordinator at the [Department of Hydraulic Engineering](https://www.tudelft.nl/en/ceg/about-faculty/departments/hydraulic-engineering/) of the Faculty of Civil Engineering and Geosciences and the [Department of Urbanism](https://www.tudelft.nl/en/architecture-and-the-built-environment/about-the-faculty/departments/urbanism/) of the Faculty of Architecture and the Built Environment, for which she coordinates the EU Horizon 2020 project [REPAIR](http://h2020repair.eu/).
+Dr. Ni Yan works for the Valorization Center of Delft University of Technology. She managed the Marie Skłodowska-Curie Initial Training Network  [AWESCO](https://cordis.europa.eu/project/rcn/193938/) and assisted in the management of the “Fast Track to Innovation” project  [REACH](https://cordis.europa.eu/project/rcn/199241/). She has also coordinated and managed other EU projects in the past, such as the FP7 project [NIOPLEX](http://nioplex.eu/). She is currently working as program and section coordinator at the [Department of Hydraulic Engineering](https://www.tudelft.nl/en/ceg/about-faculty/departments/hydraulic-engineering/) of the Faculty of Civil Engineering and Geosciences and the [Department of Urbanism](https://www.tudelft.nl/en/architecture-and-the-built-environment/about-the-faculty/departments/urbanism/) of the Faculty of Architecture and the Built Environment, for which she coordinates the EU Horizon 2020 project [REPAIR](http://h2020repair.eu/).
