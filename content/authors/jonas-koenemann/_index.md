@@ -27,13 +27,14 @@ organizations:
   url: "https://www.ampyxpower.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interested in optimal control.
+bio: Interested in robotics and control for robotic applications.
 
 interests:
 - Optimal Control
 - Model Predictive Control
 - Dynamic Systems
 - Robotics
+- Reinforcement learning
 
 education:
   courses:

@@ -78,20 +78,35 @@
     weight = 47
     parent = "results"
 
-[[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 50
+  [[main]]
+    name = "Talks"
+    url = "#talks"
+    weight = 50
+    parent = "results"
+
+  [[main]]
+    name = "Publications"
+    url = "#publications"
+    weight = 55
+    parent = "results"
 
 [[main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 55
-
-[[main]]
-  name = "Contact"
-  url = "#contact"
+  name = "About"
+  url = "#about"
   weight = 60
+  identifier = "about"
+
+  [[main]]
+    name = "Consortium"
+    url = "#consortium"
+    weight = 61
+    parent = "about"
+
+  [[main]]
+    name = "Contact"
+    url = "#contact"
+    weight = 62
+    parent = "about"
 
 [[main]]
   name = "Wiki(Login)"

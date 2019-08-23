@@ -25,7 +25,7 @@ organizations:
   url: "https://ethz.ch/en.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interested in
+bio: Interested in modeling and periodic control of dynamically uncertain systems.
 
 interests:
 - Modelling, simulation, and control

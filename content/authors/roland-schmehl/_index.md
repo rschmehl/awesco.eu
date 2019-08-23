@@ -25,7 +25,7 @@ organizations:
   url: "http://www.tudelft.nl"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Airborne Wind Energy Researcher & Developer.
+bio: Interested in multi-disciplinary research and computational fluid dynamics.
 
 interests:
 - Computational Fluid Dynamics
