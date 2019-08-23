@@ -1,6 +1,6 @@
 ---
 title: Xsens Technologies BV
-summary: Xsens is the leading innovator in 3D motion tracking technology and products. Its sensor fusion technologies enable a seamless interaction between the physical and the digital world in consumer devices and professional applications such as 3D character animation, motion analysis, and industrial control and stabilisation.
+summary: Xsens is a leading innovator of 3D motion capture products based on miniature MEMS inertial sensor technology. Core innovations are multi-sensor data fusion algorithms for seamless interaction between physical and digital worlds.
 authors: ["jeroen-hol"]
 tags:
 - Industry

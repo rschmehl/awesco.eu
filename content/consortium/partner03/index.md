@@ -1,6 +1,6 @@
 ---
 title: Chalmers University of Technology
-summary: Chalmers University of Technology is a major technical university in Scandinavia, host of eight Area of Advance, and the largest recipient of the Energy Initiative in Sweden. It is an international leader with regards to sustainable energy.
+summary: Chalmers is a major technical university in Scandinavia, hosting eight Areas of Advance and is the largest recipient of the Energy Initiative in Sweden. It is an international leader in the field of sustainable energy.
 authors: ["sebastien-gros"]
 tags:
 - Academia
@@ -25,26 +25,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #slides: example
 
-gallery_item:
-- album: TUDelft
-  image: tudelft01.jpg
-  weight: 1
-  caption: Book of Abstract of the Airborne Wind Energy Conference 2011 in Leuven, Belgium
-- album: TUDelft
-  image: tudelft02.jpg
-  weight: 2
-  caption: Book of Abstract of the Airborne Wind Energy Conference 2013 in Berlin, Germany
-- album: TUDelft
-  image: tudelft03.jpg
-  weight: 3
-  caption: Book of Abstract of the Airborne Wind Energy Conference 2015 in Delft, The Netherlands
-- album: TUDelft
-  image: tudelft04.jpg
-  weight: 4
-  caption: Book of Abstract of the Airborne Wind Energy Conference 2017 in Freiburg, Germany
-
 ---
 
-The AWESCO researchers will be hosted between two departments: Signal & System and Power Engineering. They will benefit from the leading expertise at CHAL on Power Systems, and Power Grids, and the latest research on using Optimal Control in the context of Electrical Networks. 
-
-{{< gallery album="TUDelft" height="130px" >}}
+The AWESCO researchers will be hosted between two departments: Signal & System and Power Engineering. They will benefit from the leading expertise at CHAL on Power Systems, and Power Grids, and the latest research on using Optimal Control in the context of Electrical Networks.

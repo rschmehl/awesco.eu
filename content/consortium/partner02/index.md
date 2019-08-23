@@ -1,6 +1,6 @@
 ---
 title: University of Freiburg
-summary: Albert-Ludwigs-Universität Freiburg is among Europe’s top universities, having been home to some of Europe’s greatest minds during almost six centuries of excellence.
+summary: The Albert Ludwig University of Freiburg is among Europe’s top universities, having been home to some of Europe’s greatest minds during almost six centuries of excellence.
 authors: ["moritz-diehl"]
 tags:
 - Academia

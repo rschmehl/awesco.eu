@@ -1,6 +1,6 @@
 ---
 title: EPFL
-summary: The Swiss Federal Institute of Technology Lausanne (EPFL) is Europe’s most cosmopolitan technical university, receiving students, professors and staff from over 120 nationalities. For 2014 – 2015 the three most influential international university rankings list EPFL as number 1 or 2 for Engineering and Technology in continental Europe.
+summary: The Swiss Federal Institute of Technology Lausanne is Europe’s most cosmopolitan technical university. The 2018 QS World University Ranking places EPFL on position 12 in the world across all fields.
 authors: ["colin-jones"]
 tags:
 - Academia

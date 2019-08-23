@@ -1,6 +1,6 @@
 ---
 title: ETH Zurich
-summary: The Swiss Federal Institute of Technology Zurich (ETH Zurich) is one of the world’s leading universities for technology and the natural sciences. It has nearly 18,000 students from over 110 different countries, of whom 3,900 are doctoral students. 21 Nobel Laureates have studied, taught or conducted research at ETH Zurich.
+summary: The Swiss Federal Institute of Technology Zurich is one of the world’s leading universities for technology and the natural sciences. The 2018 QS World University Rankings places EPFL on position 12 in the world across all fields.
 authors: ["roy-smith"]
 tags:
 - Academia
@@ -45,6 +45,6 @@ gallery_item:
 
 ---
 
-The Airborne Wind Energy Group of ETH Zurich is part of the Automatic Control Laboratory (IfA) of the Electrical Engineering Department. Initiated in 2010 through the work of doctoral researcher Aldo Zgraggen Their theoretical work is focused on the modeling, simulation and analysis of deterministic and stochastic hybrid systems. Among the application areas are aircraft management, biological systems, power electronics, mechatronics and vehicle assistance systems. 
+The Airborne Wind Energy Group of ETH Zurich is part of the Automatic Control Laboratory (IfA) of the Electrical Engineering Department. Initiated in 2010 through the work of doctoral researcher Aldo Zgraggen Their theoretical work is focused on the modeling, simulation and analysis of deterministic and stochastic hybrid systems. Among the application areas are aircraft management, biological systems, power electronics, mechatronics and vehicle assistance systems.
 
 {{< gallery album="TUDelft" height="130px" >}}

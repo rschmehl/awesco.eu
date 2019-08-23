@@ -1,6 +1,6 @@
 ---
 title: Enerkíte GmbH
-summary: Enerkíte is a spin-out of Technical University of Berlin and University of Stuttgart with strong experience in wind energy, flight mechanics and flight controls. Established in 2010, the company has developed a 30 kW pumping kite power system using a ram-air wing and used this system in December 2014 to demonstrate 72 hours of autonomous operation.
+summary: Established in 2010, Enerkíte is a spin off from TU Berlin and University of Stuttgart. Aiming first at flexible membrane wing technology, the company is now developing a swept, rigid wing that is controlled by several winches on the ground.
 authors: ["alexander-bormann"]
 tags:
 - Industry

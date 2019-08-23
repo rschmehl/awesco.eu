@@ -1,6 +1,6 @@
 ---
 title: Skysails GmbH
-summary: SkySails GmbH is the market and technology leader in the field of automated towing kite systems. Since 2001 SkySails has developed propulsion kites of up to 400 m² wing surface area for ship propulsion and energy production purposes.
+summary: Skysails GmbH is the market and technology leader in the field of automated towing kite systems. Since 2001, the company has developed propulsion kites of up to 400 m² wing surface area for ship propulsion and energy production purposes.
 authors: ["stephan-brabeck"]
 tags:
 - Industry

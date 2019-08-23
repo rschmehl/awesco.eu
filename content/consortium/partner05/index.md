@@ -1,6 +1,7 @@
 ---
 title: Technical University of Munich
-summary: The Technical University of Munich (TUM) is one of the highest ranked universities of Germany (in particular in the engineering disciplines, e.g. TUM is ranked 26th in the international CHE-ranking) and, with about 36,000 students, TUM is one of the largest technical universities in Germany.
+summary: The TU Munich (TUM) was ranked as the best German university by the 2020 QS World University Ranking.  It is one of the largest technical universities of the country and one of the five best technical universities in Europe.
+
 authors: ["christoph-m-hackl"]
 tags:
 - Academia

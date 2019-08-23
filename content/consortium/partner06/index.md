@@ -1,6 +1,6 @@
 ---
 title: University of Limerick
-summary: Established in 1972, the University of Limerick is an independent, internationally focussed university with over 13,000 students and 1,500 staff. Its Mobile Marine Robotics Research Centre (MMRRC) is focused on the application and development of marine robotics and is further engaged in research and development in renewable energy systems.
+summary: Established in 1972, the University of Limerick is an independent, internationally focussed university with over 13,000 students and 1,500 staff. It was the first university established since Irish independence.
 authors: ["daniel-toal"]
 tags:
 - Academia

@@ -1,6 +1,6 @@
 ---
-title: Delft University of Technology (TU Delft)
-summary: Delft University of Technology is the oldest and largest technical university of the Netherlands. Its Faculty of Aerospace Engineering is one of the largest in Europe and is home to the Kite Power Research Group. As pioneer in Airborne Wind Energy this group has developed a 20 kW pumping kite power system, demonstrating automatic operation in 2012.
+title: Delft University of Technology
+summary: The TU Delft is the oldest and largest technical university of the Netherlands and is among the top 20 universities for engineering and technology according to the 2019 QS World University Rankings. It is the highest ranked university of the country.
 authors: ["roland-schmehl"]
 tags:
 - Academia
