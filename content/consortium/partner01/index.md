@@ -1,5 +1,5 @@
 ---
-title: Delft University of Technology
+title: Delft University of Technology (TU Delft)
 summary: Delft University of Technology is the oldest and largest technical university of the Netherlands. Its Faculty of Aerospace Engineering is one of the largest in Europe and is home to the Kite Power Research Group. As pioneer in Airborne Wind Energy this group has developed a 20 kW pumping kite power system, demonstrating automatic operation in 2012.
 authors: ["roland-schmehl"]
 tags:
@@ -29,19 +29,19 @@ gallery_item:
 - album: TUDelft
   image: tudelft01.jpg
   weight: 1
-  caption: Book of Abstract of the Airborne Wind Energy Conference 2011 in Leuven, Belgium
+  caption: Team
 - album: TUDelft
   image: tudelft02.jpg
   weight: 2
-  caption: Book of Abstract of the Airborne Wind Energy Conference 2013 in Berlin, Germany
+  caption: Aula and campus of Delft University of Technology
 - album: TUDelft
   image: tudelft03.jpg
   weight: 3
-  caption: Book of Abstract of the Airborne Wind Energy Conference 2015 in Delft, The Netherlands
+  caption: Launching a 25 m2 kite at the test center Valkenburg
 - album: TUDelft
   image: tudelft04.jpg
   weight: 4
-  caption: Book of Abstract of the Airborne Wind Energy Conference 2017 in Freiburg, Germany
+  caption: Flying a 25 m2 kite at the test center Valkenburg
 
 ---
 

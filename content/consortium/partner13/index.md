@@ -1,11 +1,11 @@
 ---
-title: Technical University of Munich
-summary: The Technical University of Munich (TUM) is one of the highest ranked universities of Germany (in particular in the engineering disciplines, e.g. TUM is ranked 26th in the international CHE-ranking) and, with about 36,000 students, TUM is one of the largest technical universities in Germany.
+title: Munich University of Applied Sciences
+summary: The Munich University of Applied Sciences, was founded in 1971 and is the largest University of Applied Sciences in Bavaria with about 17,800 students.
 authors: ["christoph-m-hackl"]
 tags:
 - Academia
-date: "2015-01-01T00:00:00Z"
-weight: 5
+date: "2018-07-01T00:00:00Z"
+weight: 13
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -45,6 +45,6 @@ gallery_item:
 
 ---
 
-The AWESCO-PhD student will be hosted at Institute for Electrical Drive Systems and Power Electronics (EDSPE) at TUM. He/She will have full access to scientific staff and research infrastructure of the EDSPE and the Control of Renewable Energy Systems (CRES) group at TUM Munich School of Engineering. EDSPE and CRES collaborate closely in the fields of renewable energy systems (such as photovoltaics, wind energy as well as energy efficiency of electrical drives) and sensorless control of electrical drive systems. Currently, EDSPE and CRES comprise 12 PhD candidates and 8 graduate researchers in the field of renewable energy systems.
+The Laboratory for Mechatronic and Renewable Energy Systems (LMRES) was founded in 2018 by Prof. Dr. [Christoph Hackl](/authors/christoph-m-hackl). The research of the laboratory focuses on energy efficient, optimal and robust control strategies for renewable energy systems. Its interdisciplinary expertise is based on the combination of engineering disciplines like electrical drives, power electronics and mechatronics and the mathematical discipline systems and control theory. At the moment, we work on (a) modeling of micro-grids (four-wire system) and (b) modeling and control of the electrical components of airborne wind energy systems, biogas power plants, small-scale and large-scale wind turbine systems, geothermal power plants and electric vehicles
 
 {{< gallery album="TUDelft" height="130px" >}}
