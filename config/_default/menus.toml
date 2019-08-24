@@ -97,15 +97,21 @@
   identifier = "about"
 
   [[main]]
+    name = "Summary"
+    url = "#summary"
+    weight = 61
+    parent = "about"
+
+  [[main]]
     name = "Consortium"
     url = "#consortium"
-    weight = 61
+    weight = 62
     parent = "about"
 
   [[main]]
     name = "Contact"
     url = "#contact"
-    weight = 62
+    weight = 63
     parent = "about"
 
 [[main]]
