@@ -11,9 +11,9 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="2000"
-   height="500"
-   viewBox="80 0 2000 400"
+   width="100%"
+   height="100%"
+   viewBox="80 0 800 500"
    zoom="1.0"
    id="svg2"
    inkscape:version="0.48.5 r10040"
@@ -897,7 +897,7 @@ function hide(evt, node)
        id="circle376-8"
        onmouseover="show(evt, 'layer8');style.fill='#c50000';style.cursor='pointer'"
        onmouseout="hide(evt, 'layer8');style.fill='#ff0000'"
-       onclick="window.open('/consortium/partner06/', '_top');style.fill='#ff0000';hide(evt, 'layer8')"
+       onclick="window.open('/consortium/participant06/', '_top');style.fill='#ff0000';hide(evt, 'layer8')"
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 236.58498,373.56775 c 0,4.9314 -3.99768,8.92908 -8.92908,8.92908 -4.9314,0 -8.92909,-3.99768 -8.92909,-8.92908 0,-4.9314 3.99769,-8.92909 8.92909,-8.92909 4.9314,0 8.92908,3.99769 8.92908,8.92909 z">
       <title
@@ -914,7 +914,7 @@ function hide(evt, node)
        id="circle376-8-4-8-9"
        onmouseover="show(evt, 'layer14');style.fill='#c50000';style.cursor='pointer'"
        onmouseout="hide(evt, 'layer14');style.fill='#ff0000'"
-       onclick="window.open('/consortium/partner12/', '_top');style.fill='#ff0000';hide(evt, 'layer14')"
+       onclick="window.open('/consortium/participant12/', '_top');style.fill='#ff0000';hide(evt, 'layer14')"
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 236.58498,373.56775 c 0,4.9314 -3.99768,8.92908 -8.92908,8.92908 -4.9314,0 -8.92909,-3.99768 -8.92909,-8.92908 0,-4.9314 3.99769,-8.92909 8.92909,-8.92909 4.9314,0 8.92908,3.99769 8.92908,8.92909 z">
       <title
@@ -928,7 +928,7 @@ function hide(evt, node)
        id="circle376-8-4-8-7"
        onmouseover="show(evt, 'layer6');style.fill='#c50000';style.cursor='pointer'"
        onmouseout="hide(evt, 'layer6');style.fill='#ff0000'"
-       onclick="window.open('/consortium/partner04/', '_top');style.fill='#ff0000';hide(evt, 'layer6')"
+       onclick="window.open('/consortium/participant04/', '_top');style.fill='#ff0000';hide(evt, 'layer6')"
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 236.58498,373.56775 c 0,4.9314 -3.99768,8.92908 -8.92908,8.92908 -4.9314,0 -8.92909,-3.99768 -8.92909,-8.92908 0,-4.9314 3.99769,-8.92909 8.92909,-8.92909 4.9314,0 8.92908,3.99769 8.92908,8.92909 z">
       <title
@@ -942,7 +942,7 @@ function hide(evt, node)
        id="circle376-8-4-8-2"
        onmouseover="show(evt, 'layer10');style.fill='#c50000';style.cursor='pointer'"
        onmouseout="hide(evt, 'layer10');style.fill='#ff0000'"
-       onclick="window.open('/consortium/partner08/', '_top');style.fill='#ff0000';hide(evt, 'layer10')"
+       onclick="window.open('/consortium/participant08/', '_top');style.fill='#ff0000';hide(evt, 'layer10')"
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 236.58498,373.56775 c 0,4.9314 -3.99768,8.92908 -8.92908,8.92908 -4.9314,0 -8.92909,-3.99768 -8.92909,-8.92908 0,-4.9314 3.99769,-8.92909 8.92909,-8.92909 4.9314,0 8.92908,3.99769 8.92908,8.92909 z">
       <title
@@ -956,7 +956,7 @@ function hide(evt, node)
        id="circle376-8-4-8"
        onmouseover="show(evt, 'layer13');style.fill='#c50000';style.cursor='pointer'"
        onmouseout="hide(evt, 'layer13');style.fill='#ff0000'"
-       onclick="window.open('/consortium/partner11/', '_top');style.fill='#ff0000';hide(evt, 'layer13')"
+       onclick="window.open('/consortium/participant11/', '_top');style.fill='#ff0000';hide(evt, 'layer13')"
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 236.58498,373.56775 c 0,4.9314 -3.99768,8.92908 -8.92908,8.92908 -4.9314,0 -8.92909,-3.99768 -8.92909,-8.92908 0,-4.9314 3.99769,-8.92909 8.92909,-8.92909 4.9314,0 8.92908,3.99769 8.92908,8.92909 z">
       <title
@@ -970,7 +970,7 @@ function hide(evt, node)
        id="circle376-8-4-8-2-4"
        onmouseover="show(evt, 'layer12');style.fill='#c50000';style.cursor='pointer'"
        onmouseout="hide(evt, 'layer12');style.fill='#ff0000'"
-       onclick="window.open('/consortium/partner10/', '_top');style.fill='#ff0000';hide(evt, 'layer12')"
+       onclick="window.open('/consortium/participant10/', '_top');style.fill='#ff0000';hide(evt, 'layer12')"
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 236.58498,373.56775 c 0,4.9314 -3.99768,8.92908 -8.92908,8.92908 -4.9314,0 -8.92909,-3.99768 -8.92909,-8.92908 0,-4.9314 3.99769,-8.92909 8.92909,-8.92909 4.9314,0 8.92908,3.99769 8.92908,8.92909 z">
       <title
@@ -984,7 +984,7 @@ function hide(evt, node)
        id="circle376-8-4-8-7-9"
        onmouseover="show(evt, 'layer9');style.fill='#c50000';style.cursor='pointer'"
        onmouseout="hide(evt, 'layer9');style.fill='#ff0000'"
-       onclick="window.open('/consortium/partner07/', '_top');style.fill='#ff0000';hide(evt, 'layer9')"
+       onclick="window.open('/consortium/participant07/', '_top');style.fill='#ff0000';hide(evt, 'layer9')"
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 236.58498,373.56775 c 0,4.9314 -3.99768,8.92908 -8.92908,8.92908 -4.9314,0 -8.92909,-3.99768 -8.92909,-8.92908 0,-4.9314 3.99769,-8.92909 8.92909,-8.92909 4.9314,0 8.92908,3.99769 8.92908,8.92909 z">
       <title
@@ -998,7 +998,7 @@ function hide(evt, node)
        id="circle376-8-4-8-7-3"
        onmouseover="show(evt, 'layer2');style.fill='#c50000';style.cursor='pointer'"
        onmouseout="hide(evt, 'layer2');style.fill='#ff0000'"
-       onclick="window.open('/consortium/partner01/', '_top');style.fill='#ff0000';hide(evt, 'layer2')"
+       onclick="window.open('/consortium/participant01/', '_top');style.fill='#ff0000';hide(evt, 'layer2')"
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 236.58498,373.56775 c 0,4.9314 -3.99768,8.92908 -8.92908,8.92908 -4.9314,0 -8.92909,-3.99768 -8.92909,-8.92908 0,-4.9314 3.99769,-8.92909 8.92909,-8.92909 4.9314,0 8.92908,3.99769 8.92908,8.92909 z">
       <title
@@ -1012,7 +1012,7 @@ function hide(evt, node)
        id="circle376-8-4-8-7-1"
        onmouseover="show(evt, 'layer11');style.fill='#c50000';style.cursor='pointer'"
        onmouseout="hide(evt, 'layer11');style.fill='#ff0000'"
-       onclick="window.open('/consortium/partner09/', '_top');style.fill='#ff0000';hide(evt, 'layer11')"
+       onclick="window.open('/consortium/participant09/', '_top');style.fill='#ff0000';hide(evt, 'layer11')"
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 236.58498,373.56775 c 0,4.9314 -3.99768,8.92908 -8.92908,8.92908 -4.9314,0 -8.92909,-3.99768 -8.92909,-8.92908 0,-4.9314 3.99769,-8.92909 8.92909,-8.92909 4.9314,0 8.92908,3.99769 8.92908,8.92909 z">
       <title
@@ -1026,7 +1026,7 @@ function hide(evt, node)
        id="circle376-8-4-8-7-6"
        onmouseover="show(evt, 'layer3');style.fill='#c50000';style.cursor='pointer'"
        onmouseout="hide(evt, 'layer3');style.fill='#ff0000'"
-       onclick="window.open('/consortium/partner02/', '_top');style.fill='#ff0000';hide(evt, 'layer3')"
+       onclick="window.open('/consortium/participant02/', '_top');style.fill='#ff0000';hide(evt, 'layer3')"
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 236.58498,373.56775 c 0,4.9314 -3.99768,8.92908 -8.92908,8.92908 -4.9314,0 -8.92909,-3.99768 -8.92909,-8.92908 0,-4.9314 3.99769,-8.92909 8.92909,-8.92909 4.9314,0 8.92908,3.99769 8.92908,8.92909 z">
       <title
@@ -1040,7 +1040,7 @@ function hide(evt, node)
        id="circle376-8-4-8-2-8"
        onmouseover="show(evt, 'layer5');style.fill='#c50000';style.cursor='pointer'"
        onmouseout="hide(evt, 'layer5');style.fill='#ff0000'"
-       onclick="window.open('/consortium/partner03/', '_top');style.fill='#ff0000';hide(evt, 'layer5')"
+       onclick="window.open('/consortium/participant03/', '_top');style.fill='#ff0000';hide(evt, 'layer5')"
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 236.58498,373.56775 c 0,4.9314 -3.99768,8.92908 -8.92908,8.92908 -4.9314,0 -8.92909,-3.99768 -8.92909,-8.92908 0,-4.9314 3.99769,-8.92909 8.92909,-8.92909 4.9314,0 8.92908,3.99769 8.92908,8.92909 z">
       <title
@@ -1054,7 +1054,7 @@ function hide(evt, node)
        id="circle376-8-4-8-2-1"
        onmouseover="show(evt, 'layer7');style.fill='#c50000';style.cursor='pointer'"
        onmouseout="hide(evt, 'layer7');style.fill='#ff0000'"
-       onclick="window.open('/consortium/partner05/', '_top');style.fill='#ff0000';hide(evt, 'layer7')"
+       onclick="window.open('/consortium/participant05/', '_top');style.fill='#ff0000';hide(evt, 'layer7')"
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 236.58498,373.56775 c 0,4.9314 -3.99768,8.92908 -8.92908,8.92908 -4.9314,0 -8.92909,-3.99768 -8.92909,-8.92908 0,-4.9314 3.99769,-8.92909 8.92909,-8.92909 4.9314,0 8.92908,3.99769 8.92908,8.92909 z">
       <title
@@ -1068,7 +1068,7 @@ function hide(evt, node)
        id="circle376-8-4-8-2-9"
        onmouseover="show(evt, 'layer20');style.fill='#c50000';style.cursor='pointer'"
        onmouseout="hide(evt, 'layer20');style.fill='#ff0000'"
-       onclick="window.open('/consortium/partner13/', '_top');style.fill='#ff0000';hide(evt, 'layer20')"
+       onclick="window.open('/consortium/participant13/', '_top');style.fill='#ff0000';hide(evt, 'layer20')"
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 236.58498,373.56775 c 0,4.9314 -3.99768,8.92908 -8.92908,8.92908 -4.9314,0 -8.92909,-3.99768 -8.92909,-8.92908 0,-4.9314 3.99769,-8.92909 8.92909,-8.92909 4.9314,0 8.92908,3.99769 8.92908,8.92909 z">
       <title

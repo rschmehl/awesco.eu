@@ -75,6 +75,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 
+#{{< network_map >}}
 +++
 
 {{< svg_inline "/consortium/map.svg" >}}
