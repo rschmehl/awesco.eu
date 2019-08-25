@@ -89,6 +89,11 @@
     url = "#publications"
     weight = 55
     parent = "results"
+  [[main]]
+    name = "Media"
+    url = "#media"
+    weight = 56
+    parent = "media"
 
 [[main]]
   name = "About"
@@ -98,7 +103,7 @@
 
   [[main]]
     name = "Summary"
-    url = "#summary"
+    url = "/summary"
     weight = 61
     parent = "about"
 
