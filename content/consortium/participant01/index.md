@@ -1,6 +1,6 @@
 ---
 title: Delft University of Technology
-summary: The TU Delft is the oldest and largest technical university of the Netherlands and is among the top 20 universities for engineering and technology according to the 2019 QS World University Rankings. It is the highest ranked university of the country.
+summary: The TU Delft is the oldest and largest technical university of the Netherlands. According to the 2019 QS World University Rankings it is among the top 20 universities for engineering and technology. It is the highest ranked university of the country.
 authors: [""]
 tags:
 - Academia

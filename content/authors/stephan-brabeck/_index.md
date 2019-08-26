@@ -17,8 +17,6 @@ role: CEO and Co-Founder
 
 # Organizations/Affiliations
 organizations:
-- name: Stephan Brabeck Consulting
-  url: "https://consulting.brabeck.eu/"
 - name: Skysails Group GmbH
   url: "https://www.skysails.info/en"
 
@@ -44,6 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:stephan.brabeck@skysails.de'  # For a direct email link, use "mailto:test@example.org".
+- icon: user
+  icon_pack: fas
+  link: https://consulting.brabeck.eu/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  

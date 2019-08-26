@@ -21,7 +21,7 @@ organizations:
   url: "http://www.kiteswarms.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is focused on airborne wind energy resource assessment and performance modeling.
+bio: Interested in design and commercialization of airborne wind energy.
 
 interests:
 - Collaborative Design
@@ -68,4 +68,4 @@ user_groups:
 # (1) One sentence about your function (for academic staff) and then another sentence about your role(s) within the training network
 # (2) Research interests, achievements, and personal interests (mainly for researchers)
 ---
-Reinhart Paelinck is CEO, Co-Founder and Head of Product Development at Kiteswarms Ltd and Kiteswarms GmbH, developing a multi-drone AWE system. The German branch of the company, Kiteswarms GmbH, is closely collaborating with the research group of [Moritz Diehl](/authors/moritz-diehl/) at the University of Freiburg. Prior to the founding of the company in April 2017 he was working for [Flysurfer Kiteboarding](https://flysurfer.com) where he was responsible for several development projects, such as unconventional wing designs and control- and safety systems. He co-organized the [3rd Airborne Wind Energy Conference (AWEC) 2011](http://www.awec2011.com/) in Leuven and co-edited the [book of abstracts](https://doi.org/10.4233/uuid:54a23dff-74f9-4007-b1d6-e92e0c458491). He investigated airborne wind energy for his [graduation project](https://cdn.syscop.de/publications/Paelinck2010.pdf) at the Artesis Hogeschool Antwerpen.
+Reinhart Paelinck is CEO, Co-Founder and Head of Product Development at Kiteswarms Ltd and Kiteswarms GmbH, developing a multi-drone AWE system. The German branch of the company, Kiteswarms GmbH, is closely collaborating with the research group of [Moritz Diehl](/authors/moritz-diehl/) at the University of Freiburg. Prior to the founding of the company in April 2017 he was working for [Flysurfer Kiteboarding](https://flysurfer.com) where he was responsible for several development projects, such as unconventional wing designs and control- and safety systems. One of the development highlights was the [PEAK2](https://vimeo.com/114281542) single skin kite. He co-organized the [3rd Airborne Wind Energy Conference (AWEC) 2011](http://www.awec2011.com/) in Leuven and co-edited the [book of abstracts](https://doi.org/10.4233/uuid:54a23dff-74f9-4007-b1d6-e92e0c458491). He investigated airborne wind energy for his [graduation project](https://cdn.syscop.de/publications/Paelinck2010.pdf) at the Artesis Hogeschool Antwerpen.

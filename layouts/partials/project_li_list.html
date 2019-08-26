@@ -1,0 +1,15 @@
+{{ $item := .item }}
+{{ $widget := .widget }}
+{{ $link := .link }}
+{{ $target := .target }}
+{{ $js_tag_classes := delimit (apply (apply $item.Params.tags "replace" "." " " "-") "printf" "js-id-%s" ".") " " }}
+
+<div class="col-lg-12 project-item isotope-item {{ $js_tag_classes | safeHTMLAttr }}" itemscope itemtype="http://schema.org/CreativeWork">
+
+  <h3 class="article-title" style="font-size: x-large;">
+    <i class="fas fa-university pub-icon" aria-hidden="true"></i>
+    <a href="{{ $link }}" {{ $target | safeHTMLAttr }} itemprop="url">{{ $item.Title | markdownify | emojify }}</a>
+  </h3>
+
+  {{ with $item.Params.summary }}<p class="project-summary">{{ . | markdownify | emojify }}</p>{{ end }}
+</div>

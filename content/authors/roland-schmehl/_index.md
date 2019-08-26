@@ -93,6 +93,10 @@ social:
 #- icon: cv
 #  icon_pack: ai
 #  link: cv-roland-schmehl.pdf
+# Link to user home page
+#- icon: user
+#  icon_pack: fas
+#  link: https://xs4all.nl/~rschmehl
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
