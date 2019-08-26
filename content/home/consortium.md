@@ -79,3 +79,4 @@ subtitle = "Funded Beneficiaries"
 +++
 
 {{< svg_inline "/consortium/map.svg" >}}
+<div style="text-align:right;position:relative;top:-25px;"><small>An illustration of the complete worldwide AWE R&D landscape is available [here](/awe-explained/#gallery-4).</small></div>

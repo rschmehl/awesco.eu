@@ -29,7 +29,7 @@ organizations:
   url: "http://www.chalmers.se"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in airborne wind energy, optimal control, and reinforcement learning
+bio: Interested in airborne wind energy, optimal control, and reinforcement learning
 
 interests:
 - Automatic Control
