@@ -27,3 +27,5 @@ url_video: ""
 ---
 
 The AWESCO researchers will be hosted in IMTEK, one of the world’s largest academic institutions in the field, with 21 professors, over 370 research, teaching, and technical staff, and 550 microsystems engineering students. ALU-FR is member of the League of European Research Universities (LERU). A hardware platform developed for performing flight tests is available.
+
+[Moritz Diehl - Höhenwindenergie aus Freiburg - Uni Freiburg](https://www.youtube.com/watch?v=vSkxbEMo6U4)

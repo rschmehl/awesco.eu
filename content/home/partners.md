@@ -3,14 +3,14 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+weight = 81  # Order that this section will appear.
 
-title = "Consortium"
-subtitle = "Funded Beneficiaries"
+title = "Partners"
+subtitle = "Secondments and Collaboration"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "consortium"
+  page_type = "partners"
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -75,7 +75,4 @@ subtitle = "Funded Beneficiaries"
  # CSS class.
  css_class = ""
 
-#{{< network_map >}}
 +++
-
-{{< svg_inline "/consortium/map.svg" >}}

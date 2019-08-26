@@ -21,7 +21,7 @@ organizations:
   url: "https://www.skysails.info/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interested in use of kites for ship traction.
+bio: Interested in use of kites for ship traction and electricity generation.
 
 interests:
 - Business Development

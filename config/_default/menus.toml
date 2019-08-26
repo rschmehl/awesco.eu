@@ -90,10 +90,10 @@
     weight = 55
     parent = "results"
   [[main]]
-    name = "Media"
-    url = "#media"
+    name = "In the Media"
+    url = "/in-the-media"
     weight = 56
-    parent = "media"
+    parent = "results"
 
 [[main]]
   name = "About"
@@ -114,9 +114,15 @@
     parent = "about"
 
   [[main]]
+    name = "Partners"
+    url = "#partners"
+    weight = 63
+    parent = "about"
+
+  [[main]]
     name = "Contact"
     url = "#contact"
-    weight = 63
+    weight = 68
     parent = "about"
 
 [[main]]

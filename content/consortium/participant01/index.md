@@ -1,10 +1,10 @@
 ---
 title: Delft University of Technology
 summary: The TU Delft is the oldest and largest technical university of the Netherlands. According to the 2019 QS World University Rankings it is among the top 20 universities for engineering and technology. It is the highest ranked university of the country.
-authors: [""]
+authors: ["roland-schmehl"]
 tags:
 - Academia
-date: ""
+date: "2015-01-01T00:00:00Z"
 weight: 1
 
 # Optional external URL for project (replaces project detail page).
@@ -44,6 +44,9 @@ gallery_item:
   caption: Flying a 25 m2 kite at the test center Valkenburg
 
 ---
+
+The team at TU Delft are Marie-Skłodowska-Curie Fellows [Mikko Folkersma](/authors/mikko-folkersma), [Sebastian Rapp](/authors/sebastian-rapp), [Ashwin Candade](/authors/ashwin-candade) (since 2019) and [Paul Thedens](/authors/paul-thedens) (working at associated partner [Skysails]), associated PhD researcher [Mark Schelbergen](/authors/mark-schelbergen) and their advisers Dr. [Roland Schmehl](/authors/roland-schmehl) and Dr. [Axelle Viré](/authors/axelle-vire). All are
+
 
 The AWESCO researchers will be hosted in the section of Wind Energy of the Faculty of Aerospace Engineering and will have full access to scientific staff and research infrastructure. This will include the wind tunnels of the faculty, of which the largest, the Open Jet Facility, can fit scaled-down kite of 2 m span wing span. Custom-developed pressure measurement strips for experimental analysis of flexible membrane wings. Computational facilities include a cluster with 1000 cores of 4.5 TB RAM memory (target is 4 GB RAM/core), mostly connected through infiniband. The Kite Power Research Group currently comprises 3 PhD researchers and 14 graduate researchers. Since January 2010, the team is operating a 20 kW prototype system which is equipped with a 25 m² kite and a complete sensor platform to support the parallel research activities. Two test sites, the former airfield Valkenburg and the Maasvlakte2 harbour area, can be used through rental agreements. The high tech entrepreneurs centre [YES!Delft](https://www.yesdelft.com/) is available to support commercial spin-off activities.
 
