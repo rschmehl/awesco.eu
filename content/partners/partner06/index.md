@@ -1,10 +1,10 @@
 ---
-title: Kiteswarms Ltd and Kiteswarms GmbH
+title: Kiteswarms Ltd
 summary: A spin-off from the University of Freiburg.
 authors: ["reinhart-paelinck"]
 tags:
 - Industry
-date: "2015-01-01T00:00:00Z"
+date: "2019-07-01T00:00:00Z"
 weight: 6
 
 # Optional external URL for project (replaces project detail page).

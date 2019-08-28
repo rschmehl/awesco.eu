@@ -4,7 +4,7 @@ summary: The University of Victoria (UVic) is a public comprehensive research un
 authors: ["curran-crawford"]
 tags:
 - Academia
-date: "2015-01-01T00:00:00Z"
+date: "2019-07-01T00:00:00Z"
 weight: 2
 
 # Optional external URL for project (replaces project detail page).

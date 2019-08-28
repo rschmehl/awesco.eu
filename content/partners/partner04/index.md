@@ -4,7 +4,7 @@ summary: Originally designed for ship traction, the company is exploring the use
 authors: ["stephan-brabeck"]
 tags:
 - Industry
-date: "2015-01-01T00:00:00Z"
+date: "2019-07-01T00:00:00Z"
 weight: 4
 
 # Optional external URL for project (replaces project detail page).

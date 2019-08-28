@@ -4,7 +4,7 @@ summary: Makani is a leading industrial developer of airborne wind energy.
 authors: ["fort-felker"]
 tags:
 - Industry
-date: "2015-01-01T00:00:00Z"
+date: "2019-07-01T00:00:00Z"
 weight: 1
 
 # Optional external URL for project (replaces project detail page).
