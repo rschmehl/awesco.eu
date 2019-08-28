@@ -17,7 +17,7 @@ role: PhD Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Automatic Control Group
+- name: Automatic Control Research Group
   url: "https://www.chalmers.se/en/departments/e2/research/systems-and-control/Pages/Automatic-control.aspx"
 - name: Department of Electrical Engineering
   url: "https://www.chalmers.se/en/departments/e2/Pages/default.aspx"

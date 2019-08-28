@@ -4,7 +4,7 @@ summary: The Swiss Federal Institute of Technology Zurich is one of the world’
 authors: ["roy-smith"]
 tags:
 - Academia
-date: "2015-01-01T00:00:00Z"
+date: "2019-06-30T00:00:00Z"
 weight: 11
 
 # Optional external URL for project (replaces project detail page).
@@ -25,26 +25,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #slides: example
 
-gallery_item:
-- album: TUDelft
-  image: tudelft01.jpg
-  weight: 1
-  caption: Book of Abstract of the Airborne Wind Energy Conference 2011 in Leuven, Belgium
-- album: TUDelft
-  image: tudelft02.jpg
-  weight: 2
-  caption: Book of Abstract of the Airborne Wind Energy Conference 2013 in Berlin, Germany
-- album: TUDelft
-  image: tudelft03.jpg
-  weight: 3
-  caption: Book of Abstract of the Airborne Wind Energy Conference 2015 in Delft, The Netherlands
-- album: TUDelft
-  image: tudelft04.jpg
-  weight: 4
-  caption: Book of Abstract of the Airborne Wind Energy Conference 2017 in Freiburg, Germany
-
 ---
 
 The Airborne Wind Energy Group of ETH Zurich is part of the Automatic Control Laboratory (IfA) of the Electrical Engineering Department. Initiated in 2010 through the work of doctoral researcher Aldo Zgraggen Their theoretical work is focused on the modeling, simulation and analysis of deterministic and stochastic hybrid systems. Among the application areas are aircraft management, biological systems, power electronics, mechatronics and vehicle assistance systems.
-
-{{< gallery album="TUDelft" height="130px" >}}

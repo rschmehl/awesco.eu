@@ -4,7 +4,7 @@ summary: The University of Leuven has been a center of learning for nearly six c
 authors: ["johan-meyers"]
 tags:
 - Academia
-date: "2015-01-01T00:00:00Z"
+date: "2019-06-30T00:00:00Z"
 weight: 4
 
 # Optional external URL for project (replaces project detail page).
