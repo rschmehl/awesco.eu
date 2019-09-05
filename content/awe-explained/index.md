@@ -7,7 +7,7 @@ authors:
 tags:
 - Airborne Wind Energy
 - Working Principles
-- Technological Challenges 
+- Technological Challenges
 - Historical Perspective
 - Industrial Development
 categories: []
@@ -289,7 +289,7 @@ The largest commercial prototype in operation is the [Makani M600](https://makan
 
 {{< gallery album="Makani" height="85px" >}}
 
-Already early in the development, the company started the [approval process with the FAA]((https://www.regulations.gov/docket?D=FAA-2011-1279)). Following testing in <a data-fancybox href="https://www.youtube.com/watch?v=CKFlMDUHtLg">California</a> and on the island of <a data-fancybox href="https://www.youtube.com/watch?v=3FapxQuH7ns">Hawaii</a>, Makani has partnered with Shell to explore [offshore operation in Norway](https://spectrum.ieee.org/energywise/energy/renewables/alphabets-moonshot-wind-kites-to-fly-offshore).[^23]
+Already early in the development, the company started the [approval process with the FAA](https://www.regulations.gov/docket?D=FAA-2011-1279). Following testing in <a data-fancybox href="https://www.youtube.com/watch?v=CKFlMDUHtLg">California</a> and on the island of <a data-fancybox href="https://www.youtube.com/watch?v=3FapxQuH7ns">Hawaii</a>, Makani has partnered with Shell to explore [offshore operation in Norway](https://spectrum.ieee.org/energywise/energy/renewables/alphabets-moonshot-wind-kites-to-fly-offshore).[^23]
 [^23]: Arvid Nesse: "Application for establishment of temporary aviation obstacles". Maritime Energy Test Centre (METCentre), Karmøy, Norway, 15 October 2018. {{< pdf_button url="https://luftfartstilsynet.no/globalassets/dokumenter/horinger/2018/november/151018-application-caa.pdf" >}}
 
 <p>

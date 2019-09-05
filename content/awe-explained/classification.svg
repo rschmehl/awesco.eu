@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.96568531"
-     inkscape:cx="712.21213"
-     inkscape:cy="132.58615"
+     inkscape:zoom="1.5359288"
+     inkscape:cx="992.52179"
+     inkscape:cy="383.68358"
      inkscape:document-units="px"
-     inkscape:current-layer="g1399"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      fit-margin-top="0"
@@ -554,13 +554,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.11066628px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       x="987.34375"
-       y="297.00076"
+       x="987.48987"
+       y="315.86395"
        id="text2339"><tspan
          sodipodi:role="line"
          id="tspan2337"
-         x="987.34375"
-         y="297.00076">Windswept</tspan></text>
+         x="987.48987"
+         y="315.86395">someAWE</tspan></text>
     <rect
        y="241.87032"
        x="1337.7449"
@@ -680,14 +680,14 @@
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.25053334;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path2306-7-6-3-2-0-8-0-9"
        sodipodi:type="arc"
-       sodipodi:cx="968.00336"
-       sodipodi:cy="286.28195"
+       sodipodi:cx="968.14948"
+       sodipodi:cy="305.14514"
        sodipodi:rx="10.19894"
        sodipodi:ry="10.19894"
        sodipodi:start="3.132674"
        sodipodi:end="3.131941"
        sodipodi:open="true"
-       d="m 957.80482,286.37291 a 10.19894,10.19894 0 0 1 10.10571,-10.28948 10.19894,10.19894 0 0 1 10.29133,10.10382 10.19894,10.19894 0 0 1 -10.10194,10.29319 10.19894,10.19894 0 0 1 -10.29503,-10.10005" />
+       d="m 957.95094,305.2361 a 10.19894,10.19894 0 0 1 10.10571,-10.28948 10.19894,10.19894 0 0 1 10.29133,10.10382 10.19894,10.19894 0 0 1 -10.10194,10.29318 10.19894,10.19894 0 0 1 -10.29503,-10.10004" />
     <g
        id="g2683"
        transform="translate(-60.027571,399.4422)">
@@ -1091,6 +1091,28 @@
        sodipodi:end="3.131941"
        sodipodi:open="true"
        d="m 957.92195,167.19808 a 10.19894,10.19894 0 0 1 10.1057,-10.28948 10.19894,10.19894 0 0 1 10.29133,10.10382 10.19894,10.19894 0 0 1 -10.10193,10.29318 10.19894,10.19894 0 0 1 -10.29503,-10.10005" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.11066628px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="987.34375"
+       y="277.00076"
+       id="text2339-3"><tspan
+         sodipodi:role="line"
+         id="tspan2337-6"
+         x="987.34375"
+         y="277.00076">Windswept</tspan></text>
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.25053334;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2306-7-6-3-2-0-8-0-9-1"
+       sodipodi:type="arc"
+       sodipodi:cx="968.00336"
+       sodipodi:cy="266.28195"
+       sodipodi:rx="10.19894"
+       sodipodi:ry="10.19894"
+       sodipodi:start="3.132674"
+       sodipodi:end="3.131941"
+       sodipodi:open="true"
+       d="m 957.80482,266.37291 a 10.19894,10.19894 0 0 1 10.10571,-10.28948 10.19894,10.19894 0 0 1 10.29133,10.10382 10.19894,10.19894 0 0 1 -10.10194,10.29319 10.19894,10.19894 0 0 1 -10.29503,-10.10005" />
   </g>
   <g
      inkscape:groupmode="layer"

@@ -1,7 +1,7 @@
 ---
 title: Kitepower BV
 summary: The spin-off from Delft University of Technology is a leading commercial developer for mobile airborne wind energy systems based on flexible wing technology.
-authors: ["johan-peschel"]
+authors: ["johannes-peschel"]
 tags:
 - Industry
 date: "2019-07-01T00:00:00Z"

@@ -12,6 +12,7 @@ external_link: ""
 
 image:
   focal_point: Smart
+  caption: 'Image credit: [TU Delft](http://www.tudelft.nl/)'
 
 url_code: ""
 url_pdf: ""
