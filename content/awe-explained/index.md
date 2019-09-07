@@ -270,11 +270,11 @@ The presently pursued AWE technologies can be classified according to the follow
 {{< figure_gallery src="classification.svg" >}}
 
 At the top level we differentiate between electricity generation with a fixed ground station, with a moving ground station or directly on the flying device, requiring a conducting tether. Concepts using a moving ground station, such as a horizontal loop track or a carousel-type construction, are technically quite complex and still relatively far from realization. At the next level we distinguish between crosswind flight operation of individual tethered devices, flight operation aligned with the tether, without a significant crosswind component, and rotational flight operation of the entire device. For crosswind and tether-aligned operation, only the pulling forces of the flying devices are transferred to the ground station, while for rotational operation, an additional torque is transferred.
-Most populated is the combination of fixed ground station and crosswind operation. For continuous electricity generation, these systems combine a tether reel-out phase with a reel-in phase, which is denoted as "pumping cycle". A pioneering example for such a system is the kite power system of Delft University of Technology that was first operated in 2010.
+Most populated is the combination of fixed ground station and crosswind operation. For continuous electricity generation, these systems combine a tether reel-out phase with a reel-in phase, which is denoted as "pumping cycle" and not unlike the thermodynamic cycle of a reciprocating engine, only that the energy is generated in the pulling phase and the cycle duration is much longer. A pioneering example for such a system is the kite power system of Delft University of Technology that was first operated in 2010.
 
 {{< figure_gallery src="kite_power_system.jpg" name="pumping-cycle" >}}
 
-This system consists of a inflatable membrane wing which is steered by a suspended, remote controlled cable robot, a single line tether and a ground station. A representative flight path computed with a dynamic system model is illustrated in the following diagram (kite not to scale).[^20]
+This system consists of an inflatable membrane wing which is steered by a suspended, remote controlled cable robot, a single line tether and a ground station. A representative flight path computed with a dynamic system model is illustrated in the following diagram (kite not to scale).[^20]
 [^20]: Uwe Fechner: "A methodology for the design of kite power control systems". PhD dissertation, Delft University of Technology, 2016. {{< doi_button doi="10.4233/uuid:85efaf4c-9dce-4111-bc91-7171b9da4b77" >}}
 
 {{< figure_gallery src="pumping_cycle_tex.svg" name="pumping-cycle" >}}
