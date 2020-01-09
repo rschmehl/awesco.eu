@@ -9,5 +9,7 @@ featured: false
 publication: "*Proceedings of the European Control Conference (ECC)*"
 url_pdf: "https://cdn.syscop.de/publications/DeSchutter2018.pdf"
 doi: "10.23919/ECC.2018.8550383"
+projects:
+- ESR03
 ---
 

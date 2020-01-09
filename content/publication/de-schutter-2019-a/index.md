@@ -9,6 +9,6 @@ featured: false
 publication: "*Proceedings of the IEEE Conference on Decision and Control (CDC)*"
 url_pdf: "https://cdn.syscop.de/publications/DeSchutter2019.pdf"
 projects:
-- ESR3
+- ESR03
 ---
 
