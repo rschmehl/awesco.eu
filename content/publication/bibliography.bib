@@ -1929,4 +1929,30 @@ as kite Euler angles and position, the results are also compared with a second i
   projects = {ESR14},
 }
 
+@Article{Kouzoupis2018b,
+  author   = {Kouzoupis, Dimitris and Klintberg, Emil and Diehl, Moritz and Gros, Sebastien},
+  title    = {A dual Newton strategy for scenario decomposition in robust multistage MPC},
+  journal  = {International Journal of Robust and Nonlinear Control},
+  year     = {2018},
+  volume   = {28},
+  number   = {6},
+  pages    = {2340-2355},
+  abstract = {Summary This paper considers the solution of tree-structured quadratic programs as they may arise in multistage model predictive control. In this context, sampling the uncertainty on prescribed decision points gives rise to different scenarios that are linked to each other via the so-called nonanticipativity constraints. Previous work suggests to dualize these constraints and apply Newton's method on the dual problem to achieve a parallelizable scheme. However, it has been observed that the globalization strategy in such an approach can be expensive. To alleviate this problem, we propose to dualize both the nonanticipativity constraints and the dynamics to obtain a computationally cheap globalization. The dual Newton system is then reformulated into small highly structured linear systems that can be solved in parallel to a large extent. The algorithm is complemented by an open-source software implementation that targets embedded optimal control applications.},
+  date     = {2017-12-21},
+  doi      = {10.1002/rnc.4019},
+}
+
+@Article{Kouzoupis2019a,
+  author   = {Kouzoupis, Dimitris and Klintberg, Emil and Frison, Gianluca and Gros, Sebastien and Diehl, Moritz},
+  title    = {A dual Newton strategy for tree-sparse quadratic programs and its implementation in the open-source software treeQP},
+  journal  = {International Journal of Robust and Nonlinear Control},
+  year     = {2019},
+  volume   = {29},
+  number   = {8},
+  pages    = {2438-2457},
+  abstract = {Summary This paper presents a dual Newton scheme for tree-sparse quadratic programs as they may arise in the field of stochastic programming. Previous work suggests to introduce auxiliary variables to decompose the tree into scenarios and use Newton's method to solve a dual problem formulation. Following a different approach, we apply the same principle directly on the tree-sparse problem, avoiding the increase in dimensionality. In combination with a tailored algorithm for the calculation of the step direction, which is typically the most expensive operation per iteration, the proposed algorithm achieves a linear complexity in the number of nodes and supports parallel processing of the tree branches in a stage-wise fashion. An open-source implementation of the presented dual Newton strategy is publicly available in treeQP, a toolbox of open-source solvers for tree-sparse quadratic programs.},
+  date     = {2019-03-05},
+  doi      = {10.1002/rnc.4503},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
