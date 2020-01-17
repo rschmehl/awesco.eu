@@ -24,7 +24,7 @@ More information can be found in the `README.md` file of the `content/publicatio
 
 Run from home directory (activate VPN)
 
-    rclone sync public/ awesco-new:httpdocs
+    rclone sync public/ awesco:httpdocs
 
 ## Updating
 
