@@ -32,7 +32,9 @@
   title    = {Cascaded Pumping Cycle Control for Rigid Wing Airborne Wind Energy Systems},
   journal  = {Journal of Guidance, Control, and Dynamics},
   year     = {2019},
-  pages    = {1--18},
+  volume   = {42},
+  number   = {11},
+  pages    = {2456--2473},
   abstract = {Airborne wind energy is an emerging technology that uses tethered unmanned aerial vehicles for harvesting wind energy at altitudes higher than conventional towered wind turbines. To make the technology competitive to other renewable energy technologies a reliable control system is required that allows autonomously operating the system throughout all phases of flight. In the present work a cascaded nonlinear control scheme for reliable pumping cycle control of a rigid wing airborne wind energy system is proposed. The high-level control strategy in the form of a state machine as well as the flight controller consisting of path-following guidance and control, attitude, and rate loop is presented along with a winch controller for tether force tracking. A mathematical model for an existing prototype will be derived, and results from a simulation study will be used to demonstrate the robustness of the proposed concept in the presence of turbulence and wind gusts.},
   date     = {2019-06-02},
   doi      = {10.2514/1.G004246},
@@ -1877,13 +1879,14 @@ as kite Euler angles and position, the results are also compared with a second i
 
 @Article{Salma2019,
   author   = {Volkan Salma and Felix Friedl and Roland Schmehl},
-  title    = {Reliability and Safety of Airborne Wind Energy Systems},
+  title    = {Improving Reliability and Safety of Airborne Wind Energy Systems},
   journal  = {Wind Energy},
   year     = {2019},
   volume   = {23},
   number   = {2},
   pages    = {340--356},
   abstract = {Airborne wind energy systems use tethered flying devices to harvest wind energy beyond the height range accessible to tower‐based wind turbines. Current commercial prototypes have reached power ratings of up to several hundred kilowatts, and companies are aiming at long‐term operation in relevant environments. As consequence, system reliability, operational robustness, and safety have become crucially important aspects of system development. In this study, we analyze the reliability and safety of a 100‐kW technology development platform with the objective of achieving continuous automatic operation. We first outline the different components of the kite power system and its operational modes. In the next step, we identify failure modes, their causes, and effects by means of failure mode and effects analysis (FMEA) and fault tree analysis (FTA). Potentially hazardous situations and mechanisms which can render the system nonoperational are identified, and mitigation measures are proposed. We find that the majority of these measures can be performed by a failure detection, isolation, and recovery (FDIR) system for which we present a hierarchical architecture adapted from space industry.},
+  date     = {2019-12-10},
   doi      = {10.1002/we.2433},
 }
 
@@ -1966,6 +1969,52 @@ as kite Euler angles and position, the results are also compared with a second i
   pages     = {2350--2355},
   address   = {Nice, France},
   date      = {2019-12-11/2019-12-13},
+}
+
+@Article{Dief2020,
+  author       = {Dief, Tarek N. and Fechner, U. and Schmehl, R. Yoshida, S. and Rushdi, Mostafa A.},
+  title        = {Adaptive Flight Path Control of Airborne Wind Energy Systems},
+  year         = {2020},
+  volume       = {13},
+  number       = {3},
+  abstract     = {In this paper, we applied a system identification algorithm and an adaptive controller
+to a simple kite system model to simulate crosswind flight maneuvers for airborne wind energy
+harvesting. The purpose of the system identification algorithm was to handle uncertainties related
+to a fluctuating wind speed and shape deformations of the tethered membrane wing. Using a pole
+placement controller, we determined the required locations of the closed-loop poles and enforced
+them by adapting the control gains in real time. We compared the path-following performance of the
+proposed approach with a classical proportional-integral-derivative (PID) controller using the same
+system model. The capability of the system identification algorithm to recognize sudden changes in
+the dynamic model or the wind conditions, and the ability of the controller to stabilize the system
+in the presence of such changes were confirmed. Furthermore, the system identification algorithm
+was used to determine the parameters of a kite with variable-length tether on the basis of data that
+were recorded during a physical flight test of a 20 kW kite power system. The system identification
+algorithm was executed in real time, and significant changes were observed in the parameters of the
+dynamic model, which strongly affect the resulting response.},
+  doi          = {10.3390/en13030667},
+  journaltitle = {Energies},
+}
+
+@Book{Schmehl2015,
+  title     = {The International Airborne Wind Energy Conference 2015: Book of Abstracts},
+  publisher = {Delft University of Technology},
+  year      = {2015},
+  editor    = {Schmehl, Roland},
+  address   = {Delft, The Netherlands},
+  date      = {2015-06-15/2015-06-16},
+  doi       = {10.4233/uuid:7df59b79-2c6b-4e30-bd58-8454f493bb09},
+  pagetotal = {122},
+}
+
+@Book{Schmehl2019,
+  title     = {The International Airborne Wind Energy Conference 2019: Book of Abstracts},
+  publisher = {University of Strathclyde | Delft University of Technology},
+  year      = {2019},
+  editor    = {Schmehl, Roland and Tulloch, Oliver},
+  address   = {Glasgow, United Kingdom},
+  date      = {2019-10-15/2019-10-16},
+  doi       = {10.4233/uuid:57fd203c-e069-11e9-9fcb-441ea15f7c9c},
+  pagetotal = {164},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
